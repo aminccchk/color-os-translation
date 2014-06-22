@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="advanced">Продвинутые функции</string>
+     <string name="app_name">Калькулятор</string>
+     <string name="basic">Основные функции</string>
+     <string name="clear_all_history">История очищена</string>
+     <string name="clear_history">Очистить историю</string>
+     <string name="error">Ошибка</string>
+     <string name="max_bit_input">Максимальная длина строки 15 знаков.</string>
+</resources>

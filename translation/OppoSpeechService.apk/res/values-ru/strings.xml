@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">语音服务</string>
+     <string name="oppo_service_number_one">oppo官方客服</string>
+</resources>

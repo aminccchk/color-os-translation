@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="about">关于</string>
+     <string name="about_us">关于我们</string>
+     <string name="account">我的火眼</string>
+     <string name="account_label">淘宝</string>
+     <string name="action_settings">Settings</string>
+     <string name="all_support_tip">（支持iPhone和安卓版）</string>
+     <string name="aplipay_invalid">支付包账号格式不合法</string>
+     <string name="app_name">一淘火眼</string>
+     <string name="auto_checkupdate">1</string>
+     <string name="bar_code">商品条码、二维码扫描</string>
+     <string name="bar_code_tip1">扫描条码,查超市网购价格</string>
+     <string name="bar_code_tip2">帮你查网购价、超市价、看参数和点评</string>
+     <string name="bar_scan_tip">条形码.二维码.快递单</string>
+     <string name="bind">绑定分享账号</string>
+     <string name="bindsinaweibo">绑定新浪账号</string>
+     <string name="btn_back_text">返回</string>
+     <string name="butterfly_detail_activity_default_title">活动</string>
+     <string name="butterfly_detail_address_detail_edittext_hint">请填写详细收货地址</string>
+     <string name="butterfly_detail_address_detail_label">详细地址:</string>
+     <string name="butterfly_detail_address_name_edittext_hint">请填写联系人姓名</string>
+     <string name="butterfly_detail_address_name_label">姓名:</string>
+     <string name="butterfly_detail_address_phone_edittext_hint">请填写联系人手机号码</string>
+     <string name="butterfly_detail_address_phone_label">手机号码:</string>
+     <string name="butterfly_detail_address_post_num_edittext_hint">请填写邮政编码</string>
+     <string name="butterfly_detail_address_post_num_label">邮政编码:</string>
+     <string name="butterfly_detail_back">返回</string>
+     <string name="butterfly_detail_btn_activity_detail">活动说明</string>
+     <string name="butterfly_detail_btn_enter_ship_address">填写送货地址</string>
+     <string name="butterfly_detail_btn_go_to_precious_detail">去看看宝贝</string>
+     <string name="butterfly_detail_btn_go_to_shop_detail">去店铺看看</string>
+     <string name="butterfly_detail_btn_keep_catching">收养</string>
+     <string name="butterfly_detail_btn_label_submit_address">提交地址</string>
+     <string name="butterfly_detail_btn_priviledge_intro">特权说明</string>
+     <string name="butterfly_detail_btn_release">放生</string>
+     <string name="butterfly_detail_btn_share">分享</string>
+     <string name="butterfly_detail_btn_share_priviledge">赠送好友火眼卡，一起共享优惠！</string>
+     <string name="butterfly_detail_label_bonus_confirm">%.2f元红包已打入亲的支付宝账号</string>
+     <string name="butterfly_detail_label_bonus_desc">恭喜亲获得%.2f元红包</string>
+     <string name="butterfly_detail_label_collection_desc">恭喜亲已经获得%d个集分宝</string>
+     <string name="butterfly_detail_label_collection_points_confirm">%d个集分宝已打入亲的支付宝账号</string>
+     <string name="butterfly_detail_label_collection_title">%d个集分宝</string>
+     <string name="butterfly_detail_label_coupon_constrain">店铺优惠券，满%.2f元可以使用，请在下单时使用</string>
+     <string name="butterfly_detail_label_coupon_no_constrain">店铺优惠券，无使用限制，请在下单时使用。</string>
+     <string name="butterfly_detail_label_coupon_price_format">%.2f元</string>
+     <string name="butterfly_detail_label_expire_prefix">有效期至</string>
+     <string name="butterfly_detail_label_offline_desc">恭喜亲获得礼品一份</string>
+     <string name="butterfly_detail_label_oriented_coupon_discount_rate_format">%s折</string>
+     <string name="butterfly_detail_label_oriented_coupon_discounted_price">￥%s元</string>
+     <string name="butterfly_detail_label_oriented_coupon_expire">有效期见活动说明</string>
+     <string name="butterfly_detail_label_oriented_coupon_original_price">原价: ￥%s元</string>
+     <string name="butterfly_detail_label_priviledge_activity_title">返利特权</string>
+     <string name="butterfly_detail_label_priviledge_desc">拥有返利特权，扫条码购物，得集分宝，比直接购买省更多。</string>
+     <string name="butterfly_detail_label_priviledge_title">购物返利特权</string>
+     <string name="butterfly_detail_label_submit_confirm">提交成功。奖品将按照以上信息进行寄送，发放规则详见活动说明。</string>
+     <string name="butterfly_detail_personal_btn_make_butterfly">我也要放蝴蝶</string>
+     <string name="butterfly_detail_time_format_china">yyyy年MM月dd日</string>
+     <string name="butterfly_detail_weibo_h5_url_base">http://m.weibo.cn/u/%s?vt=4</string>
+     <string name="butterflymuseum">蝴蝶博物馆</string>
+     <string name="camera_start_failed">摄像头初始化失败！有其他应用占有摄像头，请关闭或重启设备！</string>
+     <string name="cancel">取消</string>
+     <string name="card_comment_count">%1$d条评论</string>
+     <string name="card_copy">复制</string>
+     <string name="card_like">喜欢</string>
+     <string name="card_share">分享</string>
+     <string name="card_title_comments">用户点评</string>
+     <string name="card_title_elseb2b">其他商场</string>
+     <string name="card_title_offline">超市比价</string>
+     <string name="card_title_productdetail">产品详情</string>
+     <string name="card_title_taobao">淘宝</string>
+     <string name="card_title_taobaogou">淘宝便利购</string>
+     <string name="card_title_tmall">天猫</string>
+     <string name="catch_butterfly">抓蝴蝶</string>
+     <string name="catchme">抓蝴蝶激活火眼卡</string>
+     <string name="catchme_max_accelerometer_z_axis">2.3</string>
+     <string name="catchme_max_accelerometer_z_stat">5</string>
+     <string name="checking_update">正在检测新版本</string>
+     <string name="clear_history">全部清除</string>
+     <string name="click_again">再按一次后退键退出程序</string>
+     <string name="cm_activity_list_title">最新活动</string>
+     <string name="cm_button_cancel">取消</string>
+     <string name="cm_button_login">登录</string>
+     <string name="cm_button_ok">确定</string>
+     <string name="cm_deliver_address_loading_default_address">正在载入地址…</string>
+     <string name="cm_deliver_address_mobile_invalid">手机号码不合法</string>
+     <string name="cm_deliver_address_request_failed">信息未能成功发送, 请检查后再试。</string>
+     <string name="cm_deliver_address_request_sending">正在发送</string>
+     <string name="cm_deliver_address_request_successfully">提交成功。奖品将按照以上信息进行寄送，发放规则详见活动说明。</string>
+     <string name="cm_deliver_address_sid_invalid">您的账号已经过期了, 请重新登录</string>
+     <string name="cm_label_no_butterfly">亲，这里没有蝴蝶！</string>
+     <string name="cm_label_no_butterfly_and_try">附近没有你可以抓的蝴蝶，试试放几只自己的蝴蝶吧。</string>
+     <string name="cm_label_no_butterfly_and_try_temp">附近没有你可以抓的蝴蝶，试试放几只自己的蝴蝶吧。</string>
+     <string name="cm_label_no_network">亲, 您的网络有些不给力哦! 请查看您的网络环境再来玩吧</string>
+     <string name="cm_label_request_failed">请求失败！</string>
+     <string name="cm_label_require_to_login">抓蝴蝶要登录淘宝账号才可以玩哦</string>
+     <string name="cm_label_require_to_reload">亲，网络好像不给力，再试试吧！</string>
+     <string name="cm_museum_label_no_data">亲，您还未抓到蝴蝶</string>
+     <string name="cm_museum_label_to_be_catched">神秘蝴蝶，等您来抓</string>
+     <string name="cm_museum_notification_center_delete_msg_confirm_text">确定要清除所有消息吗</string>
+     <string name="cm_museum_notification_center_no_action_message_label_text">暂时还没有蝴蝶消息</string>
+     <string name="cm_museum_notification_center_time_format">MM月dd日 HH:mm</string>
+     <string name="cm_museum_notification_center_title_text">蝴蝶消息</string>
+     <string name="cm_museum_title">博物馆</string>
+     <string name="collected">收藏成功</string>
+     <string name="comment">点评</string>
+     <string name="comment_1">点评</string>
+     <string name="comment_from">来自</string>
+     <string name="confirm">确认</string>
+     <string name="copyed">内容已复制</string>
+     <string name="crashHandlerEnabled">1</string>
+     <string name="default_account_name">我的主账号</string>
+     <string name="delete">删除</string>
+     <string name="downloadFileFailed">加载失败</string>
+     <string name="express_code_type0">该运单存在多个快递公司</string>
+     <string name="express_code_type1">运单号</string>
+     <string name="express_info">快递信息</string>
+     <string name="express_no">快递单号</string>
+     <string name="fav_tip">你喜欢过的
+都将出现在这里</string>
+     <string name="favorite">我喜欢的</string>
+     <string name="feedback">问题反馈</string>
+     <string name="feedback_image_upload_failed">提交失败，重新登录后再试试吧</string>
+     <string name="feedback_login_request">亲还没有登录，请登录后再提交</string>
+     <string name="feedback_type_camera">拍照提交不能识别的码</string>
+     <string name="feedback_type_normal">反馈其他问题</string>
+     <string name="find_new_version">检查到新版本:%1$s</string>
+     <string name="fly_activity_btn_activity">最新活动</string>
+     <string name="fly_activity_btn_museum">博物馆</string>
+     <string name="fly_activity_btn_personal_butterfly">放蝴蝶</string>
+     <string name="fly_activity_catch_banner_label">点击框内蝴蝶</string>
+     <string name="fly_activity_label_catch_prompt">对准蝴蝶，摇动手机</string>
+     <string name="fly_activity_label_catch_unsuccessfully">差一点就抓住啦…再试试吧!</string>
+     <string name="fly_activity_label_discover_butterfly">移动手机，寻找身边的蝴蝶</string>
+     <string name="fly_activity_label_lottery_marquee">蝴蝶挣扎中</string>
+     <string name="fly_activity_label_searching">正在寻找</string>
+     <string name="fly_butterfly_literal_bind_success">绑定成功</string>
+     <string name="fly_butterfly_literal_butterfly_name_format">的蝴蝶</string>
+     <string name="fly_butterfly_literal_fly_failed">放飞失败，请重试。</string>
+     <string name="fly_butterfly_literal_login_success">登录成功</string>
+     <string name="fly_butterfly_literal_start">开始</string>
+     <string name="fly_edit_hint">写点什么，让蝴蝶帮你捎句话吧.</string>
+     <string name="fly_fail_io">网络异常</string>
+     <string name="fly_fly_success">噗哧噗哧，你放飞了%d只蝴蝶，有些蝴蝶很调皮可能会飞到更远的地方。</string>
+     <string name="fly_flybutters">放飞</string>
+     <string name="fly_getsina_io">获取sina微博失败</string>
+     <string name="fly_nav_setproterties_flynum">蝴蝶数量：%d只</string>
+     <string name="fly_nav_setproterties_region">%s米</string>
+     <string name="fly_nav_setproterties_region_1">%s千米</string>
+     <string name="fly_nav_setproterties_t_end">结束时间：%s</string>
+     <string name="fly_nav_setproterties_t_end_default">七天后</string>
+     <string name="fly_nav_setproterties_t_format_client">MM月dd日 HH:mm</string>
+     <string name="fly_nav_setproterties_t_format_server">yyyy-MM-dd HH:mm:ss</string>
+     <string name="fly_nav_setproterties_t_start">生效时间：%s</string>
+     <string name="fly_nav_setproterties_t_start_default">立即生效</string>
+     <string name="fly_nav_setproterties_title">设置蝴蝶属性</string>
+     <string name="fly_nav_setproterties_toast_flyservererror">服务器异常，放飞失败</string>
+     <string name="fly_nav_setproterties_toast_flysuccess">放飞成功</string>
+     <string name="fly_nav_setproterties_toast_makeflys">请先制作您自己的蝴蝶</string>
+     <string name="fly_nav_setproterties_toast_makeflys_error">飞不动啊，你总得给我设个头像，再留句话吧。</string>
+     <string name="fly_nav_setproterties_toast_sat_some">请先写点什么</string>
+     <string name="fly_nav_setproterties_toast_setproperties">请先设置蝴蝶属性</string>
+     <string name="fly_nav_title">放蝴蝶</string>
+     <string name="fly_nomore_flys">别心急，让蝴蝶飞一会。等它们寿命结束或被抓完了再来放新的蝴蝶吧。</string>
+     <string name="fly_rest_cnt">还能再设计%d只蝴蝶</string>
+     <string name="fly_share_content">这个好玩，我用一淘火眼放了只蝴蝶在这里。你来抓一下。下载猛戳 http://m.taobao.com/channel/act/etao/huoyan.html</string>
+     <string name="fly_share_txt1">通过一淘火眼%s</string>
+     <string name="fly_share_txt2">放飞</string>
+     <string name="fly_txt_properties" formatted="false">蝴蝶数量：%s  活动范围:%s  %s  %s结束</string>
+     <string name="follow_wecat">关注官方微信</string>
+     <string name="follow_weibo">关注官方新浪微博</string>
+     <string name="full_mark">(满分5.0)</string>
+     <string name="go_to_tao_search">尚未找到精确结果
+点击前往淘宝网搜索</string>
+     <string name="gps_security_tip"></string>
+     <string name="h5">h5</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="history">历史记录</string>
+     <string name="history_complete">完成</string>
+     <string name="history_edit">编辑</string>
+     <string name="history_tip">我是你的历史记录
+收集你的每双脚印</string>
+     <string name="home_drawitem_poster">影院海报.杂志</string>
+     <string name="huoyan_login_login">登录</string>
+     <string name="huoyan_login_pwd_tip">密码</string>
+     <string name="huoyan_login_reg">免费注册</string>
+     <string name="huoyan_login_tips">登陆火眼享受以上特权</string>
+     <string name="huoyan_login_user_tip">淘宝网账号</string>
+     <string name="if_will_update">是否更新？</string>
+     <string name="image_save_failed">保存失败</string>
+     <string name="image_save_success">成功保存图片到(%1$s)</string>
+     <string name="install_shortcut_confirm">为了方便你下次扫描时能快速打开一淘火眼，是否在桌面为你创建快捷方式入口？</string>
+     <string name="isDebuggable">0</string>
+     <string name="isKillProcessOnExit">0</string>
+     <string name="is_lastest">没有新版本</string>
+     <string name="isbackgroudpush">1</string>
+     <string name="isprintlog">0</string>
+     <string name="join_huoyan">进入火眼</string>
+     <string name="later">稍后再说</string>
+     <string name="latest_activity">最新活动</string>
+     <string name="link_share_title">分享了一个网页</string>
+     <string name="loading">加载中..</string>
+     <string name="local_decode_failed">未在图片中识别到二维码</string>
+     <string name="login">登录</string>
+     <string name="login_activity_title">我的火眼</string>
+     <string name="login_authcode_tip">为了您的账号安全，请输入验证码:</string>
+     <string name="login_btn_login">登录</string>
+     <string name="login_btn_register">免费注册</string>
+     <string name="login_fail">服务请求失败，点击重新扫码</string>
+     <string name="login_input_authcode">输入验证码:</string>
+     <string name="login_passwd">输入您的密码</string>
+     <string name="login_username">输入您的淘宝网账号</string>
+     <string name="login_username_password_warning">用户名和密码不能为空</string>
+     <string name="logo_scan_auto_size">1</string>
+     <string name="logout">注销</string>
+     <string name="map_gps_not_open">室外建议开启GPS，是否开启？</string>
+     <string name="map_locating">正在定位</string>
+     <string name="map_no_result">在您附近未发现有“%1$s”</string>
+     <string name="map_no_result_distance">在您附近%1$d公里内未发现有“%2$s”</string>
+     <string name="map_searching">正在您附近%1$d公里内查找“%2$s”</string>
+     <string name="map_searching_result">在您附近%1$d公里内找到“%2$s”</string>
+     <string name="map_tip">超市价格每天变动频繁,非实时更新,仅供参考.</string>
+     <string name="marker_count">条评论</string>
+     <string name="market">null</string>
+     <string name="mobile_register_tip">中国大陆手机用户编辑短信</string>
+     <string name="mobile_register_tip2">“TB”发送至：1069099988</string>
+     <string name="more_comment">获取更多评论</string>
+     <string name="my_fav">我的收藏</string>
+     <string name="my_history">历史记录</string>
+     <string name="myhuoyan">我的火眼</string>
+     <string name="name_version">一淘火眼%s</string>
+     <string name="net_error">网络异常</string>
+     <string name="new_version">新版本</string>
+     <string name="no">否</string>
+     <string name="not_login">未登录</string>
+     <string name="offline">超市比价</string>
+     <string name="offline_price">超市价</string>
+     <string name="ok">确定</string>
+     <string name="online">网购精选</string>
+     <string name="online_price">网购价</string>
+     <string name="open_pcweb">打开电脑版宝贝详情</string>
+     <string name="orderdetail_confirm">确认收货</string>
+     <string name="orderdetail_evaluate">评价</string>
+     <string name="orderdetail_select">选择 (x/X)</string>
+     <string name="orderdetail_share">分享</string>
+     <string name="orderdetail_total">共 x 件商品</string>
+     <string name="pc_login">登陆电脑版淘宝</string>
+     <string name="pc_login_error">二维码已失效</string>
+     <string name="pc_login_nick">您即将使用账户 :%s</string>
+     <string name="pc_login_sign">请确认是否本人登陆</string>
+     <string name="permission_group_taobao_account">淘宝账号</string>
+     <string name="permission_group_taobao_account_desc">您的淘宝账号</string>
+     <string name="permission_update_taobao_account_credentials">更新您的淘宝账号登录信息</string>
+     <string name="permission_update_taobao_account_credentials_desc">更新您在此设备上保存的淘宝账号登录信息</string>
+     <string name="permission_use_taobao_account_credentials">使用您的淘宝账号登录信息</string>
+     <string name="permission_use_taobao_account_credentials_desc">使用您在此设备上保存的淘宝账号登录信息</string>
+     <string name="pieces">多件装</string>
+     <string name="please_choise">请选择:</string>
+     <string name="point">给火眼评价一下</string>
+     <string name="poster">海报识别</string>
+     <string name="poster_tip">影院海报</string>
+     <string name="poster_tip1">识别电影海报,合作广告广告点</string>
+     <string name="poster_tip2">立即看预告片、买打折电影票</string>
+     <string name="pref_about">关于</string>
+     <string name="pref_item1">账户安全保护</string>
+     <string name="pref_item2">隐私权</string>
+     <string name="pref_value1">您的淘宝账户已受安全账户机制保护。</string>
+     <string name="pref_value2">淘宝账户不会同步您的隐私信息</string>
+     <string name="pref_version">账号版本</string>
+     <string name="privilege_act_tips">激活火眼卡,可享受以下优惠:</string>
+     <string name="privilege_back">返回</string>
+     <string name="privilege_catch_me">每天中午12点开始<br><font color=#007900>%1$d</font>只火眼蝴蝶等你来抓，还剩<font color=#007900>%2$d</font>只</string>
+     <string name="privilege_exit">退出</string>
+     <string name="privilege_login_tips">登陆淘宝账号,抢火眼卡,享受以下优惠:</string>
+     <string name="produceinfo">产品参数</string>
+     <string name="propertes">参数</string>
+     <string name="qr_alipay">支付宝网址</string>
+     <string name="qr_internet">网址内容</string>
+     <string name="qr_no_price">暂无价格信息</string>
+     <string name="qr_taobao">淘宝网网址</string>
+     <string name="qr_text">文本内容</string>
+     <string name="qr_tmall">天猫网网址</string>
+     <string name="quan_get_failed">优惠券领取失败!</string>
+     <string name="rebate_tolook">去看看</string>
+     <string name="recommand">推荐给朋友</string>
+     <string name="restart">重新扫瞄</string>
+     <string name="rmb">趣玩人民币识别</string>
+     <string name="rmb_tip1">小游戏:用一张人民币识别你的网络身份</string>
+     <string name="rmb_tip2">立即看预告片、买打折电影票</string>
+     <string name="sales">销量%1$d笔</string>
+     <string name="save">省%1$s元</string>
+     <string name="scan_and_download">扫描二维码下载一淘火眼</string>
+     <string name="sdcard_space_not_enough">SD卡可用空间不足，无法保存</string>
+     <string name="sdcard_unmount">SD卡不可用，无法保存</string>
+     <string name="search">搜索</string>
+     <string name="server_error">服务器错误</string>
+     <string name="share_fail">分享失败</string>
+     <string name="share_sina_bind">绑定sina微博</string>
+     <string name="share_sina_fail">分享到新浪微博失败</string>
+     <string name="share_sina_fail_authfail">认证失败</string>
+     <string name="share_sina_fail_io">网络异常</string>
+     <string name="share_sina_fail_normal">分享到新浪微博失败</string>
+     <string name="share_sina_fail_repeat">不允许重复提交数据</string>
+     <string name="share_sina_hint_putcontent">请输入分享内容</string>
+     <string name="share_sina_success">成功分享到新浪微博</string>
+     <string name="sharing_global_qrSize">80</string>
+     <string name="sharing_global_sdReposFolderName">sharing_imgs</string>
+     <string name="sharing_jpegQualityValue">85</string>
+     <string name="sharing_stickImgBottomSrc">sharing_stick_bottom.png</string>
+     <string name="sharing_stickImgHeightPx">440</string>
+     <string name="sharing_stickImgTitleSrc">sharing_stick_top.png</string>
+     <string name="sharing_stickImgWidthPx">440</string>
+     <string name="sso_version_code_key">com.taobao.android.sso.Version</string>
+     <string name="start_new">开始体验新版</string>
+     <string name="str_actionsheet_shareselector_contact">通讯录</string>
+     <string name="str_actionsheet_shareselector_title">分享到</string>
+     <string name="str_actionsheet_shareselector_wechat1">微信好友</string>
+     <string name="str_actionsheet_shareselector_wechat2">朋友圈</string>
+     <string name="str_actionsheet_shareselector_weibo">微博</string>
+     <string name="str_catchme_api_CatchButterfly">mtop.etao.butterfly.catch</string>
+     <string name="str_catchme_api_CatchPersonalButterfly">mtop.msp.butterfly.catchPrivate</string>
+     <string name="str_catchme_api_CommitContact">mtop.msp.butterfly.commitAwardContactInfo</string>
+     <string name="str_catchme_api_GeneratePersonalButterfly">mtop.msp.butterfly.genPrivate</string>
+     <string name="str_catchme_api_Get3DButterflies">mtop.msp.butterfly.getButterflyCatchInfo</string>
+     <string name="str_catchme_api_GetActivityInfo">mtop.msp.butterfly.getActivityInfo</string>
+     <string name="str_catchme_api_GetActivityViaId">mtop.msp.butterfly.getActivityInfoById</string>
+     <string name="str_catchme_api_GetButterflyCatchInfoWithActivityID">mtop.msp.butterfly.getButterflyInfoByActivity</string>
+     <string name="str_catchme_api_GetDefaultAddress">com.taobao.mtop.deliver.getAddressList</string>
+     <string name="str_catchme_api_GetItemDetail">mtop.wdetail.getItemDetail</string>
+     <string name="str_catchme_api_GetLeavingMessage">mtop.msp.butterfly.getLeavingMsg</string>
+     <string name="str_catchme_api_GetPersonalButterflies">mtop.msp.butterfly.checkPrivate</string>
+     <string name="str_catchme_api_GetPersonalButterflyActionByID">mtop.msp.butterfly.checkActsByBid</string>
+     <string name="str_catchme_api_GetPersonalButterflyActionList">mtop.msp.butterfly.checkActs</string>
+     <string name="str_catchme_api_GetPersonalButterflyActionListNum">mtop.msp.butterfly.getUnreadMsgNum</string>
+     <string name="str_catchme_api_GetPersonalButterflyInfo">mtop.msp.butterfly.getCatchDetail</string>
+     <string name="str_catchme_api_GetPersonalCatchLog">mtop.msp.butterfly.getCatchLog</string>
+     <string name="str_catchme_api_GetServerTime">mtop.etao.kaka.common.gettime</string>
+     <string name="str_catchme_api_GetShopBonus">mtop.shop.applyShopbonus</string>
+     <string name="str_catchme_api_GetUnreadMessage">mtop.msp.butterfly.getUnreadMsg</string>
+     <string name="str_catchme_api_GetUnreadMessageNum">mtop.msp.butterfly.getUnreadMsgNum</string>
+     <string name="str_catchme_api_GiveButterfly">mtop.etao.butterfly.give</string>
+     <string name="str_catchme_api_LuckyDrawButterfly">mtop.msp.butterfly.luckDrawButterfly</string>
+     <string name="str_catchme_api_PutLeavingMessage">mtop.msp.butterfly.putLeavingMsg</string>
+     <string name="str_catchme_api_ReduceQuantity">mtop.msp.butterfly.reduceBufferQuantity</string>
+     <string name="str_catchme_api_ReleasePersonalButterfly">mtop.msp.butterfly.release</string>
+     <string name="str_catchme_api_ThrowButterfly">mtop.etao.butterfly.throw</string>
+     <string name="str_catchme_bizlogic_AddAccount_cmd">replace into cm2account (uid, account, nick) values(%1$d,'%2$s','%3$s')</string>
+     <string name="str_catchme_bizlogic_AddActivity_cmd">replace into cm2activity ( aid, name, detail_wap_url, start_date, expired_date, butterfly_quantity, butterfly_list_str) values( %1$d, '%2$s', '%3$s', '%4$s', '%5$s', %6$d, '%7$s')</string>
+     <string name="str_catchme_bizlogic_AddButterfly_cmd">replace into cm2butterfly ( bid, aid, name, uri1, uri2, uri3, type, shop_coupon_id, shop_seller_id, luckydraw_id, kaka_privilege_id, start_date, expired_date, slot_idx, catched_date, catched_counter, throwable) values ( %1$d, %2$d, '%3$s', '%4$s', '%5$s', '%6$s', %7$d, '%8$s', '%9$s', '%10$s', '%11$s', '%12$s', '%13$s', %14$d, '%15$s', %16$d, %17$d)</string>
+     <string name="str_catchme_bizlogic_AddCatchAction_cmd">replace into cm2catchaction ( uid, action_account, action_behavior, action_date, action_distance, action_butterflyid, action_butterfly_title, action_butterfly_image_url) values ( %1$d, '%2$s', '%3$s', '%4$s', '%5$s', '%6$s', '%7$s', '%8$s')</string>
+     <string name="str_catchme_bizlogic_AddLottery_Base_cmd">insert into cm2lottery ( lid, global_lid, uid, bid, type, start_date, expired_date, logo_uri, banner_uri, wap_url,</string>
+     <string name="str_catchme_bizlogic_AddLottery_Bonus_cmd">bonus_amount) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s',%11$.2f)</string>
+     <string name="str_catchme_bizlogic_AddLottery_CollectionPoints_cmd">collection_points_amount) values (%1$s, '%2$s', %3$d, %4$d, %5$d, '%6$s', '%7$s', '%8$s', '%9$s', '%10$s', %11$d)</string>
+     <string name="str_catchme_bizlogic_AddLottery_Joke_cmd">joke_title, joke_content) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s','%12$s')</string>
+     <string name="str_catchme_bizlogic_AddLottery_KakaPrivilege_cmd">kaka_name, kaka_desc) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s','%12$s')</string>
+     <string name="str_catchme_bizlogic_AddLottery_Offline_cmd">offline_token, offline_submit_status) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s',%12$d)</string>
+     <string name="str_catchme_bizlogic_AddLottery_Oriented_cmd">oriented_item_id, oriented_name, oriented_price, oriented_rate, oriented_oprice, oriented_status, oriented_preview_uri, oriented_seller_id, oriented_seller_nick, oriented_price_str, oriented_oprice_str) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s','%12$s', %13$.2f,%14$.2f,%15$.2f,'%16$s','%17$s','%18$s','%19$s','%20$s','%21$s')</string>
+     <string name="str_catchme_bizlogic_AddLottery_Personal_cmd">personal_content, personal_photo_url, personal_weibo_account, personal_distance, latitude, longitude, catcher_id, catcher_account, owner_id, owner_account, store_name, store_addr, store_phone) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s','%12$s', '%13$s', '%14$s', %15$f, %16$f, %17$d, '%18$s', %19$d, '%20$s', '%21$s', '%22$s', '%23$s')</string>
+     <string name="str_catchme_bizlogic_AddLottery_Shop_cmd">shop_seller_id, shop_seller_nick, shop_name, shop_discount, shop_discount_condition) values(%1$s, '%2$s',%3$d,%4$d,%5$d,'%6$s','%7$s','%8$s','%9$s','%10$s','%11$s','%12$s','%13$s', %14$.2f,%15$.2f)</string>
+     <string name="str_catchme_bizlogic_AddLottery_cmd">replace into cm2lottery ( lid, global_lid, uid, bid, type, start_date, expired_date, logo_uri, banner_uri, wap_url,</string>
+     <string name="str_catchme_bizlogic_AddPersonalButterfly_cmd">replace into cm2personalbutterfly ( bid, aid, lid, name, uri1, uri2, uri3, type, shop_coupon_id, shop_seller_id, luckydraw_id, kaka_privilege_id, start_date, expired_date, slot_idx, catched_date, catched_counter, throwable) values ( %1$d, %2$d, %3$d, '%4$s', '%5$s', '%6$s', '%7$s', %8$d, '%9$s', '%10$s', '%11$s', '%12$s', '%13$s', '%14$s', %15$d, '%16$s', %17$d, %18$d)</string>
+     <string name="str_catchme_bizlogic_DeleteActivityByAid_cmd">delete from cm2activity where aid=%1$d</string>
+     <string name="str_catchme_bizlogic_DeleteButterflyByBid_cmd">delete from cm2butterfly where bid=%1$d</string>
+     <string name="str_catchme_bizlogic_DeleteCatchAction_cmd">delete from cm2catchaction where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_DeleteLotteryById_cmd">delete from cm2lottery where lid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetAccountIdByAccount_cmd">select a.uid from cm2account as a where a.account='%1$s'</string>
+     <string name="str_catchme_bizlogic_GetAccountLastPersonalButterflyActionRequestTime_cmd">select last_personal_butterfly_action_request_time from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetAccountPersonalButterflyAid_cmd">select personal_butterfly_aid from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetAccountPersonalButterflyCountByUid">select personal_butterfly_count from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetActivityModelsByAccountId_cmd">select * from cm2activity as a where a.aid in ( select distinct(b.aid) from cm2butterfly as b where b.bid in ( select distinct(l.bid) from cm2lottery as l where l.uid=%1$d))</string>
+     <string name="str_catchme_bizlogic_GetButterflyModelsByAccountAndActivityId">select * from cm2butterfly as b where (b.bid in ( select distinct(l.bid) from cm2lottery as l where l.uid=%1$d)) and b.aid=%2$d</string>
+     <string name="str_catchme_bizlogic_GetCatchActionList_cmd">select * from cm2catchaction as a where a.uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetCatchedCounter_cmd">select b.catched_counter from cm2butterfly as b where b.bid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetLotteryModelsByAccountIdAndButterflyId">select * from cm2lottery as l where l.uid=%1$d and l.bid=%2$d</string>
+     <string name="str_catchme_bizlogic_GetMuseumDataUpdatedFlag">select museum_data_updated from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetNeverFlyPersonal">select never_fly_personal from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetPOIModelsByActivityId_cmd">select * from cm2poi as p where p.aid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetPersoanlButterflyModelsByAccountAndActivityId">select * from cm2personalbutterfly as b where (b.lid in ( select distinct(l.lid) from cm2lottery as l where l.uid=%1$d)) and b.aid=%2$d</string>
+     <string name="str_catchme_bizlogic_GetPersonalButterflyActivityByAid">select * from cm2activity where aid=%1$d</string>
+     <string name="str_catchme_bizlogic_GetSelectedButterflyType">select butterfly_type from cm2account where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_UpdateAccountLastPersonalButterflyActionRequestTime_cmd">update cm2account set last_personal_butterfly_action_request_time='%1$s' where uid=%2$d</string>
+     <string name="str_catchme_bizlogic_UpdateAccountPersonalButterflyAid_cmd">update cm2account set personal_butterfly_aid=%1$d where uid=%2$d</string>
+     <string name="str_catchme_bizlogic_UpdateAccountPersonalButterflyCount">update cm2account set personal_butterfly_count=%1$d where uid=%2$d</string>
+     <string name="str_catchme_bizlogic_UpdateActivityButterflyCount">update cm2activity set butterfly_quantity=%1$d where aid=%2$d</string>
+     <string name="str_catchme_bizlogic_UpdateLocalPersonalButterflyInfo">update cm2lottery set owner_id=%1$d, owner_account='%2$s', catcher_id=%3$d, catcher_account='%4$s' where uid=%5$d and bid=%6$d</string>
+     <string name="str_catchme_bizlogic_UpdateMuseumDataUpdatedFlag">update cm2account set museum_data_updated=1 where uid=%1$d</string>
+     <string name="str_catchme_bizlogic_UpdateNeverFlyPersonal">update cm2account set never_fly_personal=%1$d where uid=%2$d</string>
+     <string name="str_catchme_bizlogic_UpdateOfflineSubmitStatus_cmd">update cm2lottery set offline_submit_status=1 where lid=%1$s</string>
+     <string name="str_catchme_bizlogic_UpdateSelectedButterflyType">update cm2account set butterfly_type=%1$d where uid=%2$d</string>
+     <string name="str_catchme_day">天</string>
+     <string name="str_catchme_deliver_address_error_info_1">请填写收货人姓名</string>
+     <string name="str_catchme_deliver_address_error_info_2">请填写您的联系方式</string>
+     <string name="str_catchme_deliver_address_error_info_3">请填写邮政编码</string>
+     <string name="str_catchme_deliver_address_error_info_4">请填写您的详细地址</string>
+     <string name="str_catchme_deliver_address_error_info_5">联系电话出错啦，请查证后重新发送</string>
+     <string name="str_catchme_deliver_address_error_info_6">邮政编码出错啦，请查证后重新发送</string>
+     <string name="str_catchme_fly_activity_btn_change_back">切换</string>
+     <string name="str_catchme_fly_activity_btn_picker">筛选</string>
+     <string name="str_catchme_fly_activity_btn_picker_others">筛选(优惠)</string>
+     <string name="str_catchme_fly_activity_btn_picker_personal">筛选(个人)</string>
+     <string name="str_catchme_fly_activity_butterfly_picker_btn_others">抓优惠蝴蝶</string>
+     <string name="str_catchme_fly_activity_butterfly_picker_btn_personal">抓个人蝴蝶</string>
+     <string name="str_catchme_fly_activity_cancel_activity_based_butterfly_confirm">是否离开当前的专场蝴蝶切换到抓其他类型蝴蝶？</string>
+     <string name="str_catchme_hour">小时</string>
+     <string name="str_catchme_literal_personal_butterfly_activity_name">附近的蝴蝶</string>
+     <string name="str_catchme_literal_personal_butterfly_keep_catch_confirm_text">已收养到博物馆</string>
+     <string name="str_catchme_literal_personal_butterfly_release_confirm_text">轻轻地我走了，正如我轻轻的来</string>
+     <string name="str_catchme_literal_personal_butterfly_release_failed">竟然放生失败了…</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_butterfly_type_cmd">ALTER TABLE cm2account ADD butterfly_type INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_lastPersonalButterflyActionRequestTime_cmd">ALTER TABLE cm2account ADD last_personal_butterfly_action_request_time TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_museum_data_updated">ALTER TABLE cm2account ADD museum_data_updated INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_never_fly_personal">ALTER TABLE cm2account ADD never_fly_personal INTEGER DEFAULT 1;</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_personalButterflyAid_cmd">ALTER TABLE cm2account ADD personal_butterfly_aid INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2account_addNewColumn_personalButterflyCount_cmd">ALTER TABLE cm2account ADD personal_butterfly_count INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2account_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2account ( uid INTEGER PRIMARY KEY NOT NULL, account TEXT NOT NULL, nick TEXT, update_token REAL, update_token_str TEXT)</string>
+     <string name="str_catchme_localpersistence_cm2activity_addNewColumn_butterfly_list_str_cmd">ALTER TABLE cm2activity ADD butterfly_list_str TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2activity_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2activity ( aid INTEGER PRIMARY KEY NOT NULL UNIQUE, name TEXT NOT NULL, desc TEXT, detail_wap_url TEXT, start_date TEXT, expired_date TEXT, logo_uri TEXT, butterfly_quantity INTEGER DEFAULT 0, is_loc_constraints INTEGER DEFAULT 0)</string>
+     <string name="str_catchme_localpersistence_cm2butterfly_addNewColumn_catch_date_cmd">ALTER TABLE cm2butterfly ADD catch_date TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2butterfly_addNewColumn_create_date_cmd">ALTER TABLE cm2butterfly ADD create_date TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2butterfly_addNewColumn_throwable_cmd">ALTER TABLE cm2butterfly ADD throwable INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2butterfly_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2butterfly ( bid INTEGER PRIMARY KEY NOT NULL UNIQUE, aid INTEGER DEFAULT 0, name TEXT NOT NULL, uri1 TEXT, uri2 TEXT, uri3 TEXT, type INTEGER DEFAULT 0, shop_coupon_id TEXT, shop_seller_id TEXT, luckydraw_id TEXT, kaka_privilege_id TEXT, start_date TEXT, expired_date TEXT, slot_idx INTEGER DEFAULT 0, catched_date TEXT, catched_counter INTEGER, kaka_timeinterval REAL DEFAULT 0, kaka_sdate TEXT, kaka_totalqt INTEGER DEFAULT 0, kaka_leftqt INTEGER DEFAULT 0)</string>
+     <string name="str_catchme_localpersistence_cm2catchaction_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2catchaction ( action_id INTEGER PRIMARY KEY AUTOINCREMENT, uid INTEGER DEFAULT 0, action_account TEXT, action_behavior TEXT, action_date TEXT, action_distance TEXT, action_butterflyid TEXT, action_butterfly_title TEXT, action_butterfly_image_url TEXT)</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_catcher_account_cmd">ALTER TABLE cm2lottery ADD catcher_account TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_catcher_id_cmd">ALTER TABLE cm2lottery ADD catcher_id INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_collection_points_amount_cmd">ALTER TABLE cm2lottery ADD collection_points_amount INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_latitude_cmd">ALTER TABLE cm2lottery ADD latitude REAL DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_longitude_cmd">ALTER TABLE cm2lottery ADD longitude REAL DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_oriented_oprice_str_cmd">ALTER TABLE cm2lottery ADD oriented_oprice_str TEXT DEFAULT '0';</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_oriented_price_str_cmd">ALTER TABLE cm2lottery ADD oriented_price_str TEXT DEFAULT '0';</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_owner_account_cmd">ALTER TABLE cm2lottery ADD owner_account TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_owner_id_cmd">ALTER TABLE cm2lottery ADD owner_id INTEGER DEFAULT 0;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_personalContent_cmd">ALTER TABLE cm2lottery ADD personal_content TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_personalDistance_cmd">ALTER TABLE cm2lottery ADD personal_distance TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_personalPhotoUrl_cmd">ALTER TABLE cm2lottery ADD personal_photo_url TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_personalWeiboAccount_cmd">ALTER TABLE cm2lottery ADD personal_weibo_account TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_store_addr_cmd">ALTER TABLE cm2lottery ADD store_addr TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_store_name_cmd">ALTER TABLE cm2lottery ADD store_name TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_addNewColumn_store_phone_cmd">ALTER TABLE cm2lottery ADD store_phone TEXT;</string>
+     <string name="str_catchme_localpersistence_cm2lottery_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2lottery ( lid INTEGER PRIMARY KEY NOT NULL, global_lid TEXT DEFAULT 0, uid INTEGER DEFAULT 0, bid INTEGER DEFAULT 0, type INTEGER DEFAULT 0, start_date TEXT, expired_date TEXT, logo_uri TEXT, banner_uri TEXT, wap_url TEXT, bonus_amount REAL DEFAULT 0, joke_title TEXT, joke_content TEXT, kaka_name TEXT, kaka_desc TEXT, offline_token TEXT, offline_submit_status INTEGER DEFAULT 0, shop_seller_id TEXT, shop_seller_nick TEXT, shop_name TEXT, shop_discount REAL DEFAULT 0, shop_discount_condition REAL DEFAULT 0, oriented_item_id TEXT, oriented_name TEXT, oriented_price REAL DEFAULT 0, oriented_rate REAL DEFAULT 1, oriented_oprice REAL DEFAULT 0, oriented_status TEXT, oriented_preview_uri TEXT, oriented_seller_id TEXT, oriented_seller_nick TEXT)</string>
+     <string name="str_catchme_localpersistence_cm2metadata_create_cmd">CREATE TABLE IF NOT EXISTS cm2metadata ( id INTEGER PRIMARY KEY AUTOINCREMENT, key TEXT NOT NULL, intvalue INTEGER DEFAULT 0, txtvalue TEXT, realvalue REAL)</string>
+     <string name="str_catchme_localpersistence_cm2personalbutterfly_addNewColumn_throwable_cmd">ALTER TABLE cm2personalbutterfly ADD throwable INTEGER DEFAULT 1;</string>
+     <string name="str_catchme_localpersistence_cm2personalbutterfly_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2personalbutterfly ( bid INTEGER NOT NULL DEFAULT 0, aid INTEGER DEFAULT 0, lid INTEGER PRIMARY KEY NOT NULL UNIQUE, name TEXT NOT NULL, uri1 TEXT, uri2 TEXT, uri3 TEXT, type INTEGER DEFAULT 0, shop_coupon_id TEXT, shop_seller_id TEXT, luckydraw_id TEXT, kaka_privilege_id TEXT, start_date TEXT, expired_date TEXT, slot_idx INTEGER DEFAULT 0, catched_date TEXT, catched_counter INTEGER, kaka_timeinterval REAL DEFAULT 0, kaka_sdate TEXT, kaka_totalqt INTEGER DEFAULT 0, kaka_leftqt INTEGER DEFAULT 0)</string>
+     <string name="str_catchme_localpersistence_cm2poi_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2poi ( pid INTEGER PRIMARY KEY AUTOINCREMENT, global_pid TEXT, aid INTEGER DEFAULT 0, lng REAL DEFAULT 0, lat REAL DEFAULT 0, radius REAL DEFAULT 0, title TEXT, desc1 TEXT, desc2 TEXT, wap_url TEXT, logo_uri TEXT)</string>
+     <string name="str_catchme_localpersistence_current_version_number">6</string>
+     <string name="str_catchme_localpersistence_db_name">cmlocalpersistence</string>
+     <string name="str_catchme_me">我</string>
+     <string name="str_catchme_memocache_max_size_str">10</string>
+     <string name="str_catchme_minute">分钟</string>
+     <string name="str_catchme_month">个月</string>
+     <string name="str_catchme_msg_bizlogic_AddMessage_cmd">replace into cm2personalmsg ( msg_type, bid, uid_butterfly_creator, uid_login, uid_msg_from, username_login, username_msg_from, butterfly_image_url, butterfly_distance, msg_time, msg_content) values ('%1$s', %2$d, %3$d, %4$d, %5$d, '%6$s', '%7$s', '%8$s', '%9$s', '%10$s', '%11$s')</string>
+     <string name="str_catchme_msg_bizlogic_GetMessage_cmd">select msg_id, msg_type, bid, uid_butterfly_creator, uid_login, uid_msg_from, username_login, username_msg_from, butterfly_image_url, butterfly_distance, msg_time, msg_content from cm2personalmsg order by msg_time desc, msg_id desc</string>
+     <string name="str_catchme_msg_bizlogic_deleteAllMessage_cmd">delete from cm2personalmsg</string>
+     <string name="str_catchme_msg_bizlogic_deleteMessage_cmd">delete from cm2personalmsg where msg_id = (%1$d)</string>
+     <string name="str_catchme_msg_localpersistence_cm2personalmsg_table_create_cmd">CREATE TABLE IF NOT EXISTS cm2personalmsg ( msg_id INTEGER PRIMARY KEY AUTOINCREMENT, msg_type TEXT, bid INTEGER NOT NULL DEFAULT 0, uid_butterfly_creator INTEGER NOT NULL DEFAULT 0, uid_login INTEGER NOT NULL DEFAULT 0, uid_msg_from INTEGER NOT NULL DEFAULT 0, username_login TEXT, username_msg_from TEXT, butterfly_name TEXT, butterfly_image_url TEXT, butterfly_distance TEXT, msg_time TEXT, msg_content TEXT, CONSTRAINT msg_unique_key UNIQUE (bid, uid_login, uid_msg_from, msg_time))</string>
+     <string name="str_catchme_msg_localpersistence_cm2personalmsg_table_index_create_cmd">CREATE INDEX msg_time_index ON cm2personalmsg (msg_time)</string>
+     <string name="str_catchme_msg_localpersistence_current_version_number">1</string>
+     <string name="str_catchme_msg_localpersistence_db_name_prefix">cmmsgdb_</string>
+     <string name="str_catchme_museum_data_update_error">数据库更新出错啦，一会儿再试试吧…</string>
+     <string name="str_catchme_museum_data_update_finished">数据库更新已完成</string>
+     <string name="str_catchme_museum_data_update_in_progress">数据库正在更新，请稍等…</string>
+     <string name="str_catchme_persistencecache_sdcard_uri_prefix">catchme</string>
+     <string name="str_catchme_persistencecache_uri_prefix">/sdcard/com.etao.kaka/.catchme/</string>
+     <string name="str_catchme_personal_butterfly_adoption_date_format">%1$s %2$d%3$s前收养了该蝴蝶</string>
+     <string name="str_catchme_personal_butterfly_adoption_date_format_acture">%1$s %2$s收养了该蝴蝶</string>
+     <string name="str_catchme_personal_butterfly_adoption_date_me">我刚刚收养了该蝴蝶</string>
+     <string name="str_catchme_personal_butterfly_create_date_format">%1$d%2$s前放飞</string>
+     <string name="str_catchme_personal_butterfly_create_date_format_acture">%1$s放飞</string>
+     <string name="str_catchme_personal_butterfly_date_format">MM月dd日</string>
+     <string name="str_catchme_personal_butterfly_input_panel_hint">打个招呼吧…</string>
+     <string name="str_catchme_personal_butterfly_just_created">刚刚放飞</string>
+     <string name="str_catchme_personal_butterfly_message_cannot_send_empty_content">不能发送空的留言</string>
+     <string name="str_catchme_personal_butterfly_message_catch_format">%s收养了你的蝴蝶</string>
+     <string name="str_catchme_personal_butterfly_message_date_format">%1$d%2$s前</string>
+     <string name="str_catchme_personal_butterfly_message_distance_format">%d米</string>
+     <string name="str_catchme_personal_butterfly_message_distance_miles_format">%.2f公里</string>
+     <string name="str_catchme_personal_butterfly_message_release_format">%s放生了你的蝴蝶</string>
+     <string name="str_catchme_personal_butterfly_message_send_btn_name">发送</string>
+     <string name="str_catchme_recently">刚刚</string>
+     <string name="str_catchme_second">秒</string>
+     <string name="str_cm_catch_unsuccess_label_1">差一点就抓住了…再试试吧</string>
+     <string name="str_cm_catch_unsuccess_label_10">要是上天再给一次机会，我愿意飞入你的网里</string>
+     <string name="str_cm_catch_unsuccess_label_11">不要气馁哦，加油！fighting！干巴爹！</string>
+     <string name="str_cm_catch_unsuccess_label_12">啊哦~大奖飞走了~再试试吧！</string>
+     <string name="str_cm_catch_unsuccess_label_13">嘿嘿，大奖真的不好抓呢！</string>
+     <string name="str_cm_catch_unsuccess_label_14">欧巴，哈基玛，撒浪嘿呦思密达~</string>
+     <string name="str_cm_catch_unsuccess_label_15">雅灭蝶，求求你放过我吧~</string>
+     <string name="str_cm_catch_unsuccess_label_16">我在寻找有缘人，是你吗？</string>
+     <string name="str_cm_catch_unsuccess_label_17">我跑了，你摊上大事了！</string>
+     <string name="str_cm_catch_unsuccess_label_18">抓不到我抓不到我，耶，气死你！</string>
+     <string name="str_cm_catch_unsuccess_label_19">知道你为什么抓不住我吗？不告诉你，哈哈~</string>
+     <string name="str_cm_catch_unsuccess_label_2">还需要一点坚持和一点运气哦</string>
+     <string name="str_cm_catch_unsuccess_label_20">茫茫蝶海中，我一眼认出了你，你却抓不到我</string>
+     <string name="str_cm_catch_unsuccess_label_21">老黄历上说，今日不宜捕蝶-_-!</string>
+     <string name="str_cm_catch_unsuccess_label_3">这只蝴蝶很凶猛…挣脱网罩逃走了</string>
+     <string name="str_cm_catch_unsuccess_label_4">小蝴蝶好可怜的…你就放ta走吧</string>
+     <string name="str_cm_catch_unsuccess_label_5">人多力量大，叫上朋友一起抓！~</string>
+     <string name="str_cm_catch_unsuccess_label_6">尼玛，想抓住我，没门！</string>
+     <string name="str_cm_catch_unsuccess_label_7">差点抓住我了，好怕怕~</string>
+     <string name="str_cm_catch_unsuccess_label_8">运气差了一点哦，要不明天再来吧</string>
+     <string name="str_cm_catch_unsuccess_label_9">此刻，你离蝴蝶只差0.01公分…</string>
+     <string name="str_cm_catch_unsuccess_label_prefix">未中奖，</string>
+     <string name="str_cm_catch_unsuccess_shopbonusOutOfLimit">未中奖，不要那么贪心嘛，抓其他蝴蝶再试试运气呗</string>
+     <string name="str_globalactionsheet_cancel">取 消</string>
+     <string name="str_kaka_api_GetAppToken">com.taobao.client.sys.getAppToken</string>
+     <string name="str_kaka_api_GetServiceTime">mtop.common.getTimestamp</string>
+     <string name="str_kaka_api_SSOLogin">com.taobao.wireless.sys.ssologin</string>
+     <string name="str_login_discern">com.taobao.mtop.login.scan.discern</string>
+     <string name="str_login_loginByKey">com.taobao.mtop.login.loginByKey</string>
+     <string name="str_login_search">mtop.etao.kaka.dbarcode.search</string>
+     <string name="str_login_syncLoginInfo">com.taobao.mtop.login.scan.syncLoginInfo</string>
+     <string name="str_poster_fetch">影院海报.杂志</string>
+     <string name="str_sharemainactivity_goshare">分享</string>
+     <string name="str_sharemainactivity_launchcam">照相机</string>
+     <string name="str_sharemainactivity_pickfromgallery">从相册选取照片</string>
+     <string name="str_sharemainactivity_previewimg">预览</string>
+     <string name="str_sharemainactivity_rec">按住录点评价</string>
+     <string name="str_sharemainactivity_removeimg">移除</string>
+     <string name="str_sharemainactivity_reshotfromcam">从照相机重来</string>
+     <string name="str_sharemainactivity_reshotfromgallery">从相册重来</string>
+     <string name="str_webview_app_selector">请选择所需的应用程序</string>
+     <string name="sure_2_exit">您确定要注销吗？</string>
+     <string name="taotianxiaf_tip">淘宝天下</string>
+     <string name="tb_mobile_register_tips">中国大陆手机用户编辑短信</string>
+     <string name="tb_mobile_register_tips2">“TB”发送至：1069099988</string>
+     <string name="tb_web_register_tips">非中国大陆用户可通过网页注册</string>
+     <string name="tb_web_register_tips2">通过网页注册</string>
+     <string name="tblogin">登陆淘宝账号</string>
+     <string name="term_for_use">使用条款和隐私</string>
+     <string name="text_search_taobao">输入商品条码数字、关键词搜索</string>
+     <string name="title_feedback">问题反馈</string>
+     <string name="tmall_client">tmallclient</string>
+     <string name="tmall_scheme">tmall</string>
+     <string name="trademarks">商标扫描:有惊喜好礼 (8月15-11月15)</string>
+     <string name="traffic_prompt">1</string>
+     <string name="traffic_show">不再显示提醒</string>
+     <string name="traffic_tip">欢迎使用一淘火眼客户端软件, 客户端使用完全免费, 在使用过程中会产生流量费, 流量费请咨询当地运营商, 使用过程中一些功能会需要使用手机的定位服务，是否允许一淘火眼使用?
+ 本软件许可使用协议（以下称本协议）由您与阿里巴巴（中国）有限公司（以下称阿里巴巴）共同签署。 在使用“无线淘宝软件产品（Android安卓版）”软件（以下称许可软件）之前，请仔细阅读本协议。一旦您下载安装使用许可软件，即表示您同意接受本协议所有条款和条件的约束。如您不同意本协议条款和条件，请勿使用许可软件，并请销毁所有许可软件副本。 阿里巴巴有权随时修改本协议，并以在淘宝网（www.taobao.com）公示的方式通知您，无需单独通知您。修改后的协议于公示时生效。协议条款修改后，您继续使用许可软件的，即视为您已阅读并接受修改后的协议。 
+ 
+ 一、 定义 
+ 1. 许可软件：是指由阿里巴巴开发的，供您从安智市场及其他安卓应用商店下载（以下称下载平台），并仅限在装有Android(安卓）等手持移动终端(以下称Android(安卓）终端)中安装、使用的软件系统。 
+ 
+ 2. 淘宝网服务：由浙江淘宝网络有限公司为您提供的服务。您可以通过许可软件在手持移动终端使用淘宝网服务。 
+ 
+ 二、 授权范围 
+ 1. 您仅可在Android(安卓）终端中使用许可软件。未经阿里巴巴书面同意，您不得将许可软件安装在其他终端设备上，该等设备包括但不限台式电脑、手提电脑、Android(安卓）终端外的手持移动终端、电视机及机顶盒。 
+ 
+ 2. 您可以为非商业目的在一台Android(安卓）终端上安装、使用许可软件，但您不得为商业运营目的安装、使用、运行许可软件，也不得对许可软件或者许可软件运行过程中释放在任何Android(安卓）终端中的数据及许可软件运行过程中Android(安卓）终端与服务器端的交互数据进行复制、更改、修改、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经授权的第三方工具/服务接入许可软件和相关系统。 
+ 
+ 3. 阿里巴巴有权在任何时候自行决定对许可软件及其相关功能进行变更、升级、修改或转移，并有权在许可软件系统中开发新的功能或其它服务。除非附有独立的协议，否则上述所有新的功能、软件服务的提供仍适用本协议。 
+ 
+ 4. 您需要凭您在使用淘宝网服务时获得的账号（淘宝网账户）和密码登录许可软件，阿里巴巴仅根据您的账号和密码确认使用许可软件者的身份。您应妥善保管您的账号和密码，并对其使用或遗失自行承担责任。如果您的账号和密码存在未获授权的使用，或者发生其他任何安全问题时，应立即通知阿里巴巴。阿里巴巴对因上述情形产生的后果不承担任何责任。 
+ 
+ 5. 许可软件由您自下载平台下载取得，您应遵守Android(安卓）公司对您使用许可软件方式与限制的约定，一旦Android(安卓）公司确认您违反该约定的，阿里巴巴有权终止对您的使用许可。 
+ 
+ 6. 阿里巴巴基于本协议许可而非向您销售许可软件，您仅可依照本协议约定使用许可软件。阿里巴巴保留未明示授予的一切权利。 
+ 
+ 三、 使用规范 
+ 1. 您不得通过以下方式使用许可软件： 
+ 
+ 1) 从事违法法律法规政策、破坏公序良俗、损害公共利益的行为。 
+ 
+ 2) 对许可软件的相关信息擅自出租、出借、复制、修改、链接、转载、汇编、发表、出版、建立镜像站点，借助许可软件发展与之有关的衍生产品、作品、服务、插件、外挂、兼容、互联等。 
+ 
+ 3) 通过非由阿里巴巴及其关联公司开发、授权或认可的第三方兼容软件、系统登录或使用许可软件，或针对许可软件使用非阿里巴巴及其关联公司开发、授权或认证的插件和外挂。 
+ 
+ 4) 删除许可软件及其他副本上关于版权的信息、内容。修改、删除或避开应用产品中阿里巴巴为保护知识产权而设置的任何技术措施。 
+ 
+ 5) 未经阿里巴巴的书面同意，擅自将许可软件出租、出借或再许可给第三方使用，或在获得许可软件的升级版本的许可使用后，同时使用多个版本的许可使用版本，或分开转让。 
+ 
+ 6) 复制、反汇编、修改许可软件或其任何部分或制造其衍生作品。 
+ 
+ 7) 进行任何危害信息网络安全的行为，包括使用许可软件时以任何方式损坏或破坏许可软件或使其不能运行或超负荷或干扰第三方对许可软件的使用；未经允许进入他人计算机系统并删除、修改、增加存储信息；故意传播恶意程序或病毒以及其他破坏、干扰正常网络信息服务的行为。 
+ 
+ 8) 利用许可软件发表、传送、传播、储存侵害他人知识产权、商业秘密权等合法权利的内容，或从事欺诈、盗用他人账户、资金等违法犯罪活动。 
+ 
+ 9) 通过修改或伪造许可软件运行中的指令、数据、数据包，增加、删减、变动许可软件的功能或运行效果，及/或将具有上述用途的软件通过信息网络向公众传播或者运营。 
+ 
+ 10) 其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用许可软件。 
+ 
+ 2. 您了解并同意 
+ 1) 阿里巴巴有权对您是否涉嫌违反上述使用规范做出单方认定，并根据单方认定结果中止、终止对您的使用许可或采取其他依约可采取的限制措施，且无须征得您的同意或提前通知予您。 
+ 
+ 2) 对于您使用许可软件时发布的涉嫌违法或涉嫌侵犯他人合法权利或违反本协议的信息，阿里巴巴有权不经通知您即予以删除。 
+ 
+ 3) 对于您涉嫌违反上述使用规范的行为对任意第三方造成损害的，您均应当以自己的名义独立承担所有的法律责任，并应确保阿里巴巴免于因此产生损失或增加费用。 
+ 
+ 4) 如您涉嫌违反有关法律或者本协议之规定，使阿里巴巴遭受任何损失，或受到任何第三方的索赔，或受到任何行政管理部门的处罚，您应当赔偿阿里巴巴因此造成的损失及（或）发生的费用，包括合理的律师费用、调查取证费用。 
+ 
+ 四、 第三方软件或服务 
+ 1. 许可软件可能使用或包含了由第三方提供的软件或服务（以下称该等服务），该等服务是为了向您提供便利而设置，是取得该第三方的合法授权的。本协议并不授予您使用该等服务的任何权利，也不对该等服务提供任何形式的保证。 
+ 
+ 2. 您使用该等服务时，应另行与该第三方达成服务协议，支付相应费用并承担可能的风险。阿里巴巴不对该等服务提供任何形式的客户支持，如果您需要获取支持，请直接与该第三方联系。因您使用该等服务引发的任何纠纷，由您与该第三方负责解决，阿里巴巴不承担任何责任。 
+ 
+ 3. 许可软件仅在当前使用或包含该等服务，阿里巴巴并不保证许可软件将会永久地使用或包含该等服务，也不保证将来不会使用或包含该第三方的同类型或不同类型的软件或服务或其他第三方的软件或服务，一旦阿里巴巴在许可软件中使用或包含前述软件或服务，相应的软件或服务同样适用本条约定。 
+ 
+ 4. 您在使用许可软件的同时使用该等服务的，您即授权阿里巴巴将您使用许可软件的信息传递给该第三方，或从该第三方获取您注册或使用该等服务时提供或产生的信息。 
+ 
+ 5. 您同意，你是否遵循与该第三方约定使用该等服务，是您是否善意履行本协议的条件之一，如果该第三方确认您违反了您与其之间关于使用该等服务的协议约定，阿里巴巴有权不需就相关确认与您核实即中止、终止对你的使用许可或采取其他阿里巴巴可对您采取的限制措施，且无需承担任何责任。 
+ 
+ 五、 许可使用费 
+ 1. 阿里巴巴将根据市场与技术的发展，向您提供与许可软件的各种增值服务。就许可软件及/或增值服务，阿里巴巴有权收取许可使用费等相关费用。在开始收费前，阿里巴巴将以适当的方式通知您具体收费标准，包括但不限于在淘宝网（www.taobao.com）上公示。您有权选择接受或拒绝收费，如果您选择拒绝的，应立即停止使用许可软件及/或增值服务，您继续使用许可软件的，即视为您同意支付相关费用。 
+ 
+ 2. 您应在阿里巴巴通知的期限内按照阿里巴巴接受的方式足额支付许可使用费。您逾期支付许可使用费或支付的费用不足的，阿里巴巴有权终止对您的软件许可，并依法追偿损失及/或赔偿。 
+ 
+ 3. 您在阿里巴巴通知前免费的试用许可软件，不应视为阿里巴巴放弃收费的权利。阿里巴巴有权随时通知您后收取相应费用。 
+ 
+ 六、 隐私政策与数据 
+ 1. 您同意，本协议所指个人隐私信息是指那些能够对您的身份进行有效辨识或涉及到您个人通信的信息，包括您的姓名、身份证号、手机号码、IP地址等，但对于您使用许可软件的状态以及使用习惯等一些反映在阿里巴巴服务器端的信息不属此列。 
+ 
+ 2. 许可软件不含有任何破坏您Android(安卓）终端数据和获取您隐私信息的恶意代码，不会监控您使用Android(安卓）终端的行为或泄漏您的个人隐私信息。 
+ 
+ 3. 对于您使用许可软件所提供、形成的您的个人隐私信息，阿里巴巴会予以保密。除非本协议另有约定，阿里巴巴将不会在不通知的情况下透露您的个人隐私信息。 
+ 
+ 4. 为以下目的，您授权阿里巴巴披露您的个人隐私信息： 
+ a) 遵守法律法规或遵照司法部门对淘宝所要求的法律程序； 
+ 
+ b) 保护和维护阿里巴巴及其关联公司（包括但不限于淘宝、支付宝、阿里金融、阿里云，中国雅虎等）的合法权益； 
+ 
+ c) 在紧急情况下保护阿里巴巴及其关联公司或其用户或社会大众的安全。 
+ 
+ 5. 本协议终止后，阿里巴巴有权继续保留您的信息，但阿里巴巴没有义务以任何形式向您提供该等信息。 
+ 
+ 七、 特别授权 
+ 您完全理解并不可撤销地授予阿里巴巴及其关联公司下列权利： 
+ 1. 对于使用许可软件时提供的资料及数据信息，您授予阿里巴巴及其关联公司独家的、全球通用的、永久的、免费的许可使用权利 (并有权在多个层面对该权利进行再授权)。此外，阿里巴巴及其关联公司有权(全部或部分地) 使用、复制、修订、改写、发布、翻译、分发、执行和展示您的全部资料数据或制作其派生作品，并以现在已知或日后开发的任何形式、媒体或技术，将上述信息纳入其它作品内。 
+ 
+ 2. 一旦您向阿里巴巴及（或）其关联公司，包括但不限于淘宝、支付宝、阿里金融、阿里云、中国雅虎等作出任何形式的承诺，且相关公司已确认您违反了该承诺，则阿里巴巴有权立即按您的承诺或协议约定的方式对您的使用许可及其他阿里巴巴可控制的权益采取限制措施，包括中止或终止对您的使用许可，并公示相关公司确认的您的违约情况。您了解并同意，阿里巴巴无须就相关确认与您核对事实，或另行征得您的同意，且阿里巴巴无须就此限制措施或公示行为向您承担任何的责任。 
+ 
+ 3. 一旦您违反本协议，或与阿里巴巴签订的其他协议的约定，阿里巴巴有权以任何方式通知阿里巴巴关联公司，要求其对您的权益采取限制措施，包括但不限于要求关联公司中止、终止对您提供部分或全部服务，且在其经营或实际控制的任何网站公示您的违约情况。 
+ 
+ 4. 许可软件在必要时有权使用您的Android(安卓）终端处理器和无线网络等资源，用作容许其它许可软件使用者与您联络等目的。此项同意可能会影响您的使用感受和/或带来不可预知的风险，您同意自行承担该等风险。 
+ 
+ 八、 无担保和责任限制 
+ 1. 您明确同意，您需独自承担使用许可软件产生的全部风险。 
+ 
+ 2. 除法律法规有明确规定外，许可软件“按现状”和“可得到”的状态提供，阿里巴巴对许可软件不作任何明示或暗示的保证，包括但不限于许可软件的适用性、没有错误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，阿里巴巴也不对许可软件所涉及的技术及信息的有效性、准确性、正确性、可靠性、质量、稳定、完整和及时性作出任何承诺和保证。 
+ 
+ 3. 阿里巴巴不就电讯系统或手机网络的中断或无法运作、技术故障、计算机错误或病毒、信息损坏或丢失或其它在阿里巴巴合理控制范围之外的原因而产生的其他任何性质的破坏而向您或任何第三方承担赔偿责任。 
+ 
+ 4. 使用许可软件涉及到无线网络服务，会受到各个环节不稳定因素的影响，包括但不限于因不可抗力、黑客攻击、系统不稳定、您所处位置、您的Android(安卓）终端处于关闭状态、信息内容非法以及其他任何网络、技术、通信线路、信息安全管理措施等原因造成许可软件无法正常使用，您同意自行承担以上风险，阿里巴巴不承担任何责任。 
+ 
+ 5. 在任何情况下，由于您因下述任一情况所引起或与此有关的任何人身伤害或任何附带的、特别的、间接的或后果性的损害赔偿，包括但不限于利润损失、资料损失、业务中断的损害赔偿或任何其它商业损害赔偿或损失，无论因何原因产生，也无论淘宝是否知悉该等损失可能发生，阿里巴巴均无须为此承担任何责任： 
+ 1) 使用或未能使用许可软件； 
+ 
+ 2) 第三方未经批准的使用许可软件或更改您的数据； 
+ 
+ 3) 使用许可软件进行的行为产生的费用及损失； 
+ 
+ 4) 您对许可软件的误解； 
+ 
+ 5) 任何非因阿里巴巴的原因而引起的与许可软件有关的其它损失。 
+ 
+ 6. 您同意，如因阿里巴巴原因，造成许可软件不正常中断或其它技术故障，您所可能获得的最高赔偿额为不超过本协议项下阿里巴巴已实际收取的相关软件使用许可费总额。 
+ 
+ 7. 非经阿里巴巴或阿里巴巴授权开发并正式发布的其它任何由许可软件衍生的软件均属非法，下载、安装、使用此类软件，可能导致不可预知的风险，由此产生的一切法律责任与纠纷与阿里巴巴无关，阿里巴巴并有权中止、终止使用许可和/或其他一切服务。 
+ 
+ 8. 您与其他使用许可软件的用户之间通过许可软件进行时，因您受误导或欺骗而导致或可能导致的任何心理、生理上的伤害以及经济上的损失，应由过错方依法承担所有责任，一概与阿里巴巴无关。 
+ 
+ 九、 知识产权 
+ 1. 阿里巴巴拥有许可软件的著作权、商业秘密以及其他相关的知识产权，包括与许可软件有关的各种文档资料。 
+ 
+ 2. 许可软件的相关标识属于阿里巴巴及其关联公司的知识产权，并受到相关法律法规的保护。未经阿里巴巴明确授权，您不得复制、模仿、使用或发布上述标识，也不得修改或删除应用产品中体现阿里巴巴及其关联公司的任何标识或身份信息。 
+ 
+ 3. 未经阿里巴巴及其关联公司事先书面同意，您不得为任何营利性或非营利性的目的自行实施、利用、转让或许可任何第三方实施、利用、转让上述知识产权。 
+ 
+ 十、 协议终止和违约责任 
+ 1. 如您违反本协议中的任何条款，本协议将自动终止，阿里巴巴无需另行通知您。 
+ 
+ 2. 您违反阿里巴巴或其关联公司网站的条款、协议、规则、通告等相关规定，而被上述任一网站终止提供服务的，阿里巴巴有权终止本协议。 
+ 
+ 3. 在本协议终止时，您应停止对许可软件的任何使用行为, 并销毁许可软件的全部副本。 
+ 
+ 4. 如您违反本协议规定的任何条款，给阿里巴巴或其他用户造成损失，您必须承担全部的赔偿责任。如阿里巴巴承担了上述责任，则您同意赔偿阿里巴巴的相关支出和损失，包括合理的律师费用。 
+ 
+ 十一、 管辖法律和可分割性 
+ 1. 本协议之效力、解释、变更、执行与争议解决均适用中华人民共和国法律，如无相关法律规定的，则应参照通用国际商业惯例和（或）行业惯例。 
+ 
+ 2. 因本协议产生的任何争议，您应与阿里巴巴以友好协商的方式予以解决；经协商无法最终解决的，应向阿里巴巴所在地有管辖权的人民法院提请裁决。 
+ 
+ 3. 本协议任何条款被有管辖权的人民法院裁定为无效，不应影响其他条款或其任何部分的效力，您与阿里巴巴仍应善意履行。 
+ 
+ 十二、 其他 
+ 1. 阿里巴巴有权将本协议项下的权利义务转让给第三方，而无需征得您的同意。 
+ 
+ 2. 本协议构成双方有关许可软件许可使用的全部协议，并取代之前与此相关所有谅解。 
+ 
+ 3. 任何对本协议的修订，均应以书面方式，并获得您与阿里巴巴的一致同意。 
+ 
+ 4. 本协议的所有标题仅仅是为了醒目及阅读方便，本身并没有实际涵义，不能作为解释本协议涵义的依据。</string>
+     <string name="ttid">700878</string>
+     <string name="txt_sina">新浪微博</string>
+     <string name="txt_to_wx">etao-huoyan</string>
+     <string name="txt_weixing">微信</string>
+     <string name="ugcServiceEnabled">0</string>
+     <string name="ugc_bar">条形码</string>
+     <string name="ugc_camera_tip">请拍摄商品或服饰标牌，照片中需清晰可见<font color=#19792c>品牌+名称</font>,或<font color=#19792c>名称+货号/型号</font></string>
+     <string name="ugc_camera_use">使用</string>
+     <string name="ugc_cancel">取消</string>
+     <string name="ugc_congratulation">恭喜您挖到宝了!</string>
+     <string name="ugc_discover_unkowncode">发现未知条码:</string>
+     <string name="ugc_have_not_upload">你还没有上传过商品</string>
+     <string name="ugc_input_alipya_tip">填写支付宝账号,用于领奖</string>
+     <string name="ugc_input_price_tip">产品价格 (选填)</string>
+     <string name="ugc_my_upload">我的上传</string>
+     <string name="ugc_no_sdcard">插入存储卡以使用照相机</string>
+     <string name="ugc_re_camera">重拍</string>
+     <string name="ugc_register_alipay">注册支付宝账号</string>
+     <string name="ugc_reward_congratulation">恭喜您拿到宝了!</string>
+     <string name="ugc_reward_granted">您已获得%1$d个集分宝</string>
+     <string name="ugc_reward_has_granted">已经给您送出%1$d个集分宝</string>
+     <string name="ugc_reward_has_verified">您有%1$d个上传的商品信息被采纳</string>
+     <string name="ugc_save_failed">图片保存失败,请检查存储卡是否已满</string>
+     <string name="ugc_state_commiting">正在上传</string>
+     <string name="ugc_state_unverified">未通过审核，产品信息有误。</string>
+     <string name="ugc_state_uploding">正在上传</string>
+     <string name="ugc_state_verified">恭喜你，审核通过。</string>
+     <string name="ugc_state_verifying">感谢提交，我们将在3天内完成审核</string>
+     <string name="ugc_take_pic_failed">拍照失败</string>
+     <string name="ugc_take_picture">拍照上传</string>
+     <string name="ugc_upload">提交</string>
+     <string name="ugc_upload_failed">产品图片上传失败,检查您的网络状况,点击重试！</string>
+     <string name="ugc_upload_prepare">已加入上传队列</string>
+     <string name="ugc_upload_tip">提交产品信息</string>
+     <string name="ugc_uploading">个商品正在上传</string>
+     <string name="ugc_will_update">近期即将更新该产品信息:</string>
+     <string name="uncollected">收藏已取消</string>
+     <string name="unkown_code_as_express">作为快递单号查询:</string>
+     <string name="unkown_code_type">发现非标准商品条码:</string>
+     <string name="update">软件更新</string>
+     <string name="upload">我的上传</string>
+     <string name="userTrackEnabled">1</string>
+     <string name="userTrackLoadAssertLib">1</string>
+     <string name="userTrackLogEnable">0</string>
+     <string name="userguide1">扫码即可登录淘宝，无需输</string>
+     <string name="userguide2">入密码。更安全方便。</string>
+     <string name="userguide3">去电脑淘宝网的登录界面</string>
+     <string name="userguide4">找二维码试试吧！</string>
+     <string name="userguide5">二维码支持分享、复制、外</string>
+     <string name="userguide6">部浏览器打开等功能。</string>
+     <string name="userguide7">扫码识别速度更迅猛！</string>
+     <string name="userguide8">小蝴蝶也打开了新的入口，</string>
+     <string name="userguide9">打开更方便</string>
+     <string name="wap_login1">淘宝账号:</string>
+     <string name="wap_login2">车英</string>
+     <string name="wap_login3">登陆到手机成功</string>
+     <string name="wap_login_no_network">网络不给力</string>
+     <string name="wap_secondconfirm">亲，为了你的账号安全，需要对你进行短信身份验证，请在电脑前进行完二次验证，再次扫描。</string>
+     <string name="web_register_tip">非中国大陆用户可通过网页注册</string>
+     <string name="web_register_tip2">通过网页注册</string>
+     <string name="webview_login_failed">登录失败</string>
+     <string name="yes">是</string>
+</resources>

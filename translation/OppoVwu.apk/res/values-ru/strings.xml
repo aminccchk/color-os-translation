@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">VwuService</string>
+     <string name="vwu_notification">小欧助手随时唤醒已经启动</string>
+     <string name="vwu_notification_exp">Google now any-time wake up activated</string>
+</resources>

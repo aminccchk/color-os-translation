@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Фонарик</string>
+     <string name="exit_application_if_repress">Нажмите еще раз для выхода</string>
+     <string name="hint">Зажмите клавишу Домой при заблокированном экране для быстрого доступа к фонарику</string>
+     <string name="low_battery">Low battery, can not open the flashlight now</string>
+     <string name="unable_to_open_camera">Не удалось включить вспышку, попробуйте еще раз</string>
+</resources>

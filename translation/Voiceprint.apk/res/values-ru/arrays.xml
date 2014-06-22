@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="voiceprint_lock_entries">
+        <item>芝麻开门</item>
+        <item>你好小欧</item>
+        <item>扎西得勒</item>
+        <item>恭喜发财</item>
+        <item>所品不凡</item>
+     </string-array>
+     <string-array name="voiceprint_lock_keys">
+        <item>voiceprint_lock_key1</item>
+        <item>voiceprint_lock_key2</item>
+        <item>voiceprint_lock_key3</item>
+        <item>voiceprint_lock_key4</item>
+        <item>voiceprint_lock_key5</item>
+     </string-array>
+</resources>

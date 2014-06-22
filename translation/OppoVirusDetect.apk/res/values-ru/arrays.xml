@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="dayofweek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="list_entries">
+        <item>1день</item>
+        <item>2день</item>
+        <item>3день</item>
+        <item>4день</item>
+        <item>5день</item>
+        <item>6день</item>
+        <item>7день</item>
+        <item>8день</item>
+        <item>9день</item>
+        <item>10день</item>
+        <item>11день</item>
+        <item>12день</item>
+        <item>13день</item>
+        <item>14день</item>
+        <item>15день</item>
+        <item>16день</item>
+        <item>17день</item>
+        <item>18день</item>
+        <item>19день</item>
+        <item>20день</item>
+        <item>21день</item>
+        <item>22день</item>
+        <item>23день</item>
+        <item>24день</item>
+        <item>25день</item>
+        <item>26день</item>
+        <item>27день</item>
+        <item>28день</item>
+        <item>29день</item>
+        <item>30день</item>
+        <item>31день</item>
+     </string-array>
+     <string-array name="list_entries_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+     </string-array>
+     <string-array name="oppo_add_blacklist_dialog">
+        <item>Входящий номер</item>
+        <item>Журнал вызовов</item>
+        <item>Поиск адресной книги</item>
+     </string-array>
+     <string-array name="responde_to_private_contact_call">
+        <item>Без звука</item>
+        <item>Отклонить</item>
+        <item>Отклонить с сообщением</item>
+        <item>Вибрация</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="responds_to_private_sms">
+        <item>Без звука</item>
+        <item>Вибрация</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="virusDetectOldComponentName">
+        <item>com.oppo.safe/com.oppo.safe.virusdetect.VirusScanActivity</item>
+     </string-array>
+</resources>

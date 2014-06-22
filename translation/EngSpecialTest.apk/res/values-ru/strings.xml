@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="bt_enter_test_mode">进入测试模式</string>
+     <string name="bt_enter_test_mode_failed">进入测试模式失败</string>
+     <string name="cancel_open_bluetooth">取消打开蓝牙</string>
+     <string name="close_wifi">关闭WLAN</string>
+     <string name="close_wifi_failed">关闭WLAN失败</string>
+     <string name="entered_the_test_mode">已经进入测试模式</string>
+     <string name="fail">Fail</string>
+     <string name="multimedia_player">播放器</string>
+     <string name="open_bluetooth_failed">打开蓝牙失败</string>
+     <string name="pass">Pass</string>
+     <string name="pleasewait">请稍等...</string>
+     <string name="retest">重新测试</string>
+     <string name="test_failed">测试失败</string>
+     <string name="test_suc">测试成功</string>
+</resources>

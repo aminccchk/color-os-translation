@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="adb_disenable_notification_message">Click to enable USB debugging</string>
+     <string name="adb_disenable_notification_title">USB debugging disconnected</string>
+     <string name="adb_enable_notification_message">Click to disable USB debugging</string>
+     <string name="adb_enable_notification_title">USB debugging connected</string>
+     <string name="adb_status_no_reminder">No reminder</string>
+     <string name="app_name">ColorOSUsbSelection</string>
+     <string name="cancel">Cancel</string>
+     <string name="detect_new_SD_description">New SD card is detected, reboot?</string>
+     <string name="detect_new_SD_title">New SD card is detected</string>
+     <string name="detect_null_description">Did not detect the SD card, reboot?</string>
+     <string name="detect_null_title">Did not detect the SD card</string>
+     <string name="device_mac">MAC OS</string>
+     <string name="device_reboot">Reboot</string>
+     <string name="device_xp">Windows XP and older versions of Windows</string>
+     <string name="file_transmit_string">Transfer files</string>
+     <string name="image_transmit_string">Transfer photos</string>
+     <string name="mac_help_message">For Macs, download the driver and click androidfiletransfer.dmg to install. Get the driver at:</string>
+     <string name="mac_help_title">Drivers must be installed manually</string>
+     <string name="usb_charge">Только зарядка</string>
+     <string name="usb_charge_detail">Зарядить телефон через USB</string>
+     <string name="usb_connection_description">MTP Help</string>
+     <string name="usb_connectted_string">USB connected</string>
+     <string name="usb_help_string">Help</string>
+     <string name="usb_mtp">Режим мультимедиа</string>
+     <string name="usb_mtp_detail">Синхронизация с ПК</string>
+     <string name="usb_no_ask_name">Не спрашивать в следующий раз</string>
+     <string name="usb_select_file_transmit">You can transfer files through your computer</string>
+     <string name="usb_select_image_transmit">You can transfer photos through your computer</string>
+     <string name="usb_selection_processing">Обработка, пожалуйста, ждите…</string>
+     <string name="usb_settings">USB-подключение</string>
+     <string name="usb_storage">Накопитель</string>
+     <string name="usb_storage_detail">Открыть память телефона</string>
+     <string name="xp_help_message">After connected to the USB cable, the computer will be automatically scanned for 30 to 90 seconds. If the installation fails, please according to my PC-CD drive ColorOS Driver-click Setup.exe to install.</string>
+     <string name="xp_help_title">Automatically install</string>
+</resources>

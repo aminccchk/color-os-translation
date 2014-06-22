@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Root Explorer</string>
+     <string name="info_text_weight">0</string>
+     <string name="locale">3</string>
+</resources>

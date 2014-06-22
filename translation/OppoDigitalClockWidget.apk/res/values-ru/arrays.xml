@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="weeks_day">
+        <item>(ВС)</item>
+        <item>(ПН)</item>
+        <item>(ВТ)</item>
+        <item>(СР)</item>
+        <item>(ЧТ)</item>
+        <item>(ПТ)</item>
+        <item>(СБ)</item>
+     </string-array>
+</resources>

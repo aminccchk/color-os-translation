@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="downLoadListOldComponentName">
+        <item>com.android.browser/com.oppo.browser.downloads.ui.DownloadListUI</item>
+     </string-array>
+</resources>

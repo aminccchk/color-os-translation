@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="am">AM</string>
+     <string name="app_name">Кольцо</string>
+     <string name="battery_full">Заряжено</string>
+     <string name="charging">Зарядка: </string>
+     <string name="default_txt_data">12月25日 周五</string>
+     <string name="default_txt_temperature_detail">18- 32</string>
+     <string name="default_txt_weather_address">hongkong</string>
+     <string name="default_txt_weather_type">雷阵雨</string>
+     <string name="degree">.</string>
+     <string name="description_direction_left">Left for
+%s.</string>
+     <string name="description_direction_right">Right for %s.</string>
+     <string name="description_target_camera">Camera</string>
+     <string name="description_target_unlock">Unlock</string>
+     <string name="discription">Кольцо</string>
+     <string name="fahrenheit">F</string>
+     <string name="full_wday_month_day_no_year">MMMM dd, E</string>
+     <string name="month_day_flag">дн.</string>
+     <string name="month_flag">М</string>
+     <string name="no_weather">Нет данных погоды</string>
+     <string name="noservice">Нет сети</string>
+     <string name="pm">PM</string>
+     <string name="temperature_show_symbol">°</string>
+     <string name="unlockAuthor">Кольцо</string>
+     <string name="unlockDate">2012/05/17</string>
+     <string name="unlockResolution">ALL</string>
+     <string name="unlockVersion">1.0</string>
+     <string name="unlockname">Кольцо</string>
+     <string name="weather_cloudy">云</string>
+     <string name="weather_goggy">雾</string>
+     <string name="weather_overcast">阴</string>
+     <string name="weather_rainy">雨</string>
+     <string name="weather_sandstorm">沙</string>
+     <string name="weather_snowy">雪</string>
+     <string name="weather_sunny">晴</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">NFC lightning transmission</string>
+     <string name="busy">Lightning transmission is busy</string>
+     <string name="cancel">Cancel</string>
+     <string name="connect_fail">Wireless environment busy, please reconnect</string>
+     <string name="connecting_state">Connecting...</string>
+     <string name="connecting_txt">Try to get data from lightning transmission</string>
+     <string name="debug_btn_receive">Jump to Receive</string>
+     <string name="debug_btn_send">Jump to Send</string>
+     <string name="file_type_not_support">Note: This file type is not supported</string>
+     <string name="folder_name">Download</string>
+     <string name="force_exit">Exit application will stop data transfer</string>
+     <string name="no">Cancel</string>
+     <string name="notification_progress_sign">%</string>
+     <string name="notification_receive_title">Receiving data...</string>
+     <string name="notification_title">Sending data...</string>
+     <string name="notitication_sdcard_eject">External storage has been unmounted</string>
+     <string name="re_connect">Reconnecting...</string>
+     <string name="receive">(Debug Mode) Progress :</string>
+     <string name="receive_data">Receiving data through OBeam</string>
+     <string name="receiving_data">Receiving data...</string>
+     <string name="sendTitle">(Debug Mode) Sending</string>
+     <string name="send_data">Sending data through OBeam</string>
+     <string name="send_notice">Sending data.You can move away your phone</string>
+     <string name="standby">NFC Lightning Transfer is ready, please touch the other device to build up connection.</string>
+     <string name="test_uc_begin_service">BeginService</string>
+     <string name="test_uc_rs">AsReceiveSide</string>
+     <string name="test_uc_ss">AsSendSide</string>
+     <string name="test_uc_stop_service">StopService</string>
+     <string name="toast_file_path">File saved to:</string>
+     <string name="transfer_complete">Data transfer completed</string>
+     <string name="transfer_complete_receive_side">Data received</string>
+     <string name="transfer_fail">Data transfer failed</string>
+     <string name="wifi_not_available">Wi-Fi not available, please check whether you've enabled Wi-Fi</string>
+     <string name="yes">OK</string>
+</resources>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="dayofweek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="default_sms_whitelist_name">
+        <item>公司代理商打分短信号</item>
+        <item>公司号码</item>
+        <item>公司号码</item>
+        <item>安徽安庆售后号码</item>
+        <item>中国移动客服</item>
+        <item>中国联通客服</item>
+        <item>中国电信客服</item>
+        <item>巴士在线</item>
+        <item>爱施德</item>
+        <item>京东</item>
+        <item>迪信通</item>
+        <item>乐语</item>
+        <item>万网</item>
+        <item>连连科技</item>
+        <item>中期集团</item>
+        <item>天音通信</item>
+        <item>华翔联信</item>
+        <item>分享在线</item>
+     </string-array>
+     <string-array name="default_sms_whitelist_number">
+        <item>106575550309</item>
+        <item>1065755503096688</item>
+        <item>1065755503096618</item>
+        <item>05565561003</item>
+        <item>10086</item>
+        <item>10010</item>
+        <item>10000</item>
+        <item>10020</item>
+        <item>10021</item>
+        <item>10023</item>
+        <item>10026</item>
+        <item>10028</item>
+        <item>10029</item>
+        <item>10030</item>
+        <item>10031</item>
+        <item>10033</item>
+        <item>10036</item>
+        <item>10039</item>
+     </string-array>
+     <string-array name="list_entries">
+        <item>1день</item>
+        <item>2день</item>
+        <item>3день</item>
+        <item>4день</item>
+        <item>5день</item>
+        <item>6день</item>
+        <item>7день</item>
+        <item>8день</item>
+        <item>9день</item>
+        <item>10день</item>
+        <item>11день</item>
+        <item>12день</item>
+        <item>13день</item>
+        <item>14день</item>
+        <item>15день</item>
+        <item>16день</item>
+        <item>17день</item>
+        <item>18день</item>
+        <item>19день</item>
+        <item>20день</item>
+        <item>21день</item>
+        <item>22день</item>
+        <item>23день</item>
+        <item>24день</item>
+        <item>25день</item>
+        <item>26день</item>
+        <item>27день</item>
+        <item>28день</item>
+        <item>29день</item>
+        <item>30день</item>
+        <item>31день</item>
+     </string-array>
+     <string-array name="list_entries_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+     </string-array>
+     <string-array name="oppo_add_blacklist_dialog">
+        <item>Журнал вызовов</item>
+        <item>Поиск в Контактах</item>
+     </string-array>
+     <string-array name="oppo_insert_blacklist_item_array">
+        <item>Запрещенные вызовы</item>
+        <item>Черный список SMS</item>
+     </string-array>
+     <string-array name="responde_to_private_contact_call">
+        <item>Без звука</item>
+        <item>Отклонить</item>
+        <item>Отклонить с сообщением</item>
+        <item>Вибрация</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="responde_to_private_contact_call_no_vibrate">
+        <item>Без звука</item>
+        <item>Отклонить</item>
+        <item>Отклонить с сообщением</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="responde_to_private_contact_call_no_vibrate_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="responde_to_private_contact_call_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="responds_to_private_sms">
+        <item>Без звука</item>
+        <item>Вибрация</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="responds_to_private_sms_no_vibrate">
+        <item>Баз звука</item>
+        <item>По умолчанию</item>
+     </string-array>
+     <string-array name="responds_to_private_sms_no_vibrate_values">
+        <item>0</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="responds_to_private_sms_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="error_missing_apps_plurals">
+        <item quantity="one">Данный аккаунт нельзя использовать, поскольку на устройстве отсутствует следующее приложение: ^1. Свяжитесь с администратором домена для ^2 или войдите в систему, используя другой аккаунт.</item>
+        <item quantity="other">Данный аккаунт нельзя использовать, поскольку на устройстве отсутствуют следующие приложения: ^1. Свяжитесь с администратором домена для ^2 или войдите в систему, используя другой аккаунт.</item>
+     </plurals>
+     <plurals name="system_update_countdown_message">
+        <item quantity="one">Перезагрузка будет выполнена через 1 сек.</item>
+        <item quantity="other">Перезагрузка будет выполнена через %d сек.</item>
+     </plurals>
+</resources>

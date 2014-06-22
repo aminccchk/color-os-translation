@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="common_nicknames">
+     </string-array>
+     <string-array name="lockscreen_direction_descriptions">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="lockscreen_target_descriptions_unlock_only">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="lockscreen_targets_unlock_only">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+</resources>

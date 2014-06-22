@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">OppoActionParser</string>
+     <string name="hello">Hello World, tt!</string>
+     <string name="intent_check_foreground_app">INTENT_GESTURE_CHECK_FOREGROUND_APP</string>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="camera_folders">
+        <item>我的照片</item>
+        <item>我的视频</item>
+        <item>心情相册</item>
+        <item>DCIM/Camera</item>
+        <item>DCIM/Photo space</item>
+     </string-array>
+     <string-array name="color_picker_colors">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="current_week">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="default_hid_bucket_list">
+        <item>/com.sohu.sohuvideo/firstpage</item>
+        <item>/com.sohu.sohuvideo/otherpage</item>
+        <item>/tineer/picture</item>
+        <item>/iReader/skins/fashion_style</item>
+        <item>/netease/newsreader/netease_temp_pic</item>
+        <item>/nmgc_sdk_release/gamecenter/images/hdpi</item>
+        <item>/Tencent/MobileQQ/photo</item>
+        <item>/Tencent/MobileQQ/thumb</item>
+        <item>/data/image7</item>
+        <item>/nearme_folder_temp</item>
+        <item>/Tencent/MicroMsg/7f2fe041f5cf59c3795b3041b7f7f418/openapi</item>
+        <item>/ganji/friendsPhotoWall</item>
+        <item>/UlikeBeauty/content_drawable</item>
+        <item>/UlikeBeauty/Cover_Image_Cache</item>
+        <item>/UlikeBeauty/Team_Images</item>
+        <item>/CMDM/VisitImage</item>
+        <item>/NearMeMarket/temp</item>
+        <item>/Individuals Settings/temp</item>
+        <item>/QIYIVideo/image_cache</item>
+        <item>/NearMeReader/cover</item>
+        <item>/BaiduMap/cache/assets/place/img</item>
+        <item>/BaiduMap/cache/assets/subway/images</item>
+        <item>/91PandaReader/covers</item>
+        <item>/ganji/actionImage</item>
+        <item>/MandiCache</item>
+        <item>/JoyUCResource/10000</item>
+        <item>/CBox/temp</item>
+     </string-array>
+     <string-array name="filter_name">
+        <item>Original</item>
+        <item>Classic</item>
+        <item>Old Days</item>
+        <item>B&W</item>
+        <item>Warm</item>
+        <item>Film</item>
+        <item>Mirror</item>
+        <item>Lomo</item>
+        <item>Jeans</item>
+        <item>Moonlight</item>
+        <item>Tunnel</item>
+        <item>Antique</item>
+     </string-array>
+     <string-array name="irregular_layout_land">
+        <item>0,0,0,1,1</item>
+        <item>1,1,0,1,1</item>
+        <item>2,2,0,1,1</item>
+        <item>3,3,0,1,1</item>
+        <item>4,4,0,1,1</item>
+     </string-array>
+     <string-array name="irregular_layout_port">
+        <item>0,0,0,1,1</item>
+        <item>1,1,0,1,1</item>
+        <item>2,2,0,1,1</item>
+        <item>3,0,1,1,1</item>
+        <item>4,1,1,2,1</item>
+        <item>5,0,2,2,2</item>
+        <item>6,2,2,1,1</item>
+        <item>7,2,3,1,1</item>
+        <item>8,0,4,1,1</item>
+        <item>9,1,4,1,1</item>
+        <item>10,2,4,1,1</item>
+        <item>11,0,5,2,1</item>
+        <item>12,2,5,1,1</item>
+        <item>13,0,6,1,1</item>
+        <item>14,1,6,2,2</item>
+        <item>15,0,7,1,1</item>
+     </string-array>
+     <string-array name="last_week">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shift_folders">
+        <item>DCIM/Camera</item>
+        <item>我的照片</item>
+        <item>心情相册</item>
+        <item>DCIM/Photo space</item>
+        <item>我的图片</item>
+        <item>Pictures</item>
+        <item>Pictures/Screenshots</item>
+     </string-array>
+     <string-array name="widget_chooser_items">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+</resources>

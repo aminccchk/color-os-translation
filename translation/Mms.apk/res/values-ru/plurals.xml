@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="read_report_toast_msg">
+        <item quantity="other">Отчетов о прочтении: %d</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">человек: %1$s</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="one">Результат "%2$s" (%1$s)</item>
+        <item quantity="other">Результатов "%2$s" (%1$s)</item>
+     </plurals>
+     <plurals name="slide_duration">
+        <item quantity="few">%sс.</item>
+        <item quantity="one">%sс.</item>
+        <item quantity="other">%sс.</item>
+     </plurals>
+</resources>

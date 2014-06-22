@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="awake_reply_array">
+        <item>亲，需要帮忙吗？</item>
+        <item>您想要做什么？</item>
+        <item>有什么可以帮您？</item>
+        <item>亲，想要我做什么？</item>
+        <item>有事您吩咐！</item>
+        <item>我可以做什么？</item>
+        <item>亲，喊我有啥事？</item>
+     </string-array>
+     <string-array name="dialog_answer_before">
+        <item>我是</item>
+        <item>听好啦，我的名字叫做</item>
+        <item>我的名字是</item>
+        <item>我叫做</item>
+     </string-array>
+     <string-array name="dialog_answer_behind">
+        <item>，是你的语音助理。</item>
+        <item>，记住了哦！</item>
+        <item>，不要忘啦！</item>
+        <item>哦！</item>
+     </string-array>
+     <string-array name="negative_select">
+        <item>回复</item>
+        <item>关闭</item>
+        <item>退出</item>
+        <item>取消</item>
+        <item>知道了</item>
+        <item>返回</item>
+     </string-array>
+     <string-array name="photo_source_select_array">
+        <item>拍照</item>
+        <item>图库</item>
+     </string-array>
+     <string-array name="punctuations">
+        <item>。</item>
+        <item>，</item>
+        <item>？</item>
+        <item>！</item>
+     </string-array>
+     <string-array name="voice_activations">
+        <item>嗨，小欧助手</item>
+        <item>嗨，一二三四</item>
+        <item>小欧，开始干活</item>
+        <item>开启智能模式</item>
+     </string-array>
+     <string-array name="voice_tag">
+        <item>普通话</item>
+        <item>广东话</item>
+        <item>四川话</item>
+        <item>东北话</item>
+        <item>河南话</item>
+        <item>湖南话</item>
+     </string-array>
+     <string-array name="weather_area">
+        <item>省</item>
+        <item>市</item>
+        <item>区</item>
+        <item>镇</item>
+        <item>县</item>
+     </string-array>
+     <string-array name="welcomes_h00_06">
+        <item>嗨！再过一会儿就天亮啦！</item>
+        <item>现在应该再睡会儿哦！</item>
+        <item>新的一天又见面了！</item>
+        <item>夜里好！这么早就见到你了！</item>
+        <item>你好！</item>
+        <item>您好！</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>大半夜的，又见着你了！</item>
+        <item>亲，这么晚了，你是想？</item>
+        <item>夜里好！</item>
+     </string-array>
+     <string-array name="welcomes_h06_10">
+        <item>早上好！</item>
+        <item>你好！</item>
+        <item>您好！</item>
+        <item>需要帮忙吗？</item>
+        <item>早！吃了没？</item>
+        <item>早安！</item>
+        <item>一大早就看见你，真开心！</item>
+        <item>亲，该起床了！</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>又见着您了！</item>
+        <item>早哦！</item>
+     </string-array>
+     <string-array name="welcomes_h10_14">
+        <item>你好！</item>
+        <item>您好，需要帮忙吗？</item>
+        <item>您好！</item>
+        <item>啥事儿？</item>
+        <item>需要帮忙吗？</item>
+        <item>有事儿？</item>
+        <item>中午好！</item>
+        <item>见到你真开心！</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>又见着您了！</item>
+        <item>我在呢！</item>
+        <item>你好，记得午休啊!</item>
+     </string-array>
+     <string-array name="welcomes_h14_17">
+        <item>有什么需要帮助的吗？</item>
+        <item>下午好！</item>
+        <item>你好！</item>
+        <item>您好！</item>
+        <item>需要帮忙吗？</item>
+        <item>又见着您了！</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>你好，下午好哦！</item>
+     </string-array>
+     <string-array name="welcomes_h17_19">
+        <item>你好！</item>
+        <item>您好！</item>
+        <item>需要帮忙吗？</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>亲，今天我好忙，你呢！</item>
+     </string-array>
+     <string-array name="welcomes_h19_24">
+        <item>晚上好！</item>
+        <item>您好！</item>
+        <item>你好！</item>
+        <item>晚上好！</item>
+        <item>吃晚饭了吗？</item>
+        <item>需要帮忙吗？</item>
+        <item>你好，晚上好哦！</item>
+        <item>亲，可以睡了哦！</item>
+        <item>又见着您了！</item>
+        <item>你好，需要帮忙吗？</item>
+        <item>我在呢！</item>
+        <item>我等着你呢！</item>
+        <item>晚上好！记得要早点睡觉哦！</item>
+     </string-array>
+     <string-array name="welocome_for_name">
+        <item>你好！</item>
+        <item>您好！</item>
+        <item>夜里好！</item>
+        <item>早上好！</item>
+        <item>早安！</item>
+        <item>早哦！</item>
+        <item>中午好！</item>
+        <item>下午好！</item>
+        <item>晚上好！</item>
+     </string-array>
+</resources>

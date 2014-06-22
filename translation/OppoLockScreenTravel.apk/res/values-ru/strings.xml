@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">ColorOSLockScreenTravel</string>
+     <string name="battery_full">Заряжено</string>
+     <string name="discription">ColorOS</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="hello">Hello World, Test!</string>
+     <string name="hintCapability">Зарядка</string>
+     <string name="hundrend">%</string>
+     <string name="missInfoOverFlowHint">99+</string>
+     <string name="noservice">Нет сети</string>
+     <string name="unlockname">Travel unlock</string>
+</resources>

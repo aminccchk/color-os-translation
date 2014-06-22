@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="lockscreen_direction_descriptions">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="lockscreen_target_descriptions_with_camera">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="lockscreen_targets_with_camera">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+     </string-array>
+     <string-array name="week_day">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+     </string-array>
+</resources>

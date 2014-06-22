@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="SPLIT_TIMING_SELECT">
+        <item>Split Timing</item>
+        <item>Lap Timing</item>
+        <item>View Record</item>
+     </string-array>
+     <string-array name="Timer_RingName_FileName_List">
+        <item>Музыка 1</item>
+        <item>Музыка 2</item>
+        <item>Музыка 3</item>
+        <item>Музыка 4</item>
+        <item>Музыка 5</item>
+        <item>Музыка 6</item>
+     </string-array>
+     <string-array name="Timer_RingName_List">
+        <item>Музыка 1</item>
+        <item>Музыка 2</item>
+        <item>Музыка 3</item>
+        <item>Музыка 4</item>
+        <item>Музыка 5</item>
+        <item>Музыка 6</item>
+     </string-array>
+     <string-array name="alarm_alert_snooze_string">
+        <item>Перетащите значок будильника за пределы круга для отключения</item>
+        <item>Перетащите значок будильника за пределы круга чтобы отложить сигнал на 5 мин</item>
+        <item>Перетащите значок будильника за пределы круга чтобы отложить сигнал на 10 мин</item>
+     </string-array>
+     <string-array name="alarm_set">
+        <item>Будильник зазвонит менее чем через минуту.</item>
+        <item>Будильник зазвонит через %1$s.</item>
+        <item>Будильник зазвонит через %2$s.</item>
+        <item>Будильник зазвонит через %1$s %2$s.</item>
+        <item>Будильник зазвонит через %3$s.</item>
+        <item>Будильник зазвонит через %1$s %3$s.</item>
+        <item>Будильник зазвонит через %2$s %3$s.</item>
+        <item>Будильник зазвонит через %1$s %2$s %3$s.</item>
+     </string-array>
+     <string-array name="dayofweek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+     </string-array>
+     <string-array name="days_of_week_short">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+     </string-array>
+     <string-array name="oppo_AlertType">
+        <item>Только сигнал</item>
+        <item>Только вибрация</item>
+        <item>Вибрация и сигнал</item>
+     </string-array>
+     <string-array name="oppo_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>По рабочим дням</item>
+        <item>Выбрать</item>
+     </string-array>
+     <string-array name="oppo_time_of_snooze">
+        <item>Выкл</item>
+        <item>5 мин</item>
+        <item>10 мин</item>
+     </string-array>
+     <string-array name="oppo_time_of_snooze_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="repeat_dayofweek">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+     </string-array>
+     <string-array name="screen_timeout_entries">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>10 минут</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="snooze_duration_entries">
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+        <item>20 минут</item>
+        <item>25 минут</item>
+        <item>30 минут</item>
+     </string-array>
+     <string-array name="timezone_filters">
+        <item>Америка</item>
+        <item>Европа</item>
+        <item>Африка</item>
+        <item>Азия</item>
+        <item>Австралия</item>
+        <item>Тихий океан</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Количество запусков</item>
+        <item>Название приложения</item>
+     </string-array>
+     <string-array name="volume_button_setting_entries">
+        <item>Нет</item>
+        <item>Отложить</item>
+        <item>Отключить</item>
+     </string-array>
+     <string-array name="which_clock">
+        <item>первые</item>
+        <item>вторые</item>
+     </string-array>
+</resources>

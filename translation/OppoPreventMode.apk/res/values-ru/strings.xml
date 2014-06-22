@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">OppoPreventMode</string>
+     <string name="boottom_tag">Force to quit,pressing Back and Volume up key</string>
+     <string name="title">Misoperation prevent mode</string>
+     <string name="top_tag">Don't cover the top of screen</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="Calibration_Instructions">Когда точность компаса ухудшается, появится уведомление о калибровки. Для калибровки, пожалуйста возьмите и проведите линию в виде восьмерки. 
+ Показатель точности является %d, пожалуйста немедленно прокалибруйте.</string>
+     <string name="Calibration_Top">При возникновении неточностей, будет автоматически появляться просьба о калибровке. Для калибровки опишите устройством 8-ку в воздухе.
+
+Текущее значение точности самое точное.</string>
+     <string name="Close">ВЫКЛ</string>
+     <string name="East">Восток</string>
+     <string name="EastNorth">Северо-восток</string>
+     <string name="EastSouth">Юго-восток</string>
+     <string name="Help">Справка</string>
+     <string name="Help_Instructions">Верхняя часть компаса указывает направление и угол разворота. Указатель компаса указывает на север. В случае снижения точности будет автоматически выведено предложение выполнить калибровку. Во время калибровки нужно описать телефоном восьмерку в воздухе.</string>
+     <string name="Judge">Калибровка</string>
+     <string name="JudgeBeforeUse">Проведите калибровку перед первым использованием</string>
+     <string name="North">Север</string>
+     <string name="NorthEast">Северо-восток</string>
+     <string name="NorthWest">Северо-запад</string>
+     <string name="South">Юг</string>
+     <string name="SouthEast">Юго-восток</string>
+     <string name="SouthWest">Юго-запад</string>
+     <string name="West">Запад</string>
+     <string name="WestNorth">Северо-запад</string>
+     <string name="WestSouth">Юго-запад</string>
+     <string name="adjust">Нарисуйте в воздухе восьмерку с помощью телефона для повторной калибровки</string>
+     <string name="app_name">Компас</string>
+     <string name="calibrate">Калибровка</string>
+     <string name="comprass_interference">Помехи компаса</string>
+     <string name="comprass_interference_detail">Пожалуйста отойдите от источника помех и опишите телефоном восьмерку</string>
+     <string name="cta_test_dialog_content">This software requires internet access</string>
+     <string name="cta_test_dialog_content_reject">Do you want to allow this application to use the network?</string>
+     <string name="cta_test_dialog_title">Tips</string>
+     <string name="cta_test_dialog_title_reject">Data network closed for Compass</string>
+     <string name="dergee_sign">°</string>
+     <string name="disturb">Помехи компаса</string>
+     <string name="east">Восток</string>
+     <string name="gps_no_open">Пожалуйста, включите GPS</string>
+     <string name="hint_calibration">Пожалуйста отойдите от источника помех и опишите телефоном восьмерку</string>
+     <string name="latitude_north">Широта</string>
+     <string name="longitude_east">Долгота</string>
+     <string name="menu_Calibration">Калибровка</string>
+     <string name="menu_Help">Справка</string>
+     <string name="minute_sign">′</string>
+     <string name="north">Север</string>
+     <string name="north_east">Северо-восток</string>
+     <string name="north_west">Северо-запад</string>
+     <string name="second_sign">″</string>
+     <string name="south">Юг</string>
+     <string name="south_east">Юго-восток</string>
+     <string name="south_west">Юго-запад</string>
+     <string name="west">Запад</string>
+</resources>

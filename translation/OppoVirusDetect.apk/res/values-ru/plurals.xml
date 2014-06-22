@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="title_block_phone">
+        <item quantity="one">Звонок: %d</item>
+        <item quantity="other">Звонков: %d</item>
+     </plurals>
+     <plurals name="title_block_sms">
+        <item quantity="one">Сообщение: %d</item>
+        <item quantity="other">Сообщений: %d</item>
+     </plurals>
+     <plurals name="title_block_sms_append">
+        <item quantity="one">Сообщение: %d</item>
+        <item quantity="other">Сообщений: %d</item>
+     </plurals>
+</resources>

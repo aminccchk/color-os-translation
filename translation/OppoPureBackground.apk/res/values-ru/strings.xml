@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="oppo_purebackground_menu_left">Добавить программу</string>
+     <string name="oppo_purebackground_menu_right">Фоновая передача данных</string>
+     <string name="pure_background_applist_empty">Нет загруженных приложений</string>
+     <string name="pure_background_bgapp_manager_allow">Позволить работать в фоновом режиме</string>
+     <string name="pure_background_bgapp_manager_froze">Отключить работу в фоновом режиме</string>
+     <string name="pure_background_bgapp_manager_title">Управление фоновым режимом</string>
+     <string name="pure_background_bgapp_no_traffic">Нет трафика</string>
+     <string name="pure_background_bgapp_traffic">Трафик:</string>
+     <string name="pure_background_bgflow_ranking">Рейтинг по трафику</string>
+     <string name="pure_background_bgflow_ranking_empty">Нет приложений</string>
+     <string name="pure_background_bgflow_ranking_more">Еще…</string>
+     <string name="pure_background_detail_off">Фоновые процессы были отключены, мы рекомендуем Вам включить Фоновые процессы, что поможет Вам предотвратить нежелательную загрузку и получение спам-сообщений.</string>
+     <string name="pure_background_detail_on">Рекомендуем вам включить Фоновые процессы. Программа предотвращает потребление трафика запущенными в фоне приложениями, снижает расход энергии и нагрузку на процессор, а так же защищает ваше устройство от вредоносных программ.</string>
+     <string name="pure_background_flowrank_reset">Сбросить ранжирование потока</string>
+     <string name="pure_background_flowrank_reset_time">Последний запуск:</string>
+     <string name="pure_background_title">Фоновые процессы</string>
+     <string name="pure_background_title_onof">Фоновые процессы</string>
+     <string name="pure_background_trust_app">Доверенные приложения</string>
+     <string name="pure_background_trust_app_addmore">Добавить</string>
+     <string name="pure_background_trust_app_set">Добавить доверенное приложение</string>
+     <string name="pure_background_whitelist_empty">Нет приложений в фоне</string>
+</resources>

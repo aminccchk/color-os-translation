@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="game_detail_title">
+        <item>简介</item>
+        <item>评论</item>
+        <item>评测</item>
+        <item>攻略</item>
+     </string-array>
+     <string-array name="rank_title">
+        <item>最热</item>
+        <item>最新</item>
+     </string-array>
+</resources>

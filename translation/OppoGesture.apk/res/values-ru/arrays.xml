@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="url_info">
+        <item>http://wap.cmread.com</item>
+        <item>http://wap.easou.com</item>
+        <item>http://r.m.taobao.com</item>
+        <item>http://m.baidu.com</item>
+        <item>http://3g.163.com</item>
+        <item>http://3g.sina.com.cn</item>
+        <item>http://m.sohu.com</item>
+        <item>http://i.ifeng.com/</item>
+        <item>http://xuan.3g.cn</item>
+        <item>http://r.m.taobao.com</item>
+        <item>http://wap.zch168.com</item>
+        <item>http://m.renren.com</item>
+        <item>http://3g.qq.com</item>
+        <item>http://wap.qunar.com</item>
+        <item>http://wap.58.com</item>
+        <item>http://3g.youku.com/smartphone/</item>
+        <item>http://i.meituan.com</item>
+     </string-array>
+     <string-array name="url_tag">
+        <item>Mobile reading</item>
+        <item>Easou search</item>
+        <item>Tmall</item>
+        <item>Baidu</item>
+        <item>Netease</item>
+        <item>Sina News</item>
+        <item>Sohu</item>
+        <item>Mobile phone Phoenix</item>
+        <item>3G</item>
+        <item>Taobao</item>
+        <item>Lottery</item>
+        <item>Renren</item>
+        <item>Tencent</item>
+        <item>Qunar</item>
+        <item>58 City</item>
+        <item>Youku</item>
+        <item>MeiTuan</item>
+     </string-array>
+</resources>

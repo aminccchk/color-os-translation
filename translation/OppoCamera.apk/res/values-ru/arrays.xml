@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="camera_flashmode_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_flashmode_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_folders">
+        <item>我的照片</item>
+        <item>我的视频</item>
+        <item>心情相册</item>
+        <item>DCIM/Camera</item>
+        <item>DCIM/Photo space</item>
+     </string-array>
+     <string-array name="camera_highpicturesize_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_highpicturesize_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_id_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_mode_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_mode_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_picturesize_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_picturesize_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_recordlocation_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_recordlocation_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_scenemode_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_scenemode_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_sound_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_sound_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_storage_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_storage_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_tapshutter_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_tapshutter_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_time_lapse_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="camera_time_lapse_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="cmcc_back_camera_supported_mode_from_3rd">
+        <item>common</item>
+     </string-array>
+     <string-array name="cmcc_back_camera_supported_rec_mode">
+        <item>rec_1080p</item>
+        <item>rec_720p</item>
+        <item>rec_480p</item>
+        <item>rec_hdr</item>
+        <item>rec_slow_playback</item>
+     </string-array>
+     <string-array name="cmcc_front_camera_supported_mode_from_3rd">
+        <item>common</item>
+     </string-array>
+     <string-array name="cmcc_pref_back_camera_supported_mode">
+        <item>common</item>
+        <item>hdr</item>
+        <item>panorama</item>
+        <item>multifocus</item>
+     </string-array>
+     <string-array name="cmcc_pref_camera_settings_more">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="cmcc_pref_front_camera_supported_mode">
+        <item>common</item>
+        <item>multifocus</item>
+     </string-array>
+     <string-array name="coloreffect_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="coloreffect_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="contrast_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="contrast_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="current_week">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="default_hid_bucket_list">
+        <item>/com.sohu.sohuvideo/firstpage</item>
+        <item>/com.sohu.sohuvideo/otherpage</item>
+        <item>/tineer/picture</item>
+        <item>/iReader/skins/fashion_style</item>
+        <item>/netease/newsreader/netease_temp_pic</item>
+        <item>/nmgc_sdk_release/gamecenter/images/hdpi</item>
+        <item>/Tencent/MobileQQ/photo</item>
+        <item>/Tencent/MobileQQ/thumb</item>
+        <item>/data/image7</item>
+        <item>/nearme_folder_temp</item>
+        <item>/Tencent/MicroMsg/7f2fe041f5cf59c3795b3041b7f7f418/openapi</item>
+        <item>/ganji/friendsPhotoWall</item>
+        <item>/UlikeBeauty/content_drawable</item>
+        <item>/UlikeBeauty/Cover_Image_Cache</item>
+        <item>/UlikeBeauty/Team_Images</item>
+        <item>/CMDM/VisitImage</item>
+        <item>/NearMeMarket/temp</item>
+        <item>/Individuals Settings/temp</item>
+        <item>/QIYIVideo/image_cache</item>
+        <item>/NearMeReader/cover</item>
+        <item>/BaiduMap/cache/assets/place/img</item>
+        <item>/BaiduMap/cache/assets/subway/images</item>
+        <item>/91PandaReader/covers</item>
+        <item>/ganji/actionImage</item>
+        <item>/MandiCache</item>
+        <item>/JoyUCResource/10000</item>
+        <item>/CBox/temp</item>
+     </string-array>
+     <string-array name="exposure_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="exposure_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="filter_name">
+        <item>Original</item>
+        <item>Classic</item>
+        <item>Old Days</item>
+        <item>B&W</item>
+        <item>Warm</item>
+        <item>Film</item>
+        <item>Mirror</item>
+        <item>Lomo</item>
+        <item>Jeans</item>
+        <item>Moonlight</item>
+        <item>Tunnel</item>
+        <item>Antique</item>
+     </string-array>
+     <string-array name="irregular_layout_land">
+        <item>0,0,0,1,1</item>
+        <item>1,1,0,1,1</item>
+        <item>2,2,0,1,1</item>
+        <item>3,3,0,1,1</item>
+        <item>4,4,0,1,1</item>
+     </string-array>
+     <string-array name="irregular_layout_port">
+        <item>0,0,0,1,1</item>
+        <item>1,1,0,1,1</item>
+        <item>2,2,0,1,1</item>
+        <item>3,0,1,1,1</item>
+        <item>4,1,1,2,1</item>
+        <item>5,0,2,2,2</item>
+        <item>6,2,2,1,1</item>
+        <item>7,2,3,1,1</item>
+        <item>8,0,4,1,1</item>
+        <item>9,1,4,1,1</item>
+        <item>10,2,4,1,1</item>
+        <item>11,0,5,2,1</item>
+        <item>12,2,5,1,1</item>
+        <item>13,0,6,1,1</item>
+        <item>14,1,6,2,2</item>
+        <item>15,0,7,1,1</item>
+     </string-array>
+     <string-array name="iso_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="iso_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="last_week">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="mirror_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="mirror_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="oppoCameraComponentName">
+        <item>com.oppo.gallery3d/com.oppo.camera.CameraLauncher</item>
+     </string-array>
+     <string-array name="oppo_back_camera_supported_mode">
+        <item>common</item>
+        <item>hdr</item>
+        <item>panorama</item>
+        <item>beauty</item>
+        <item>slowshtr</item>
+        <item>superzoom</item>
+        <item>superzoom_one_plus</item>
+        <item>qrcode</item>
+        <item>poster</item>
+        <item>multifocus</item>
+        <item>audio</item>
+        <item>gif</item>
+        <item>raw</item>
+     </string-array>
+     <string-array name="oppo_back_camera_supported_mode_from_3rd">
+        <item>common</item>
+        <item>beauty</item>
+     </string-array>
+     <string-array name="oppo_back_camera_supported_picture_size">
+        <item>4160x3120</item>
+        <item>4160x2340</item>
+        <item>2048x1536</item>
+        <item>1920x1080</item>
+     </string-array>
+     <string-array name="oppo_back_camera_supported_rec_mode">
+        <item>rec_4kuhd</item>
+        <item>rec_1080p</item>
+        <item>rec_720p</item>
+        <item>rec_480p</item>
+        <item>rec_hdr</item>
+        <item>rec_slow_playback</item>
+     </string-array>
+     <string-array name="oppo_front_camera_supported_mode">
+        <item>common</item>
+        <item>beauty</item>
+        <item>multifocus</item>
+        <item>audio</item>
+        <item>gif</item>
+     </string-array>
+     <string-array name="oppo_front_camera_supported_mode_from_3rd">
+        <item>common</item>
+        <item>beauty</item>
+     </string-array>
+     <string-array name="oppo_front_camera_supported_picture_size">
+        <item>2592x1944</item>
+        <item>1920x1080</item>
+     </string-array>
+     <string-array name="oppo_front_camera_supported_rec_mode">
+        <item>rec_720p</item>
+        <item>rec_480p</item>
+     </string-array>
+     <string-array name="pref_camera_antibanding_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_antibanding_entryvalues">
+        <item>off</item>
+        <item>50hz</item>
+        <item>60hz</item>
+        <item>auto</item>
+     </string-array>
+     <string-array name="pref_camera_audioencoder_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_audioencoder_entryvalues">
+        <item>amrnb</item>
+        <item>aac</item>
+     </string-array>
+     <string-array name="pref_camera_autoexposure_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_autoexposure_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_coloreffect_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>emboss</item>
+        <item>sketch</item>
+        <item>neon</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+     </string-array>
+     <string-array name="pref_camera_denoise_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_denoise_entryvalues">
+        <item>denoise-off</item>
+        <item>denoise-on</item>
+     </string-array>
+     <string-array name="pref_camera_facedetection_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_facedetection_entryvalues">
+        <item>off</item>
+        <item>on</item>
+     </string-array>
+     <string-array name="pref_camera_flashmode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_flashmode_entryvalues">
+        <item>on</item>
+        <item>off</item>
+        <item>auto</item>
+        <item>torch</item>
+     </string-array>
+     <string-array name="pref_camera_focusmode_default_array">
+        <item>auto</item>
+        <item>continuous-picture</item>
+     </string-array>
+     <string-array name="pref_camera_focusmode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+        <item>normal</item>
+        <item>continuous-picture</item>
+     </string-array>
+     <string-array name="pref_camera_fullscreen_preview_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_fullscreen_preview_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_hdr_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_hdr_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_hfr_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_hfr_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_highpicturesize_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_highpicturesize_entryvalues">
+        <item>5000</item>
+        <item>2400</item>
+     </string-array>
+     <string-array name="pref_camera_jpegquality_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>55</item>
+        <item>65</item>
+        <item>75</item>
+        <item>85</item>
+        <item>95</item>
+        <item>100</item>
+        <item>superfine</item>
+        <item>fine</item>
+        <item>normal</item>
+     </string-array>
+     <string-array name="pref_camera_mode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_mode_entryvalues">
+        <item>common</item>
+        <item>hdr</item>
+        <item>superzoom</item>
+        <item>superzoom_one_plus</item>
+        <item>beauty</item>
+        <item>panorama</item>
+        <item>slowshtr</item>
+        <item>multifocus</item>
+        <item>audio</item>
+        <item>gif</item>
+        <item>qrcode</item>
+        <item>poster</item>
+        <item>raw</item>
+     </string-array>
+     <string-array name="pref_camera_multilevel_sharpness_entryvalues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+     </string-array>
+     <string-array name="pref_camera_picture_format_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_picture_format_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_picturesize_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_picturesize_entryvalues">
+        <item>4160x3120</item>
+        <item>4160x2340</item>
+        <item>3200x2400</item>
+        <item>2592x1944</item>
+        <item>2048x1536</item>
+        <item>2048x1152</item>
+        <item>1920x1080</item>
+        <item>1600x1200</item>
+        <item>1392x1392</item>
+        <item>1280x960</item>
+        <item>1280x768</item>
+        <item>1280x720</item>
+        <item>640x480</item>
+     </string-array>
+     <string-array name="pref_camera_powermode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_powermode_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_recordlocation_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_redeyereduction_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_redeyereduction_entryvalues">
+        <item>enable</item>
+        <item>disable</item>
+     </string-array>
+     <string-array name="pref_camera_scenedetect_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_scenedetect_entryvalues">
+        <item>off</item>
+        <item>on</item>
+     </string-array>
+     <string-array name="pref_camera_scenemode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_scenemode_entryvalues">
+        <item>auto</item>
+        <item>asd</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>sports</item>
+        <item>night</item>
+     </string-array>
+     <string-array name="pref_camera_selectablezoneaf_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_selectablezoneaf_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_settings">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_settings_more">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_settings_more_high_picture">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_sharpness_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_skinToneEnhancement_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_skinToneEnhancement_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_smile_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_smile_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_sound_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_sound_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_storage_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_storage_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_tapshutter_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_tapshutter_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_time_lapse_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_time_lapse_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_touchafaec_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_touchafaec_entryvalues">
+        <item>touch-off</item>
+        <item>touch-on</item>
+     </string-array>
+     <string-array name="pref_camera_video_duration_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_video_duration_entryvalues">
+        <item>-1</item>
+        <item>10</item>
+        <item>30</item>
+     </string-array>
+     <string-array name="pref_camera_video_flashmode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>torch</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_camera_videoencoder_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_videoencoder_entryvalues">
+        <item>m4v</item>
+        <item>h263</item>
+        <item>h264</item>
+     </string-array>
+     <string-array name="pref_camera_whitebalance_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy-daylight</item>
+     </string-array>
+     <string-array name="pref_camera_zsl_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_camera_zsl_entryvalues">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_coloreffect_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_coloreffect_entryvalues">
+        <item>none</item>
+        <item>aqua</item>
+        <item>negative</item>
+        <item>mono</item>
+        <item>sepia</item>
+     </string-array>
+     <string-array name="pref_contrast_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_contrast_entryvalues">
+        <item>10</item>
+        <item>5</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="pref_exposure_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_exposure_entryvalues">
+        <item>12</item>
+        <item>6</item>
+        <item>0</item>
+        <item>-6</item>
+        <item>-12</item>
+     </string-array>
+     <string-array name="pref_iso_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_iso_entryvalues">
+        <item>auto</item>
+        <item>ISO100</item>
+        <item>ISO200</item>
+        <item>ISO400</item>
+        <item>ISO800</item>
+        <item>ISO1600</item>
+     </string-array>
+     <string-array name="pref_mirror_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_mirror_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_rec_mode_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_rec_mode_entryvalues">
+        <item>rec_4kuhd</item>
+        <item>rec_1080p</item>
+        <item>rec_720p</item>
+        <item>rec_480p</item>
+        <item>rec_hdr</item>
+        <item>rec_slow_playback</item>
+     </string-array>
+     <string-array name="pref_saturation_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_saturation_entryvalues">
+        <item>10</item>
+        <item>5</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="pref_video_hdr_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_video_hdr_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_video_record_sound_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_video_record_sound_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_video_settings">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_video_settings_more">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_voice_shutter_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_voice_shutter_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="pref_voice_skin_beauty_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="pref_voice_skin_beauty_entryvalues">
+        <item>on</item>
+        <item>off</item>
+     </string-array>
+     <string-array name="rec_mode_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="rec_mode_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="saturation_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="saturation_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shift_folders">
+        <item>DCIM/Camera</item>
+        <item>我的照片</item>
+        <item>心情相册</item>
+        <item>DCIM/Photo space</item>
+        <item>我的图片</item>
+        <item>Pictures</item>
+        <item>Pictures/Screenshots</item>
+     </string-array>
+     <string-array name="video_flashmode_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="video_flashmode_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="voice_shutter_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="voice_shutter_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="voice_skin_beauty_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="voice_skin_beauty_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="whitebalance_icons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="whitebalance_largeicons">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="widget_chooser_items">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+</resources>

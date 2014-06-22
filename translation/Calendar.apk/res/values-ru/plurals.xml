@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="Ndays">
+        <item quantity="one">1 д. назад</item>
+        <item quantity="other">%d д. назад</item>
+     </plurals>
+     <plurals name="Nhours">
+        <item quantity="one">1 час назад</item>
+        <item quantity="other">%d ч. назад</item>
+     </plurals>
+     <plurals name="Nmins">
+        <item quantity="one">1 мин. назад</item>
+        <item quantity="other">%d мин. назад</item>
+     </plurals>
+     <plurals name="Nminutes">
+        <item quantity="one">1 мин. назад</item>
+        <item quantity="other">%d мин. назад</item>
+     </plurals>
+     <plurals name="month_more_events">
+        <item quantity="one"> и еще 1</item>
+        <item quantity="other"> и еще%d</item>
+     </plurals>
+     <plurals name="weekN">
+        <item quantity="other">Неделя %d</item>
+     </plurals>
+</resources>

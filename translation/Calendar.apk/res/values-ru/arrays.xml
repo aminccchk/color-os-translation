@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="availability">
+        <item>Занят</item>
+        <item>Доступен</item>
+        <item>Может быть</item>
+     </string-array>
+     <string-array name="birthday_operation_blessing">
+        <item>Изменить</item>
+        <item>Удалить</item>
+        <item>Резервное копирование</item>
+     </string-array>
+     <string-array name="birthday_reminder_minutes_labels">
+        <item>В заданное время</item>
+        <item>1 день</item>
+        <item>2 дня</item>
+     </string-array>
+     <string-array name="birthday_reminder_minutes_values">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+     </string-array>
+     <string-array name="calendar_buttons_list">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+     </string-array>
+     <string-array name="calendar_month_header_array">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="calendar_spinner">
+        <item>Месяц</item>
+        <item>Неделя</item>
+        <item>День</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Только это событие</item>
+        <item>Все события в группе</item>
+     </string-array>
+     <string-array name="chinese_animal_year">
+        <item>肖鼠</item>
+        <item>肖牛</item>
+        <item>肖虎</item>
+        <item>肖兔</item>
+        <item>肖龙</item>
+        <item>肖蛇</item>
+        <item>肖马</item>
+        <item>肖羊</item>
+        <item>肖猴</item>
+        <item>肖鸡</item>
+        <item>肖狗</item>
+        <item>肖猪</item>
+     </string-array>
+     <string-array name="chinese_day_number">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>卅十</item>
+     </string-array>
+     <string-array name="chinese_dizhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+     </string-array>
+     <string-array name="chinese_feast">
+        <item>Праздник весны</item>
+        <item>Праздник Середины Осени</item>
+        <item>День Поминовения</item>
+     </string-array>
+     <string-array name="chinese_leap_month">
+        <item>闰</item>
+        <item>月</item>
+     </string-array>
+     <string-array name="chinese_month_number">
+        <item>月</item>
+        <item>正</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+     </string-array>
+     <string-array name="chinese_other_feast">
+        <item>植树节</item>
+        <item>愚人节</item>
+        <item>青年节</item>
+        <item>护士节</item>
+        <item>建党节</item>
+        <item>建军节</item>
+     </string-array>
+     <string-array name="chinese_tiangan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+     </string-array>
+     <string-array name="crazy_tickets_days">
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Только это событие</item>
+        <item>Это и последующие события</item>
+        <item>Все события</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Удалить это и будущие повторяющиеся события</item>
+        <item>Удалить это и подобные события</item>
+     </string-array>
+     <string-array name="end_repeat">
+        <item>Повторять всегда</item>
+        <item>Не повторять</item>
+     </string-array>
+     <string-array name="english_feast">
+        <item>Новый год</item>
+        <item>День сурка</item>
+        <item>День святого Валентина</item>
+        <item>День Земли</item>
+        <item>День флага</item>
+        <item>День независимости</item>
+        <item>День патриота</item>
+        <item>Хэллоуин</item>
+        <item>День ветеранов</item>
+        <item>Перл-Харбор день</item>
+        <item>Рождество</item>
+     </string-array>
+     <string-array name="english_feast_rule1">
+        <item>День рождения Мартина Лютера Кинга</item>
+        <item>День рождения Вашингтона</item>
+        <item>день древонасаждения</item>
+        <item>День матери</item>
+        <item>День поминовения</item>
+        <item>День отца</item>
+        <item>День труда</item>
+        <item>День Колумба</item>
+        <item>День благодарения</item>
+     </string-array>
+     <string-array name="english_month_number">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="eventinfo_reminder_minutes_labels">
+        <item>В заданное время</item>
+        <item>за 15 мин.</item>
+        <item>за 30 мин.</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+     </string-array>
+     <string-array name="indonesia_islam_feast">
+        <item>Birth of the Prophet Mohammad</item>
+        <item>Ascension of the Prophet Mohammad</item>
+        <item>Hari Raya Idul Fitri</item>
+        <item>Idul Adha</item>
+        <item>Islamic New Year</item>
+     </string-array>
+     <string-array name="indonesia_lumar_feast">
+        <item>Китайский Новый год</item>
+        <item>Весак</item>
+     </string-array>
+     <string-array name="indonesia_other_feast">
+        <item>Friday</item>
+        <item>Ascension of Christ</item>
+     </string-array>
+     <string-array name="indonesia_solar_feast">
+        <item>Новый год</item>
+        <item>День Независимости Индонезии</item>
+        <item>Рождество</item>
+     </string-array>
+     <string-array name="islam_month">
+        <item>Muharram</item>
+        <item>Shafar</item>
+        <item>Rabiul 1</item>
+        <item>Rabiul 2</item>
+        <item>Jumadil 1</item>
+        <item>Jumadil 2</item>
+        <item>Rajab</item>
+        <item>Syaapos;ban</item>
+        <item>Ramadhan</item>
+        <item>Syawal</item>
+        <item>Dzulqaapos;dah</item>
+        <item>Dzulhijjah</item>
+     </string-array>
+     <string-array name="lunar_feast">
+        <item>除夕</item>
+        <item>春节</item>
+        <item>元宵节</item>
+        <item>端午节</item>
+        <item>七夕</item>
+        <item>中元节</item>
+        <item>中秋节</item>
+        <item>重阳节</item>
+        <item>腊八节</item>
+        <item>小年(北)</item>
+        <item>小年(南)</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>перв.</item>
+        <item>втор.</item>
+        <item>трет.</item>
+        <item>четверт.</item>
+        <item>последн.</item>
+     </string-array>
+     <string-array name="other_feast">
+        <item>День защиты детей</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только в режиме без звука</item>
+        <item>Никогда</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
+        <item>В заданное время</item>
+        <item>за 15 мин.</item>
+        <item>за 30 мин.</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
+        <item>Региональные настройки по умолчанию</item>
+        <item>суббота</item>
+        <item>воскресенье</item>
+        <item>понедельник</item>
+     </string-array>
+     <string-array name="prefs_vibrate_values">
+        <item>Сигнал</item>
+        <item>Вибрация</item>
+        <item>Сигнал и вибрация</item>
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Running just a couple of minutes late.</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>Sorry, I can't make it. We'll have to reschedule.</item>
+     </string-array>
+     <string-array name="receive_dialog_content">
+        <item>Импорт событий</item>
+        <item>Сохранить в файл</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Уведомление</item>
+        <item>Email</item>
+        <item>SMS</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>В заданное время</item>
+        <item>за 15 мин.</item>
+        <item>за 30 мин.</item>
+        <item>за 1 час</item>
+        <item>за 2 часа</item>
+        <item>за 1 день</item>
+        <item>за 2 дня</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Не ответили</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+     </string-array>
+     <string-array name="russia_feast">
+        <item>Новый год</item>
+        <item>Рождество Христово</item>
+        <item>День защитника Отечества</item>
+        <item>Международный женский день</item>
+        <item>Праздник всены и труда</item>
+        <item>День Победы</item>
+        <item>День России</item>
+        <item>День Государственного флага Российской Федерации</item>
+        <item>День народного единства</item>
+        <item>День всех влюбленных</item>
+        <item>Хэллоуин</item>
+        <item>День смеха</item>
+     </string-array>
+     <string-array name="send_blessing">
+        <item>Send blessing message</item>
+        <item>Send birthday email</item>
+     </string-array>
+     <string-array name="send_method">
+        <item>через SMS</item>
+        <item>через MMS</item>
+        <item>через email</item>
+        <item>по Bluetooth</item>
+     </string-array>
+     <string-array name="solar_feast">
+        <item>元旦</item>
+        <item>情人节</item>
+        <item>妇女节</item>
+        <item>劳动节</item>
+        <item>母亲节</item>
+        <item>儿童节</item>
+        <item>父亲节</item>
+        <item>教师节</item>
+        <item>国庆节</item>
+        <item>感恩节</item>
+        <item>圣诞节</item>
+     </string-array>
+     <string-array name="solar_term">
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+     </string-array>
+     <string-array name="thai_calendar">
+        <item>(Buddhist) </item>
+     </string-array>
+     <string-array name="thai_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+     </string-array>
+     <string-array name="thai_leap">
+        <item>(2)</item>
+     </string-array>
+     <string-array name="thai_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Март</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Авг</item>
+        <item>Сент</item>
+        <item>Окт</item>
+        <item>Нояб</item>
+        <item>Дек</item>
+     </string-array>
+     <string-array name="thailand_solar_feast">
+        <item>New Year</item>
+        <item>Teacher's Day</item>
+        <item>Founding Day Of The Roma Dynasty</item>
+        <item>Songkran Festival</item>
+        <item>Songkran Festival</item>
+        <item>Songkran Festival</item>
+        <item>Labor Day</item>
+        <item>King Coronation Day</item>
+        <item>Mother’s Day</item>
+        <item>Chulalongkorn Day</item>
+        <item>Father’s Day</item>
+        <item>Constitution Day</item>
+     </string-array>
+     <string-array name="thailand_thai_feast">
+        <item>Makabucha Day</item>
+        <item>Visakabucha Day</item>
+        <item>Asalabucha Day</item>
+        <item>Buddhist Lent Day</item>
+        <item>End of Buddhist Lent Day</item>
+        <item>Loi Krathong Day</item>
+     </string-array>
+     <string-array name="timezone_labels">
+        <item>Маршалловы о-ва</item>
+        <item>Острова Мидуэй</item>
+        <item>Гавайские о-ва</item>
+        <item>Аляска</item>
+        <item>Тихоокеанское время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Зона зимнего времени</item>
+        <item>Центральная Америка</item>
+        <item>Центральное время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлантическое время</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилия</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среднеатлантический</item>
+        <item>Азорские о-ва</item>
+        <item>О-ва Зеленого Мыса</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Западноафриканское время</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Колката</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>о-в Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+     </string-array>
+     <string-array name="up_down_month">
+        <item>Первая четверть луны</item>
+        <item>последняя четверть луны</item>
+     </string-array>
+     <string-array name="vietnam_lunar_feast">
+        <item>Vietnamese New Year</item>
+        <item>Lantern Festival</item>
+        <item>Cold Food Festival</item>
+        <item>Hung Kings Commemoriations</item>
+        <item>Khmer New Year</item>
+        <item>Buddha's Birthday</item>
+        <item>Mid-year Festival</item>
+        <item>Ghost Festival</item>
+        <item>Kate festival</item>
+        <item>Mid-Autumn Festival</item>
+        <item>Double Ninth Festival</item>
+        <item>Kitchen guardians</item>
+     </string-array>
+     <string-array name="vietnam_solar_feast">
+        <item>Новый Год</item>
+        <item>День Основания Коммунистической партии Вьетнама</item>
+        <item>День Святого Валентина</item>
+        <item>Международный Женский день</item>
+        <item>День Дурака</item>
+        <item>День Освобождения</item>
+        <item>День Международной Солидарности Трудящихся</item>
+        <item>День рождения президента Хо Ши Мина</item>
+        <item>День Защиты Детей</item>
+        <item>День памяти</item>
+        <item>День памяти августовской Революции</item>
+        <item>День независимости(Вьетнам)</item>
+        <item>День Освобождения Столицы</item>
+        <item>Вьетнамский День Бизнесмена</item>
+        <item>Вьетнамский Женский день</item>
+        <item>День Учителя</item>
+        <item>День Национальной Обороны</item>
+        <item>Рождество</item>
+     </string-array>
+     <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Закрытое</item>
+        <item>Для всех</item>
+     </string-array>
+     <string-array name="week_days">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+     </string-array>
+     <string-array name="western_feast">
+        <item>Рождество</item>
+        <item>День святого Валентина</item>
+        <item>Хеллоуин</item>
+        <item>День смеха</item>
+     </string-array>
+</resources>

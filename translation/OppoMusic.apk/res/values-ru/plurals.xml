@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="NNNtracksdeleted">
+        <item quantity="one"> 1 трек удален</item>
+        <item quantity="other">%d треков удалено</item>
+     </plurals>
+     <plurals name="NNNtrackstobedeleted">
+        <item quantity="one">Удалить трек из плей-листа?</item>
+        <item quantity="other">Удалить %d треков?</item>
+     </plurals>
+     <plurals name="NNNtrackstoplaylist">
+        <item quantity="one">1 трек добавлен в плей-лист</item>
+        <item quantity="other">%d треков добавлено в плей-лист</item>
+     </plurals>
+     <plurals name="Nalbums">
+        <item quantity="one">Альбом: 1</item>
+        <item quantity="other"> Альбомов: %d</item>
+     </plurals>
+     <plurals name="Nsongs">
+        <item quantity="other">Треков: %d</item>
+     </plurals>
+     <plurals name="Nsongscomp">
+        <item quantity="other">%2$dиз%1$d треков</item>
+     </plurals>
+     <plurals name="StopTime">
+        <item quantity="other">%d мин.</item>
+     </plurals>
+</resources>

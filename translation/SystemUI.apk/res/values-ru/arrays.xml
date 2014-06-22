@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="oldComponentName">
+        <item>com.oppo.LockNow/com.oppo.LockNow.LockNowActivity</item>
+     </string-array>
+</resources>

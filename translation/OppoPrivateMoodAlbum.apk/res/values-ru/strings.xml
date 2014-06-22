@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="Close">ВЫКЛ</string>
+     <string name="IMAGE_BUCKET_NAME">DCIM/Photo space</string>
+     <string name="app_name">Альбом</string>
+     <string name="camera_error_title">Ошибка камеры</string>
+     <string name="camera_in_use">Невозможно подсоединиться к камере</string>
+     <string name="cancel">Отмена</string>
+     <string name="confirm_delete">Удалить?</string>
+     <string name="confirm_delete_ok">Удалить?</string>
+     <string name="date">2013.01.01</string>
+     <string name="delete">Удалить</string>
+     <string name="dockIntent1">com.oppo.gallery3d/com.oppo.camera.CameraLauncher</string>
+     <string name="dockIntent2">com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery</string>
+     <string name="dockIntent3">com.oppo.video/com.oppo.video.VideoListActivity</string>
+     <string name="edit">Изменить</string>
+     <string name="edit_mood_hint">Введите текст(до 30 символов)</string>
+     <string name="external_to_internal">SD карта переполнена, будет использована память телефона </string>
+     <string name="external_to_internal_camera">SD карта недоступна, будет использована память телефона</string>
+     <string name="image_file_name_format">'IMG'yyyyMMddHHmmss</string>
+     <string name="internal_external_no_enough_space">Память телефона и SD карта заполнены, для продолжения использования камеры удалите часть файлов.</string>
+     <string name="internal_low_storage_space">Недостаточно места в памяти телефона</string>
+     <string name="internal_no_enough_space">Память телефона заполнена, для продолжения использования камеры удалите часть файлов.</string>
+     <string name="internal_to_external">Память телефона  переполнена, будет использована SD карта.</string>
+     <string name="internal_to_external_camera">Память телефона не доступна, будет использована SD карта</string>
+     <string name="no_storage">Недостаточно памяти</string>
+     <string name="ok">Сохранить</string>
+     <string name="oppo_timeline_hint">Загрузите фото для дополнительного просмотра</string>
+     <string name="picture_not_exist">Картинка не сущеуствует</string>
+     <string name="send_to">Send</string>
+     <string name="share">Share</string>
+</resources>

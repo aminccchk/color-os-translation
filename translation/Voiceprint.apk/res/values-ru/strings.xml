@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Voiceprint</string>
+     <string name="choose_encrypt_application">Select voiceprint-encrypted apps</string>
+     <string name="choose_encrypt_application_summary">Encrypt or decrypt apps</string>
+     <string name="choose_lock_voiceprint_title">Please select voiceprint password</string>
+     <string name="confirm_voiceprint_title">Confirm your voiceprint</string>
+     <string name="enroll_result_error">Sorry, the effect is bad</string>
+     <string name="enroll_result_ok">OK</string>
+     <string name="enroll_result_success">Voice password set successfully</string>
+     <string name="enroll_voiceprint_prompt1">Please read Mandarin uniform "%1$s"</string>
+     <string name="enroll_voiceprint_prompt2">Please repeat "%1$s" in normal speed</string>
+     <string name="enroll_voiceprint_prompt3">Your voice feature is getting clear, please repeat "%1$s" again</string>
+     <string name="enroll_voiceprint_prompt4">The phone is about to recognize your unique voice code, please repeat "%1$s" one more time</string>
+     <string name="enroll_voiceprint_prompt5">This is the last confirmation, please speak "%1$s" in normal speed one last time</string>
+     <string name="enroll_voiceprint_title">Start encryption</string>
+     <string name="errorinfo_speech_device_occupied">Sorry, the recording device is busy, please try again later</string>
+     <string name="errorinfo_speech_input_timeout">Sorry, the time of voice input is too long, please try again</string>
+     <string name="errorinfo_speech_no_input">No voice input, please try again</string>
+     <string name="next">Next</string>
+     <string name="preference_information_description">Voiceprint is like your finger print, everyone's is different from each other. To extract your voiceprint This feature will need to reocrd your voice five times so as to make a unique password for your which will not be cracked easily.</string>
+     <string name="preference_information_title">Instructions</string>
+     <string name="preference_voiceprint_title">Voiceprint password</string>
+     <string name="real_time_wake">Any-time wakeup（Owner mode）</string>
+     <string name="real_time_wake_summary">Only the phone owner can use O-Voice Any-time wakeup</string>
+     <string name="record_cancel">Recording canceled, please tap the record button to record again</string>
+     <string name="record_error">Recording error, please tap the record button to record again</string>
+     <string name="verify_retry">Recognition failed, please tap the record button to try again</string>
+     <string name="voice_all_in_one_title">Voiceprint password</string>
+     <string name="voice_switch_email">Email</string>
+     <string name="voice_switch_email_summary">Use voice control to go to next/last email</string>
+     <string name="voice_switch_gallery3d">Photos</string>
+     <string name="voice_switch_gallery3d_summary">Use voice control to switch slides when browsing photos</string>
+     <string name="voice_switch_information">Currently the supported voice control is"向上翻" and "向下翻"</string>
+     <string name="voice_switch_reader">Reading</string>
+     <string name="voice_switch_reader_summary">Use voice control to flip pages when reading</string>
+     <string name="voice_switch_title">Voice control</string>
+     <string name="voiceprint_encrypt_application">Voiceprint encrypt</string>
+     <string name="voiceprint_encrypt_application_summary">Use voiceprint password when encrypting apps</string>
+     <string name="voiceprint_unlock">Voiceprint unlock</string>
+     <string name="voiceprint_unlock_summary">Set voiceprint password for lock screen</string>
+</resources>

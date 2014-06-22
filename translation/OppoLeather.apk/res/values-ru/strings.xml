@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="Friday">Fri</string>
+     <string name="Monday">Mon</string>
+     <string name="Saturday">Sat</string>
+     <string name="Sunday">Sun</string>
+     <string name="Thursday">Thu</string>
+     <string name="Tuesday">Tue</string>
+     <string name="Wednesday">Wed</string>
+     <string name="answer_call">Answer</string>
+     <string name="app_name">OppoLeather</string>
+     <string name="call_ended">Call ended</string>
+     <string name="call_hold">Your call with %1$s is reserved</string>
+     <string name="day">day</string>
+     <string name="description_direction_left">description_direction_left</string>
+     <string name="description_direction_right">description_direction_right</string>
+     <string name="description_target_camera">description_target_camera</string>
+     <string name="description_target_unlock">description_target_unlock</string>
+     <string name="emergency_call_dialog_number_for_display">Emergency number</string>
+     <string name="end_call">Decline</string>
+     <string name="exit_window_mode">Tap here to exit window mode</string>
+     <string name="is_dialing">Calling</string>
+     <string name="is_ending">Declining</string>
+     <string name="month">month</string>
+     <string name="oppo_UnknowCity">-</string>
+     <string name="oppo_local_number">Local number</string>
+     <string name="oppo_special_number">Service number</string>
+     <string name="slide_end_call">slide out of the loop to end call</string>
+</resources>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="android_am">am</string>
+     <string name="android_config_defaultDreamComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
+     <string name="android_pm">pm</string>
+     <string name="imProtocolFBM">FBM</string>
+     <string name="imProtocolMail">Mail.ru Agent</string>
+     <string name="imProtocolQip">QIP</string>
+     <string name="imProtocolViber">Viber</string>
+     <string name="imProtocolWechat">Wechat</string>
+     <string name="imProtocolWhatsapp">Whatsapp</string>
+     <string name="mmcmnc25001">MTS RUS</string>
+     <string name="mmcmnc25002">MegaFon</string>
+     <string name="mmcmnc25003">NCC</string>
+     <string name="mmcmnc25005">ETK</string>
+     <string name="mmcmnc25007">SMARTS</string>
+     <string name="mmcmnc25012">Baykalwstern</string>
+     <string name="mmcmnc25014">SMARTS</string>
+     <string name="mmcmnc25016">NTC</string>
+     <string name="mmcmnc25017">Utel</string>
+     <string name="mmcmnc25019">INDIGO</string>
+     <string name="mmcmnc25020">Tele2</string>
+     <string name="mmcmnc25023">Mobicom</string>
+     <string name="mmcmnc25039">Utel</string>
+     <string name="mmcmnc25099">Beeline</string>
+     <string name="mmcmnc45201">VN MOBIFONE</string>
+     <string name="mmcmnc45202">VINAPHONE</string>
+     <string name="mmcmnc45204">VIETTEL</string>
+     <string name="mmcmnc45205">Vietnamobile</string>
+     <string name="mmcmnc45207">Beeline VN</string>
+     <string name="mmcmnc45406">Smartone-Vodafone</string>
+     <string name="mmcmnc45410">New World</string>
+     <string name="mmcmnc45412">CMCC Peoples</string>
+     <string name="mmcmnc45415">SmarTone Mobile Comms</string>
+     <string name="mmcmnc45416">PCCW</string>
+     <string name="mmcmnc45419">PCCW</string>
+     <string name="mmcmnc45500">SmarTone</string>
+     <string name="mmcmnc45501">CTM</string>
+     <string name="mmcmnc45503">3</string>
+     <string name="mmcmnc45504">CTM</string>
+     <string name="mmcmnc45505">3</string>
+     <string name="mmcmnc46000">CMCC</string>
+     <string name="mmcmnc46001">UNICOM</string>
+     <string name="mmcmnc46002">CMCC</string>
+     <string name="mmcmnc46003">CTCC</string>
+     <string name="mmcmnc46007">CMCC</string>
+     <string name="mmcmnc46601">FarEasTone</string>
+     <string name="mmcmnc46688">KG Telecom</string>
+     <string name="mmcmnc46689">VIBO</string>
+     <string name="mmcmnc46692">Chungwa</string>
+     <string name="mmcmnc46693">MobiTai</string>
+     <string name="mmcmnc46697">Taiwan Mobile</string>
+     <string name="mmcmnc46699">TransAsia</string>
+     <string name="mmcmnc51001">INDOSAT</string>
+     <string name="mmcmnc51008">AXIS</string>
+     <string name="mmcmnc51010">TELKOMSEL</string>
+     <string name="mmcmnc51011">XL Axiata</string>
+     <string name="mmcmnc51089">3</string>
+     <string name="oppo_abbrev_month_day_dmy" formatted="false">%-e %b</string>
+     <string name="oppo_abbrev_month_day_mdy" formatted="false">%b %-e</string>
+     <string name="oppo_abbrev_month_day_year_dmy" formatted="false">%-e %b, %Y</string>
+     <string name="oppo_abbrev_month_day_year_mdy" formatted="false">%b %-e, %Y</string>
+     <string name="oppo_abbrev_month_day_year_ymd" formatted="false">%Y, %b %-e</string>
+     <string name="oppo_abbrev_month_day_ymd" formatted="false">%b %-e</string>
+     <string name="oppo_abbrev_month_year_dmy" formatted="false">%b %Y</string>
+     <string name="oppo_abbrev_month_year_mdy" formatted="false">%b %Y</string>
+     <string name="oppo_abbrev_month_year_ymd" formatted="false">%Y %b</string>
+     <string name="oppo_allow_text">Allow</string>
+     <string name="oppo_battery_waring_subtitle">Warning:</string>
+     <string name="oppo_day_month_year_wday" formatted="false">%s %s %s, %s</string>
+     <string name="oppo_day_year_month_wday" formatted="false">%s %s %s, %s</string>
+     <string name="oppo_flip_frame_step">1.0f</string>
+     <string name="oppo_loading">Loading......</string>
+     <string name="oppo_lunar_calendar_text">Lunar calendar</string>
+     <string name="oppo_lunar_leap_11">闰十一</string>
+     <string name="oppo_lunar_leap_12">闰十二</string>
+     <string name="oppo_modify_pkg_perms">Modify permissions</string>
+     <string name="oppo_modify_pkg_perms_detail">Goto Settings→Normal→ManageApplication, modify permissions!</string>
+     <string name="oppo_month_day_dmy" formatted="false">%-e %B</string>
+     <string name="oppo_month_day_mdy" formatted="false">%B %-e</string>
+     <string name="oppo_month_day_year_dmy" formatted="false">%-e %B, %Y</string>
+     <string name="oppo_month_day_year_mdy" formatted="false">%B %-e, %Y</string>
+     <string name="oppo_month_day_year_wday" formatted="false">%s %s, %s, %s</string>
+     <string name="oppo_month_day_year_ymd" formatted="false">%Y, %B %-e</string>
+     <string name="oppo_month_day_ymd" formatted="false">%B %-e</string>
+     <string name="oppo_month_year_day_wday" formatted="false">%s %s %s, %s</string>
+     <string name="oppo_month_year_dmy" formatted="false">%B %Y</string>
+     <string name="oppo_month_year_mdy" formatted="false">%B %Y</string>
+     <string name="oppo_month_year_ymd" formatted="false">%Y %B</string>
+     <string name="oppo_more_string">more...</string>
+     <string name="oppo_numeric_date_dmy" formatted="false">%-e/%-m/%Y</string>
+     <string name="oppo_numeric_date_mdy" formatted="false">%-m/%-e/%Y</string>
+     <string name="oppo_numeric_date_ymd" formatted="false">%Y/%-m/%-e</string>
+     <string name="oppo_numeric_md1_md2_dmy">%3$s/%2$s – %8$s/%7$s</string>
+     <string name="oppo_numeric_md1_md2_mdy">%2$s/%3$s – %7$s/%8$s</string>
+     <string name="oppo_numeric_md1_md2_ymd">%2$s/%3$s – %7$s/%8$s</string>
+     <string name="oppo_numeric_md1_time1_md2_time2_dmy">%3$s/%2$s, %5$s – %8$s/%7$s, %10$s</string>
+     <string name="oppo_numeric_md1_time1_md2_time2_mdy">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_md1_time1_md2_time2_ymd">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_mdy1_mdy2_dmy">%3$s/%2$s/%4$s – %8$s/%7$s/%9$s</string>
+     <string name="oppo_numeric_mdy1_mdy2_mdy">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+     <string name="oppo_numeric_mdy1_mdy2_ymd">%4$s/%2$s/%3$s – %9$s/%7$s/%8$s</string>
+     <string name="oppo_numeric_mdy1_time1_mdy2_time2_dmy">%3$s/%2$s/%4$s, %5$s – %8$s/%7$s/%9$s, %10$s</string>
+     <string name="oppo_numeric_mdy1_time1_mdy2_time2_mdy">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+     <string name="oppo_numeric_mdy1_time1_mdy2_time2_ymd">%4$s/%2$s/%3$s, %5$s – %9$s/%7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s/%2$s, %5$s – %6$s, %8$s/%7$s, %10$s</string>
+     <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_wday1_md1_wday2_md2_dmy">%1$s, %3$s/%2$s – %6$s, %8$s/%7$s</string>
+     <string name="oppo_numeric_wday1_md1_wday2_md2_mdy">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+     <string name="oppo_numeric_wday1_md1_wday2_md2_ymd">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+     <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s/%2$s/%4$s, %5$s – %6$s, %8$s/%7$s/%9$s, %10$s</string>
+     <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+     <string name="oppo_numeric_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s/%2$s/%3$s, %5$s – %6$s, %9$s/%7$s/%8$s, %10$s</string>
+     <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s/%2$s/%4$s – %6$s, %8$s/%7$s/%9$s</string>
+     <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
+     <string name="oppo_numeric_wday1_mdy1_wday2_mdy2_ymd">%1$s, %4$s/%2$s/%3$s – %6$s, %9$s/%7$s/%8$s</string>
+     <string name="oppo_permission_choice_label">Do not ask again</string>
+     <string name="oppo_permission_security_label"> is trying to </string>
+     <string name="oppo_permission_security_title">Security Warning</string>
+     <string name="oppo_permission_settings_prompt">You can set in “Information security”</string>
+     <string name="oppo_power_airplanemode_text">Flight</string>
+     <string name="oppo_power_reboot_text">Reboot</string>
+     <string name="oppo_power_ring_text">Ring</string>
+     <string name="oppo_power_shutdown_text">Power off</string>
+     <string name="oppo_power_slient_text">Silence</string>
+     <string name="oppo_power_vibrate_text">Vibrate</string>
+     <string name="oppo_reject_text">Reject</string>
+     <string name="oppo_rename_dialog_btn_cancel">Cancel</string>
+     <string name="oppo_rename_dialog_btn_ok">OK</string>
+     <string name="oppo_rename_dialog_title">Rename</string>
+     <string name="oppo_same_month_md1_md2_dmy">%3$s – %8$s %7$s</string>
+     <string name="oppo_same_month_md1_md2_mdy">%2$s %3$s – %8$s</string>
+     <string name="oppo_same_month_md1_md2_ymd">%2$s %3$s – %8$s</string>
+     <string name="oppo_same_month_md1_time1_md2_time2_dmy">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+     <string name="oppo_same_month_md1_time1_md2_time2_mdy">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_md1_time1_md2_time2_ymd">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_mdy1_mdy2_dmy">%3$s – %8$s %7$s, %9$s</string>
+     <string name="oppo_same_month_mdy1_mdy2_mdy">%2$s %3$s – %8$s, %9$s</string>
+     <string name="oppo_same_month_mdy1_mdy2_ymd">%4$s, %2$s %3$s – %8$s</string>
+     <string name="oppo_same_month_mdy1_time1_mdy2_time2_dmy">%3$s %2$s, %4$s, %5$s – %8$s %7$s, %9$s, %10$s</string>
+     <string name="oppo_same_month_mdy1_time1_mdy2_time2_mdy">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+     <string name="oppo_same_month_mdy1_time1_mdy2_time2_ymd">%4$s, %2$s %3$s, %5$s – %9$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+     <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_wday1_md1_wday2_md2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+     <string name="oppo_same_month_wday1_md1_wday2_md2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="oppo_same_month_wday1_md1_wday2_md2_ymd">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s %2$s, %4$s, %5$s – %6$s, %8$s %7$s, %9$s, %10$s</string>
+     <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+     <string name="oppo_same_month_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s, %2$s %3$s, %5$s – %6$s, %9$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s %2$s, %4$s – %6$s, %8$s %7$s, %9$s</string>
+     <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+     <string name="oppo_same_month_wday1_mdy1_wday2_mdy2_ymd">%1$s, %4$s, %2$s %3$s – %6$s, %9$s, %7$s %8$s</string>
+     <string name="oppo_same_year_md1_md2_dmy">%3$s %2$s – %8$s %7$s</string>
+     <string name="oppo_same_year_md1_md2_mdy">%2$s %3$s – %7$s %8$s</string>
+     <string name="oppo_same_year_md1_md2_ymd">%2$s %3$s – %7$s %8$s</string>
+     <string name="oppo_same_year_md1_time1_md2_time2_dmy">%3$s %2$s, %5$s – %8$s %7$s, %10$s</string>
+     <string name="oppo_same_year_md1_time1_md2_time2_mdy">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_md1_time1_md2_time2_ymd">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_mdy1_mdy2_dmy">%3$s %2$s – %8$s %7$s, %9$s</string>
+     <string name="oppo_same_year_mdy1_mdy2_mdy">%2$s %3$s – %7$s %8$s, %9$s</string>
+     <string name="oppo_same_year_mdy1_mdy2_ymd">%4$s, %2$s %3$s – %7$s %8$s</string>
+     <string name="oppo_same_year_mdy1_time1_mdy2_time2_dmy">%3$s %2$s, %4$s, %5$s – %8$s %7$s, %9$s, %10$s</string>
+     <string name="oppo_same_year_mdy1_time1_mdy2_time2_mdy">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+     <string name="oppo_same_year_mdy1_time1_mdy2_time2_ymd">%4$s, %2$s %3$s, %5$s – %9$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_dmy">%1$s, %3$s %2$s, %5$s – %6$s, %8$s %7$s, %10$s</string>
+     <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_mdy">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_wday1_md1_time1_wday2_md2_time2_ymd">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_wday1_md1_wday2_md2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s</string>
+     <string name="oppo_same_year_wday1_md1_wday2_md2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="oppo_same_year_wday1_md1_wday2_md2_ymd">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_dmy">%1$s, %3$s %2$s, %4$s, %5$s – %6$s, %8$s %7$s, %9$s, %10$s</string>
+     <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_mdy">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+     <string name="oppo_same_year_wday1_mdy1_time1_wday2_mdy2_time2_ymd">%1$s, %4$s, %2$s %3$s, %5$s – %6$s, %9$s, %7$s %8$s, %10$s</string>
+     <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s %2$s – %6$s, %8$s %7$s, %9$s</string>
+     <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+     <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_ymd">%4$s, %1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="oppo_scene_preview_track_scroll_fast_step">0.25f</string>
+     <string name="oppo_selecttext">Select</string>
+     <string name="oppo_solar_calendar_text">Solar calendar</string>
+     <string name="oppo_touchsearch_dot">•</string>
+     <string name="oppo_touchsearch_side_keys_prefix">oppo_</string>
+     <string name="oppo_twelve_hour_time_format">h:mm a</string>
+     <string name="oppo_twenty_four_hour_time_format">HH:mm</string>
+     <string name="oppo_usb_charge">Only Charging</string>
+     <string name="oppo_usb_mtp">Media device (MTP)</string>
+     <string name="oppo_usb_selection">Please select to change USB setting</string>
+     <string name="oppo_usb_storage">Storage device</string>
+     <string name="oppo_volume_system_description">System volume</string>
+     <string name="oppo_wday_day_month_year" formatted="false">%s, %s %s %s</string>
+     <string name="oppo_wday_day_year_month" formatted="false">%s, %s %s %s</string>
+     <string name="oppo_wday_month_day_year" formatted="false">%s, %s %s, %s</string>
+     <string name="oppo_wday_month_year_day" formatted="false">%s, %s %s %s</string>
+     <string name="oppo_wday_year_day_month" formatted="false">%s, %s %s %s</string>
+     <string name="oppo_wday_year_month_day" formatted="false">%s, %s %s %s</string>
+     <string name="oppo_wifi_tether_configure_ssid_default">OPPO T29</string>
+     <string name="oppo_year_day_month_wday" formatted="false">%s %s %s, %s</string>
+     <string name="oppo_year_month_day_wday" formatted="false">%s %s %s, %s</string>
+</resources>

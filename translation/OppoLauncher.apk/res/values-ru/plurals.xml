@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="search_results_title">
+        <item quantity="one">%s result for %s</item>
+        <item quantity="other">%s results for %s</item>
+     </plurals>
+</resources>

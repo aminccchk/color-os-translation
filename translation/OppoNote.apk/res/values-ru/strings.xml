@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="UMAppUpdate">App updating</string>
+     <string name="UMBreak_Network">Please make sure you are connected to internet, update failed</string>
+     <string name="UMContentTooLong">Your content was over 140 characters. You'll have to be more clever.</string>
+     <string name="UMDeleteFeedback">Delete Feedback</string>
+     <string name="UMDeleteMsg">Delete message</string>
+     <string name="UMDeleteThread">Delete Thread</string>
+     <string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string>
+     <string name="UMEmptyFbNotAllowed">Please input your feedback.</string>
+     <string name="UMFbList_ListItem_State_Fail">Fail</string>
+     <string name="UMFbList_ListItem_State_ReSend">Fail,Press to resend</string>
+     <string name="UMFbList_ListItem_State_Sending">Sending...</string>
+     <string name="UMFb_Atom_State_Resend">Fail,press to resend</string>
+     <string name="UMFb_Atom_State_Sending">Sending...</string>
+     <string name="UMFeedbackContent">Input your suggestions here</string>
+     <string name="UMFeedbackConversationTitle">My Feedback</string>
+     <string name="UMFeedbackListTitle">My Feedback</string>
+     <string name="UMFeedbackSummit">Submit</string>
+     <string name="UMFeedbackTitle">Every word you write will benefit us.</string>
+     <string name="UMFeedbackUmengTitle">Feedback</string>
+     <string name="UMGprsCondition">(Warning: Not WIFI Condition)</string>
+     <string name="UMNewReplyAlertTitle">You've got reply</string>
+     <string name="UMNewReplyFlick">Got new reply</string>
+     <string name="UMNewReplyHint">Click to view</string>
+     <string name="UMNewReplyTitle">Got new reply</string>
+     <string name="UMNewVersion">Latest version:</string>
+     <string name="UMNotNow">Not now</string>
+     <string name="UMResendFeedback">Resend Feedback</string>
+     <string name="UMToast_IsUpdating">Is updating...</string>
+     <string name="UMUpdateNow">Update now</string>
+     <string name="UMUpdateTitle">New version found</string>
+     <string name="UMUpdatingNow">Updating application...</string>
+     <string name="UMViewFeedback">View Feedback</string>
+     <string name="UMViewThread">View Thread</string>
+     <string name="alarm_box_title">Set Alarm</string>
+     <string name="alarm_less_now">You selected remind time has passed, please select time again.</string>
+     <string name="album">Album Note</string>
+     <string name="allnote_search_result_title">Search result</string>
+     <string name="allnote_search_tip">Enter key words</string>
+     <string name="allnote_title">All notes</string>
+     <string name="answer_error">Answer error!</string>
+     <string name="app_name">Cloud Notes</string>
+     <string name="app_name_in_app">Cloud Notes</string>
+     <string name="app_widget_name41">Note (small)</string>
+     <string name="app_widget_name43">Note (large)</string>
+     <string name="app_widget_no_note">No note added yet^_^</string>
+     <string name="btn_cancel_text">Cancel</string>
+     <string name="btn_confirm_text">Confirm</string>
+     <string name="btn_find_cancel">Cancel</string>
+     <string name="btn_find_confirm">Confirm</string>
+     <string name="btn_login">Log in</string>
+     <string name="btn_register">Register</string>
+     <string name="btn_timerdialog">Go To</string>
+     <string name="cancel">Cancel</string>
+     <string name="cancel_alarm">The alarm has been canceled</string>
+     <string name="cancel_syncronize">Cancel sync</string>
+     <string name="check_update">Check update</string>
+     <string name="choose_album">Album</string>
+     <string name="choose_backspace">Backspace</string>
+     <string name="choose_breakline">Breakline</string>
+     <string name="choose_clear">Clear</string>
+     <string name="choose_color">Colorbox</string>
+     <string name="choose_hw">Write</string>
+     <string name="choose_photo">Photo</string>
+     <string name="choose_sort_mode">Choose sort mode</string>
+     <string name="choose_space">space</string>
+     <string name="choose_tools">Tools</string>
+     <string name="choose_tuya">Doodle</string>
+     <string name="chooser_box_question">Select ecurity question</string>
+     <string name="chooser_box_question1">Birthday?</string>
+     <string name="chooser_box_question2">Place of birth?</string>
+     <string name="chooser_box_question3">Mother's name?</string>
+     <string name="chooser_box_question4">Father's name?</string>
+     <string name="chooser_box_question5">A teacher's name?</string>
+     <string name="chooser_box_question6">Favorite song's name?</string>
+     <string name="chooser_box_title">Add image</string>
+     <string name="chooser_find_confirm">Get it</string>
+     <string name="chooser_find_text">Password is:</string>
+     <string name="chooser_find_title">Forgot password</string>
+     <string name="chooser_sync">Sync at once</string>
+     <string name="chooser_sync_title">Sync</string>
+     <string name="clear">Clear</string>
+     <string name="close_password_title">Close Password</string>
+     <string name="colorbox_tip">Slide to select the color, tap the center to confirm</string>
+     <string name="complete_register">Complete information</string>
+     <string name="confirm">OK</string>
+     <string name="confirmbtn_timerdialog">Get it</string>
+     <string name="confirmpassword">Password again</string>
+     <string name="confirmpassword_text">Four Digits</string>
+     <string name="data_not_compatible">Notes can not be downloaded to the latest version, please upgrade to the latest version and try again.
+</string>
+     <string name="day">day</string>
+     <string name="days">days</string>
+     <string name="delete">Delete</string>
+     <string name="delete_note">Delete Notes</string>
+     <string name="delete_notes">Delete notes</string>
+     <string name="deleting">Deleting...</string>
+     <string name="diselect_all">Diselect all</string>
+     <string name="doodle">Doodle Note</string>
+     <string name="edit_note">Edit Notes</string>
+     <string name="email_about">Official Email</string>
+     <string name="email_value">kf@keke.cn</string>
+     <string name="error01">Four digits as password please</string>
+     <string name="error02">Four digits to confirm password</string>
+     <string name="error03">Two password do not match</string>
+     <string name="error04">Select the security question</string>
+     <string name="error05">Enter the question answer</string>
+     <string name="error_failed">Fail to get verify code，retry please</string>
+     <string name="error_timer">error!</string>
+     <string name="feature">Useful Feature</string>
+     <string name="feedback">Feedback</string>
+     <string name="feedback_check">点击查看</string>
+     <string name="feedback_new_reply">您在%1$s中的意见反馈有%2$s条新的回复</string>
+     <string name="file_missed">The file is changed or lost</string>
+     <string name="find_password">Forgot Password</string>
+     <string name="find_password_hint">Question answer</string>
+     <string name="find_password_title">Question:</string>
+     <string name="first_sync01">Notes will upload to clouds.</string>
+     <string name="first_sync02">Land on note.keke.cn to</string>
+     <string name="first_sync03">manage notes on the clouds.</string>
+     <string name="first_sync04">*Sync Benefits*</string>
+     <string name="first_sync05">1.Prevent notes lose，You can</string>
+     <string name="first_sync06">pass sync reduction notes.</string>
+     <string name="first_sync07">2.Keep phone and web notes</string>
+     <string name="first_sync08">synchronization update.</string>
+     <string name="forget_password">Forget password?</string>
+     <string name="get_verify_code">Processing…</string>
+     <string name="getback_pwd_fore">Mobile phone number already registered, please use the phone number and password login.If you forget your password,login</string>
+     <string name="getback_pwd_last">to find it</string>
+     <string name="goto_album">Library</string>
+     <string name="grid_mode">Grid View</string>
+     <string name="handwriting">Handwriting Note</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="home_text1">Memory is a hung wind-bell,
+hiding the shutter not finish in a romantic trace.</string>
+     <string name="home_text2">Get busy living, Or get busy dying.</string>
+     <string name="home_text3">That life is tough,but I'm tougher.</string>
+     <string name="home_text4">To see a world in a grain of sand.
+And a heaven in a wild flower.</string>
+     <string name="home_text5">Life is a chain of moments of enjoyment,
+not only about survival.</string>
+     <string name="home_text6">Fear can hold you prisoner.
+Hope can set you free.</string>
+     <string name="home_text7">Seize the day.
+Make your lives extraordinary.</string>
+     <string name="hour">hour</string>
+     <string name="hours">hours</string>
+     <string name="input_text_passwd">Password:</string>
+     <string name="input_text_username">Account:</string>
+     <string name="insert_doodle">Insert Doodle</string>
+     <string name="insert_handwriting">Insert Handwriting</string>
+     <string name="item_date">%1$s.%2$s</string>
+     <string name="list_mode">List View</string>
+     <string name="loading">Loading...</string>
+     <string name="login_failed">Fail to login cause of network problem, please retry</string>
+     <string name="login_failed_tips">Fail to login</string>
+     <string name="login_hint">Email/Username/Tel</string>
+     <string name="login_tips">You can use keke account to login directly.Login uc.keke.cn to find password.</string>
+     <string name="logining">Processing…</string>
+     <string name="logout">Exit account</string>
+     <string name="mbox_clear_tuya_msg">Sure to clear doodle?</string>
+     <string name="mbox_clear_tuya_title">Clear doodle</string>
+     <string name="mbox_delete_hw_msg">Sure to delete this handwriting?</string>
+     <string name="mbox_delete_hw_title">Delete handwriting</string>
+     <string name="mbox_delete_pic_msg">Sure to delete this picture?</string>
+     <string name="mbox_delete_pic_title">Delete picture</string>
+     <string name="mbox_delete_tuya_msg">Sure to delete this doodle?</string>
+     <string name="mbox_delete_tuya_title">Delete doodle</string>
+     <string name="mbox_exit_left_btn">Just exit</string>
+     <string name="mbox_exit_msg">Syncing notes, are your sure to exit?</string>
+     <string name="mbox_exit_right_btn">Background sync</string>
+     <string name="mbox_exit_title">Exit app</string>
+     <string name="mbox_modifyhw_msg">Sure to save the modified handwriting?</string>
+     <string name="mbox_modifyhw_title">Save modification</string>
+     <string name="mbox_modifynote_msg">Sure to save the modified note?</string>
+     <string name="mbox_modifynote_title">Save modification</string>
+     <string name="mbox_modifytuya_msg">Sure to save the modified doodle?</string>
+     <string name="mbox_modifytuya_title">Save modification</string>
+     <string name="mbox_newhw_msg">Sure to save this handwriting?</string>
+     <string name="mbox_newhw_title">Save handwriting</string>
+     <string name="mbox_newnote_msg">Sure to save this note?</string>
+     <string name="mbox_newnote_title">Save note</string>
+     <string name="mbox_newtuya_msg">Sure to save this doodle?</string>
+     <string name="mbox_newtuya_title">Save doodle</string>
+     <string name="menu_about">About</string>
+     <string name="menu_settings">Settings</string>
+     <string name="min">minute</string>
+     <string name="mins">minutes</string>
+     <string name="mobile_used">Phone number registered</string>
+     <string name="modify_password_title">Change Password</string>
+     <string name="msg_delete_note">Are you sure to delete?</string>
+     <string name="msg_disgard_modifies">Save changes?</string>
+     <string name="msg_disgard_newnote">Save note?</string>
+     <string name="msg_logout">Exit current account will affect the sync function, note contents will remain on the phone, please handle properly. Sure to exit?</string>
+     <string name="nearme_team">                                ——笔记团队</string>
+     <string name="net_connection_fails">net connection fails</string>
+     <string name="network_unavailable">No available network now</string>
+     <string name="new_note">New note</string>
+     <string name="no">No</string>
+     <string name="no_text_content_hint">no contents</string>
+     <string name="note_data_missed">Note data is lost</string>
+     <string name="option">More</string>
+     <string name="part_of_note_data_missed">Portions of the note data is lost</string>
+     <string name="password_controller_btn_del">Del</string>
+     <string name="password_controller_btn_reset">C</string>
+     <string name="password_controller_done">Done</string>
+     <string name="password_controller_input_new_password">Please input new password:</string>
+     <string name="password_controller_input_old_password">Please input old password:</string>
+     <string name="password_controller_input_password">Please input password:</string>
+     <string name="password_controller_label">Password entry</string>
+     <string name="password_controller_new_password_confirm">please confirm new password:</string>
+     <string name="password_controller_next">Next</string>
+     <string name="password_controller_password_confirm_error">confirm password wrong</string>
+     <string name="password_controller_password_empty">Password can not be empty</string>
+     <string name="password_controller_password_hint">please input password</string>
+     <string name="password_controller_password_wrong">Password error</string>
+     <string name="password_controller_tips">Please input password:</string>
+     <string name="photograph">Photo Note</string>
+     <string name="picture">Picture Note</string>
+     <string name="qq_about">Customer Service</string>
+     <string name="qq_value">800001729</string>
+     <string name="question_answer">Question answer</string>
+     <string name="question_answer_text">Keep in mind</string>
+     <string name="read_items_first">please read and agree the registration notice</string>
+     <string name="reg_phone_munber">Phone number：</string>
+     <string name="reg_reget_verify_code_msg">After %s s can retry to get a verify code</string>
+     <string name="reg_remind_verify_code">Verification code has send to:%s</string>
+     <string name="reg_show_pwd">show password</string>
+     <string name="reg_submit">Done</string>
+     <string name="reg_terms">I have read the registration notice</string>
+     <string name="reg_terms_content">Terms of service</string>
+     <string name="reg_verify_code">Verification code:</string>
+     <string name="register_failed">Fail to register cause of network problem, please retry</string>
+     <string name="register_failed_tips">Fail to register</string>
+     <string name="register_get_verify_code">Acquire verification code</string>
+     <string name="register_reget_verify_code">Verification code expired, reacquire verification code again</string>
+     <string name="register_send_verify_code">Next</string>
+     <string name="register_user">Register account</string>
+     <string name="registing">Completing...</string>
+     <string name="remind_you">This will remind after</string>
+     <string name="request_code_more">Too often to get verify code, please wait for a moment</string>
+     <string name="retry">Retry</string>
+     <string name="save">Save</string>
+     <string name="sec">second</string>
+     <string name="secs">seconds</string>
+     <string name="select_all">Select all</string>
+     <string name="select_note">Select note</string>
+     <string name="select_question">Select question</string>
+     <string name="send_verify_code_tips">If it is the local number, the system will automatically help you fill in the verification code, if have not received the verification code for a long time,please reacquire …</string>
+     <string name="server_error">Server exception, please try again</string>
+     <string name="set_passwork_title">Set Password</string>
+     <string name="set_question">Security question</string>
+     <string name="setpassword">Enter password</string>
+     <string name="setpassword_setting">Set Password</string>
+     <string name="setpassword_text">Four Digits</string>
+     <string name="setting">Settings</string>
+     <string name="setting_account">Account:</string>
+     <string name="setting_account_login_tip">Tap to login</string>
+     <string name="setting_myspace">Space:</string>
+     <string name="share_title">I shared a Note:「</string>
+     <string name="show_sync_guide_first">It is you first time to create or modify a note, try to sync notes to storage on cloud side?</string>
+     <string name="show_sync_guide_month">You have not sync notes for a long time, would you like to sync notes now?</string>
+     <string name="show_sync_guide_week">You have not sync notes more than a week, would you like to sync notes now?</string>
+     <string name="signup_password_invalid">Enter login password in correct format</string>
+     <string name="signup_password_null">Enter password</string>
+     <string name="signup_password_wrong">Account or password mistake,please enter again</string>
+     <string name="signup_phone_num__null">Phone number is null</string>
+     <string name="signup_phone_num_invalid">Enter login phone number in correct format</string>
+     <string name="signup_phone_num_used">Phone number has been registered</string>
+     <string name="signup_username_invalid">Enter login username in correct format</string>
+     <string name="signup_username_null">Enter account</string>
+     <string name="signup_username_wrong">Account or password mistake,please enter again</string>
+     <string name="sort_mode">Sort mode</string>
+     <string name="sort_mode_created">By created time</string>
+     <string name="sort_mode_updated">By updated time</string>
+     <string name="sure">Save</string>
+     <string name="sync_finish_fail_title">Notes failed to sync: </string>
+     <string name="sync_finish_net">You can login note.keke.cn viewing synchronized notes</string>
+     <string name="sync_finish_success_title">Sync success: </string>
+     <string name="sync_finish_traffic_title">The use of traffic: </string>
+     <string name="sync_msgbox_fail">Sorry, sync failed. Please retry.</string>
+     <string name="sync_msgbox_local_space_full_msg">Phone disk full, please delete some files and retry.</string>
+     <string name="sync_msgbox_local_space_full_title">Insufficient space</string>
+     <string name="sync_msgbox_net_space_full_msg">Network storage full, please delete some notes and retry.</string>
+     <string name="sync_msgbox_net_space_full_title">Insufficient space</string>
+     <string name="sync_right_now">Sync immediately</string>
+     <string name="sync_toast_delete">Synchronizing notes, please delete notes later</string>
+     <string name="sync_toast_edit">Synchronizing notes, please  edit notes later</string>
+     <string name="sync_toast_net_timeout">Network slow，please retry sync</string>
+     <string name="sync_toast_no_need">No notes need to sync</string>
+     <string name="sync_toast_no_note">You have no notes</string>
+     <string name="syncronize">Sync</string>
+     <string name="syncronized_begin">Synchronizing, please wait...</string>
+     <string name="syncronized_fail">Sync failed</string>
+     <string name="syncronized_finish">Sync success</string>
+     <string name="syncronized_preparing">Ready to sync, please wait.</string>
+     <string name="take_photo">Take Photo</string>
+     <string name="text_hint">Click to input</string>
+     <string name="text_length_over_limit">Words can't more than 50000 notes a word</string>
+     <string name="textnote_content_tip">Write something…</string>
+     <string name="title_activity_find_password">FindPasswordActivity</string>
+     <string name="title_activity_set_password">SetPasswordActivity</string>
+     <string name="title_date">%1$s.%2$s</string>
+     <string name="title_delete_note">Deletion prompt</string>
+     <string name="title_disgard_edit">Edit</string>
+     <string name="title_disgard_modifies">Change</string>
+     <string name="title_disgard_newnote">Save</string>
+     <string name="title_logout">Exit account</string>
+     <string name="title_normal">Kindly reminder</string>
+     <string name="title_timer">Note Warn</string>
+     <string name="toast_deleted">Note deleted</string>
+     <string name="toast_excceed_limit_of_attrs">Sorry, only 10 attachments can be saved at most</string>
+     <string name="toast_new_note_unmounted">Memory card is unistalled or doesn't ,can't create new notes</string>
+     <string name="toast_not_enough_storage">Out of disk space, please free up some space and save again.</string>
+     <string name="toast_notedata_changed_reload">Notes data is modified, reloading data</string>
+     <string name="toast_saved">Note saved</string>
+     <string name="toast_sync_unmounted">Memory card uninstalled or doesn't exist,can't synchronize notes</string>
+     <string name="toast_unmounted">Memory card is uninstalled or doesn't exist, unable to proceed.</string>
+     <string name="toast_unmounted_no_sync">Memory card is uninstalled or doesn't exist, unable to sync.</string>
+     <string name="tuya_note_text1">手写记事
+
+    笔记具有逼真的毛笔字手写效果，让你轻松写出漂亮字！</string>
+     <string name="tuya_note_text2">华灯初上，傍晚的霓虹格外绚烂~</string>
+     <string name="tuya_note_text3">随手涂鸦
+这是今天手绘的小怪兽~</string>
+     <string name="tuya_note_text4">拍照记录</string>
+     <string name="update_about">About Update</string>
+     <string name="upgrade_confirm">Confirm</string>
+     <string name="upgrade_dialog_download_fail">Network problems lead to update interrupt,
+ please continue later.</string>
+     <string name="upgrade_dialog_download_ing">Being download，please wait...</string>
+     <string name="upgrade_dialog_download_pause">Download suspended,click continue to download.</string>
+     <string name="upgrade_dialog_force_upgrade_label" formatted="false">With the latest software version %s, please update, if not update can not continue to use the software,suggestions in wifi network environment to update.
+%s</string>
+     <string name="upgrade_dialog_force_upgrade_title">Software Update</string>
+     <string name="upgrade_dialog_upgrade_label" formatted="false">%s have the latest software version %s, suggestions in wifi network environment to update.
+%s</string>
+     <string name="upgrade_download_cancel">Cancel</string>
+     <string name="upgrade_download_pause">Pause</string>
+     <string name="upgrade_download_resume">Continue</string>
+     <string name="upgrade_error_md5">Due to network instability, the download data is missing, please re-download.</string>
+     <string name="upgrade_fail">Update failed</string>
+     <string name="upgrade_maintain_title">Update maintenance</string>
+     <string name="upgrade_network_error">Network anomaly, please try again.</string>
+     <string name="upgrade_no_enough_space">Phone memory is not enough, delete the other files and try again</string>
+     <string name="upgrade_no_sdcard">Did not find the SD card, can not loading image and upgrade</string>
+     <string name="upgrade_notify_install_fail">%s installation fails</string>
+     <string name="upgrade_notify_upgrade_content">The latest software version is %s,please update</string>
+     <string name="upgrade_notify_upgrade_label">have the latest software version</string>
+     <string name="upgrade_retry">Re-download</string>
+     <string name="upgrade_update_already">Your software version is the newest one, you do not need to update.</string>
+     <string name="upgrade_update_checking">Acquiring update，please wait…</string>
+     <string name="upgrade_update_later">Cancel</string>
+     <string name="upgrade_update_now">Update</string>
+     <string name="value_about">About</string>
+     <string name="verify_code_error">Incorrect verification code</string>
+     <string name="verify_code_fmt">Enter verify code in correct format</string>
+     <string name="verify_code_null">Verification code is null</string>
+     <string name="verify_code_pass">Verification code expired,reacquire verify code again</string>
+     <string name="verify_phone">Verification phone number</string>
+     <string name="version_about">Version:</string>
+     <string name="view_note">View Notes</string>
+     <string name="view_type">Browse Mode</string>
+     <string name="website_about">Official Website</string>
+     <string name="website_value">http://store.keke.cn</string>
+     <string name="weibo_about">Sina Microblog</string>
+     <string name="welcome">欢迎使用笔记
+
+     笔记是一款简单精美的随身记事软件。你可以随时通过文字、手写、拍照、涂鸦等方式记录想法、信息或待办事项等，笔记助你更好地生活、学习和工作。 
+     使用同步功能可将手机笔记随时备份到云端或将你在笔记网站（note.keke.cn）对笔记所做的修改更新到手机（增量同步，节省流量），用电脑登录笔记网站可编辑和管理云端笔记，在恢复出厂设置、刷机或换手机等情况下可以通过同步功能恢复笔记内容到手机。</string>
+     <string name="welcome_2">欢迎使用笔记
+
+笔记是一款精美的随身记事本。
+使用笔记您可以
+随时记录重要信息，防止遗忘
+随时记录待办事项，轻松安排工作生活
+随时记录想法感悟，抓住每个灵感
+
+特点：
+原笔迹手写
+涂鸦功能
+支持加密
+拍照记事
+
+
+                                 ——笔记团队</string>
+     <string name="welcome_3">2.1更新说明
+
+1、增加背景更换功能
+2、增加找回密码功能
+3、优化滑动体验
+4、支持1080P手机
+
+</string>
+     <string name="widget_text_when_encrypted">Notes encrypted，can't view the content</string>
+     <string name="yes">Yes</string>
+</resources>

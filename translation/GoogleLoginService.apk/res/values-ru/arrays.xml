@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="gender_array">
+        <item>Мужской</item>
+        <item>Женский</item>
+        <item>Не указан</item>
+     </string-array>
+     <string-array name="google_play_email_opt_in">
+        <item>be</item>
+        <item>bg</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>de</item>
+        <item>ee</item>
+        <item>ie</item>
+        <item>el</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>cy</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>hu</item>
+        <item>mt</item>
+        <item>nl</item>
+        <item>at</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>fi</item>
+        <item>se</item>
+        <item>hr</item>
+        <item>mk</item>
+        <item>me</item>
+        <item>rs</item>
+        <item>tr</item>
+        <item>au</item>
+        <item>ca</item>
+     </string-array>
+     <string-array name="passwordStrength">
+        <item>ненадежный</item>
+        <item>относительно надежный</item>
+        <item>вполне надежный</item>
+        <item>надежный</item>
+     </string-array>
+     <string-array name="passwordStrengthColor">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="security_questions">
+        <item>Выберите секретный вопрос</item>
+        <item>Номер первого телефона</item>
+        <item>Имя друга детства</item>
+        <item>Имя первого учителя?</item>
+        <item>Имя первого начальника</item>
+        <item>Номер первого автомобиля</item>
+     </string-array>
+</resources>

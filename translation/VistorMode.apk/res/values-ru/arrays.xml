@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="customer_apps">
+        <item>com.android.calendar</item>
+     </string-array>
+     <string-array name="customer_show_apps">
+        <item>com.android.contacts,com.android.contacts.activities.DialtactsActivity</item>
+        <item>com.android.dialer,com.android.dialer.activities.DialtactsActivity</item>
+        <item>com.android.dialer,com.android.dialer.DialtactsActivity</item>
+        <item>com.android.contacts,com.android.contacts.activities.PeopleActivity</item>
+        <item>com.android.email,com.android.email.activity.Welcome</item>
+        <item>com.android.individuationSettings,com.android.individuationSettings.IndividuationSettings</item>
+        <item>com.android.calculator2,com.android.calculator2.Calculator</item>
+        <item>com.android.browser,com.android.browser.BrowserActivity</item>
+        <item>oppo.multimedia.soundrecorder,oppo.multimedia.soundrecorder.RecorderActivity</item>
+        <item>com.oppo.market,com.oppo.market.activity.MainActivity</item>
+        <item>com.android.settings,com.oppo.settings.SettingsActivity</item>
+        <item>com.android.alarmclock,com.android.alarmclock.AlarmClock</item>
+        <item>com.oppo.flashlight,com.oppo.flashlight.FlashLightActivity</item>
+        <item>com.oppo.operationManual,com.oppo.operationManual.MainOperationManualActivity</item>
+        <item>com.oppo.weather,com.oppo.weather.OppoMainActivity</item>
+        <item>com.nearme.sync,com.nearme.sync.activities.LoginScreenActivity</item>
+        <item>com.oppo.ota,com.oppo.ota.activity.HomeActivity</item>
+        <item>com.android.browser,com.oppo.browser.downloads.ui.DownloadListUI</item>
+        <item>com.oppo.gallery3d,com.oppo.gallery3d.app.Gallery</item>
+        <item>com.oppo.gallery3d,com.oppo.camera.CameraLauncher</item>
+        <item>com.oppo.speechassist,com.oppo.speechassist.Main</item>
+        <item>com.android.mms,com.android.mms.ui.ConversationList</item>
+        <item>com.oppo.music,com.oppo.music.MediaPlaybackActivity</item>
+        <item>com.oppo.video,com.oppo.video.VideoListActivity</item>
+        <item>com.android.development,com.android.development.Development</item>
+        <item>com.adobe.flashplayer,com.adobe.flashplayer.SettingsManager</item>
+        <item>com.nearme.gamecenter,com.nearme.gamecenter.activity.LoginActivity</item>
+        <item>com.oppo.reader,com.oppo.reader.launch.Launcher</item>
+        <item>com.oppo.compass,com.oppo.compass.flat.FlatCompass</item>
+        <item>com.oppo.opporun,com.oppo.opporun.ui.TabTestActivityActivity</item>
+        <item>com.nearme.feedback,com.nearme.feedback.activity.StartActivity</item>
+        <item>com.oppo.reader,com.chaozh.iReader.ui.activity.WelcomeActivity</item>
+        <item>com.oppo.ebook,com.oppo.ebook.launch.Launcher</item>
+        <item>com.nearme.ocloud,com.nearme.ocloud.activity.MainActivity</item>
+        <item>com.oppo.tribune,com.oppo.tribune.InitActivity</item>
+        <item>com.oppo.ubeauty,com.oppo.ubeauty.induction.InductionActivity</item>
+        <item>com.oppo.ota,com.oppo.ota.activity.EntryActivity</item>
+        <item>com.sohu.inputmethod.sogou,com.sohu.inputmethod.sogou.SogouIMELauncher</item>
+        <item>com.oppo.blacklist,com.oppo.blacklist.block.BlockMainActivity1</item>
+        <item>com.oppo.LockNow,com.oppo.LockNow.LockNowActivity</item>
+        <item>com.oppo.launcher,com.nearme.themespace.activities.HomeActivity</item>
+        <item>com.nearme.themespace,com.nearme.themespace.activities.OnlineSlidingActivity</item>
+        <item>com.oppo.community,com.oppo.community.InitActivity</item>
+        <item>com.oppo.vistormode,com.oppo.vistormode.VisitorModeActivity</item>
+        <item>com.oppo.holidaymode,com.oppo.holidaymode.HolidayModeMain</item>
+        <item>com.oppo.powermanager,com.oppo.powermanager.PowerMgrFragment</item>
+        <item>com.oppo.trafficmonitor,com.oppo.trafficmonitor.traffic.TrafficMonitoringActivity</item>
+        <item>com.oppo.purebackground,com.oppo.purebackground.PurebackgroundTopActivity</item>
+        <item>com.oppo.safe,com.oppo.safe.privacy.PrivacyProtectTopActivity</item>
+        <item>com.oppo.safe,com.oppo.safe.virusdetect.VirusScanActivity</item>
+        <item>com.oppo.virusdetect,com.oppo.virusdetect.VirusScanActivity</item>
+        <item>com.oppo.backuprestore,com.oppo.backuprestore.BootActivity</item>
+        <item>com.oppo.drivemode,com.oppo.drivemode.OppoDriveModeGuideActivity</item>
+        <item>com.oppo.alarmclock,com.oppo.alarmclock.AlarmClock</item>
+        <item>com.nearme.themespace,com.nearme.themespace.activities.ThemeActivity</item>
+        <item>com.oppo.music,com.oppo.music.MainListActivity</item>
+        <item>com.oppo.gallery3d,com.oppo.camera.Camera</item>
+        <item>com.android.providers.downloads,com.android.providers.downloads.ui.DownloadListUI</item>
+        <item>com.dolby.ds1appUI,com.dolby.ds1appUI.MainActivity</item>
+        <item>com.oppo.safe,com.oppo.safe.permission.PermissionTopActivity</item>
+        <item>com.oppo.camera,com.oppo.camera.CameraLauncher</item>
+        <item>com.oppo.camera,com.oppo.camera.Camera</item>
+        <item>com.android.systemui,com.android.systemui.LockNowActivity</item>
+        <item>com.oppo.blacklist,com.oppo.blacklist.BlacklistActivity</item>
+     </string-array>
+     <string-array name="customer_widgets">
+        <item>com.oppo.widget.calendar</item>
+     </string-array>
+     <string-array name="oppo_widget">
+        <item>com.oppo.widget.digitalclock</item>
+        <item>com.oppo.widget.smallweather</item>
+        <item>com.oppo.widget.bigweather</item>
+        <item>com.oppo.widget.contact</item>
+        <item>com.oppo.widget.email</item>
+        <item>com.oppo.widget.message</item>
+        <item>com.oppo.widget.music</item>
+        <item>com.oppo.widget.picture</item>
+        <item>com.oppo.widget.newcalendar</item>
+        <item>com.oppo.widget.notepad</item>
+        <item>com.oppo.widget.dualclock</item>
+        <item>com.oppo.widget.stock</item>
+        <item>com.oppo.widget.switcher</item>
+     </string-array>
+     <string-array name="packageShield">
+        <item>com.android.launcher</item>
+        <item>com.oppo.launcher</item>
+        <item>com.android.wallpaper.livepicker</item>
+        <item>com.android.launcher2</item>
+        <item>com.oppo.market</item>
+     </string-array>
+     <string-array name="packageStrings">
+        <item>com.android.individuationSettings.wallpaper.WallpaperTabActivity</item>
+        <item>com.android.individuationSettings.livepaper.LivepaperTabActivity</item>
+        <item>com.android.gallery3d.app.Wallpaper</item>
+     </string-array>
+     <string-array name="renderscript_widget">
+        <item>com.oppo.widget.digitalclock</item>
+        <item>com.oppo.widget.dualclock</item>
+        <item>com.oppo.widget.music</item>
+        <item>com.oppo.widget.picture</item>
+     </string-array>
+     <string-array name="widget_display">
+        <item>com.oppo.digitalclock</item>
+        <item>com.oppo.widget.calendar</item>
+        <item>com.oppo.widget.digitalclock</item>
+        <item>com.oppo.widget.smallweather</item>
+        <item>com.oppo.widget.bigweather</item>
+        <item>com.oppo.widget.contact</item>
+        <item>com.oppo.widget.email</item>
+        <item>com.oppo.widget.message</item>
+        <item>com.oppo.widget.music</item>
+        <item>com.oppo.widget.picture</item>
+        <item>com.oppo.widget.newcalendar</item>
+        <item>com.oppo.widget.notepad</item>
+        <item>com.oppo.widget.dualclock</item>
+        <item>com.oppo.widget.stock</item>
+        <item>com.oppo.widget.switcher</item>
+        <item>com.oppo.widget.powermanager</item>
+        <item>com.oppo.market</item>
+        <item>com.android.quicksearchbox</item>
+        <item>com.android.browser</item>
+        <item>com.nearme.note</item>
+        <item>com.nearme.note</item>
+     </string-array>
+</resources>

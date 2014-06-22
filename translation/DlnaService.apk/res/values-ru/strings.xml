@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="action_settings">Settings</string>
+     <string name="app_name">DlnaService</string>
+     <string name="dlna_tips">DLNA connecting</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="openupnp">查看设备</string>
+     <string name="pause">暂停</string>
+     <string name="play">播放</string>
+     <string name="seekadd">快进5秒</string>
+     <string name="seekminus">快退5秒</string>
+     <string name="start">开始</string>
+     <string name="stop">停止</string>
+     <string name="volminus">音量-</string>
+     <string name="volplus">音量+</string>
+</resources>

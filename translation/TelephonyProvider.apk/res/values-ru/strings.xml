@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_label">Память номеров/SMS/MMS</string>
+     <string name="cu_3gnet_name">沃3G连接互联网</string>
+     <string name="cu_3gwap_name">沃3G手机上网</string>
+</resources>

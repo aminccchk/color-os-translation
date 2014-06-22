@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="D1">机构代码错误</string>
+     <string name="D2">日期错误</string>
+     <string name="FailedDownloadApk">自动下载失败!</string>
+     <string name="Giveup">放弃</string>
+     <string name="HS">有效期已过期</string>
+     <string name="HU">有效期不符</string>
+     <string name="HV">CVV 错误</string>
+     <string name="HW">手机号码不符</string>
+     <string name="HX">姓名不符</string>
+     <string name="U1">已存在未完成联机交易</string>
+     <string name="U2">指定充值协议不存在</string>
+     <string name="U3">超过当日指定充值限额</string>
+     <string name="U4">充值后余额大于余额上限</string>
+     <string name="U5">ARQC 不匹配</string>
+     <string name="U6">IC 余额校验失败</string>
+     <string name="V1">处理模式非法</string>
+     <string name="V2">户口序号不合法</string>
+     <string name="V3">户口有效期不合法</string>
+     <string name="V4">户口余额上限不合法</string>
+     <string name="V5">户口单笔上限不合法</string>
+     <string name="V6">开户机构不合法</string>
+     <string name="V7">开户分行不合法</string>
+     <string name="V8">卡 BIN 所属系统非法</string>
+     <string name="V9">户口已做圈提处理，禁止再交易</string>
+     <string name="W1">对方键值不能为空</string>
+     <string name="W2">传入的ＩＣ卡余额非法</string>
+     <string name="W3">单笔充值限额非法</string>
+     <string name="W4">台帐账户处于非活动状态</string>
+     <string name="W5">对方系统不合法</string>
+     <string name="W6">原交易对方系统不能为空</string>
+     <string name="W7">原交易对方键值不能为空</string>
+     <string name="W8">对方系统不匹配</string>
+     <string name="W9">对方键值不匹配</string>
+     <string name="X1">交易代码不匹配</string>
+     <string name="X2">交易日期不匹配</string>
+     <string name="X3">交易流水不匹配</string>
+     <string name="X4">该卡不存在未完成联机交易</string>
+     <string name="X5">地区码跟旧部门号非法</string>
+     <string name="X6">ＩＣ卡账户不存在</string>
+     <string name="X7">ＩＣ卡余额大于后台联机余额</string>
+     <string name="X8">账户余额透支，不允许圈提</string>
+     <string name="X9">查询开始日期不能为０</string>
+     <string name="XX">避免第三方机构并发充</string>
+     <string name="Y1">查询结束日期不能为０</string>
+     <string name="Y2">查询开始日期不能大于结束日期</string>
+     <string name="Y3">户口号不匹配</string>
+     <string name="Y4">户口序号不匹配</string>
+     <string name="Y6">账户类型不匹配</string>
+     <string name="Y7">账户号码不匹配</string>
+     <string name="Y8">卡片处于锁卡状态</string>
+     <string name="Z0">默认拒绝码(无效交易)</string>
+     <string name="account_8digit">若您的一卡通卡号是8位数，输入时请在卡号前增加4位数区号，如0010（北京）</string>
+     <string name="accountempty2">信用卡卡号为空</string>
+     <string name="accountnoempty">一卡通卡号不能为空</string>
+     <string name="accountnoempty2">卡号不能为空</string>
+     <string name="accountnoempty2_15digit">你输入的信用卡卡号无效，请在前面添加0 补齐16位数。</string>
+     <string name="alert_new_ver_msg">发现新版本,请及时更新！</string>
+     <string name="alert_new_ver_msg_not_network">发现新版本,但目前网络无效，请开启移动网络或无线网络！</string>
+     <string name="alertretrievingaccount">正在获取关联账号，请稍候...</string>
+     <string name="alerttopupfailtoretopup">充值失败，请重试!</string>
+     <string name="amountempty">充值金额为空</string>
+     <string name="amountinteger">温馨提示：充值金额须为整数，以人民币元为单位</string>
+     <string name="amountnoempty">温馨提示：充值金额须为大于0的整数，以人民币元为单位</string>
+     <string name="amountnoempty1">充值金额无效，请输入大于0的金额。</string>
+     <string name="answer">答:</string>
+     <string name="answer1">您现在使用的“招行手机钱包”是将招商银行银行卡内置到带安全模块的NFC手机中，为您提供安全、便捷的金融服务。在招商银行手机钱包客户端中进行空中开卡充值后,您只需要刷刷手机，就可以在境内具有银联闪付标识（Quick Pass）的POS机上进行快速消费。手机变成银行卡，够fashion，够省心！</string>
+     <string name="answer10">TOUCH卡（大吉卡）有效期为5年, 具体到期日将在客户端进行提示。到期后将不能再办理圈存和消费，但客户在此之前使用电子现金账户所发生的债权债务关系不因卡片到期而消失。</string>
+     <string name="answer11">TOUCH卡 （大吉卡） 为电子现金卡，卡内账户资金视同现金。 手机一旦丢失，手机钱包中的TOUCH卡不能挂失，TOUCH卡中的资金即视同现金丢失。TOUCH卡主要用于小额消费，请根据您的消费习惯适度选择充值金额。</string>
+     <string name="answer12">“招商银行手机钱包” 中TOUCH卡（大吉卡）电子现金功能的使用遵循《招商银行“手机钱包”业务须知 》）。 如果您对本产品有任何意见或建议请致电招商银行客户服务热线95555，感谢您的使用及支持！</string>
+     <string name="answer2">只要您是招商银行一卡通客户或信用卡客户，即可以根据招行手机钱包客户端指引，按步骤输入相关信息， 完成招商银行 手机TOUCH卡（大吉卡）的开通。如果您还不是招商银行客户，您可以在线预约信用卡办卡或携带个人身份证件到招商银行各网点办理一卡通、信用卡，完成办理后可根据上述说明启用“招行手机钱包”。</string>
+     <string name="answer3">点击右上角“更多”按钮，可以查看境内所有银联闪付（Quick Pass） 商户，您可以根据所在城市和商户类别进行筛选查询。</string>
+     <string name="answer4">若您已凭招行一卡通成功开通招商银行手机TOUCH卡（大吉卡），可任选以下两种方式进行充值：（1）通过招行手机钱包客户端进行空中充值；（2）前往招行网点充值。若您是通过招行信用卡开通TOUCH卡 （大吉卡）, 则仅可选择空中充值。 点击招商银行手机钱包首界面“¥”按钮或进入卡片详细信息查询界面点击“¥充值”按钮，即进入空中充值流程。您在申请办理招行手机钱包业务时提供的一卡通或信用卡即为您的TOUCH卡（大吉卡）的默认充值账户。如果您因默认充值账户绑定失败而无法进行充值，可以在招商银行各营业网点或通过网上银行专业版重新进行账户绑定，再进行充值。</string>
+     <string name="answer5">只要本手机处于开机状态即可在具有银联闪付标识的POS机上快速消费。消费时不需要输入密码。</string>
+     <string name="answer6">手机TOUCH卡（大吉卡）主要用于小额消费，可重复充值，一卡通 客户每日充值金额最高为1000元，信用卡客户无每日充值金额限制， 但不能超过信用卡可用消费额度， 且充值后的卡内余额 不得超过人民币1000元整。可一次性销户，但不能转账、取现，账户余额不计息。</string>
+     <string name="answer7">如果您已经成功开通招商银行手机 TOUCH卡 （大吉卡）， 每次进入“招行手机钱包”客户端均可看到账户余额。</string>
+     <string name="answer8">如果您已经成功开通招行银行手机 TOUCH卡（大吉卡），进入 “招商银行电子钱包” 客户端以后， 点击“TOUCH卡（大吉卡）”图片或“招商银行电子现金卡”按钮即可显示本手机中加载的TOUCH卡（大吉卡）详细信息。</string>
+     <string name="answer9">客户如需提前终止手机钱包业务，可携带手机和个人身份有效证件前往招商银行任一网点申请注销电子现金账户。招商银行受理申请后将电子现金账户内相应余额转回绑定主账户，不允许取现、部分圈提或多次圈提。</string>
+     <string name="app_name">移动钱包</string>
+     <string name="app_version_type">CMBEWallet</string>
+     <string name="ara">ara</string>
+     <string name="authcodeempty">短信验证码无效，请输入正确的短信验证码</string>
+     <string name="authfail">核身失败</string>
+     <string name="balance">账户余额：</string>
+     <string name="balancenocolon">账户余额</string>
+     <string name="bankNo">一卡通卡号：</string>
+     <string name="bindfailContent">您的圈存关联账户绑定失败，目前您的电子现金卡余额为零，如需充值，请通过网上银行专业版或至我行网点进行账户绑定。</string>
+     <string name="bindfailTitle">您的账户信息连续3次匹配不成功</string>
+     <string name="bindfail_alertContent">您尚未绑定圈存关联账户，为了您
+
+的充值便利，请通过网上银行专业
+
+版或至我行网点进行账户绑定。</string>
+     <string name="bindfail_alertTitle">未完成提示！</string>
+     <string name="btnload">充值</string>
+     <string name="btnnext">确定</string>
+     <string name="cancel">取消</string>
+     <string name="capfile_size">程序大小:55K</string>
+     <string name="cardNO">卡号：</string>
+     <string name="cardtypeText">请根据您的实际情况进行选择:</string>
+     <string name="cardtypeText2">如您同时拥有招商银行一卡通和信用卡，可任选1或2</string>
+     <string name="cardtype_radioText1">1. 我是招商银行一卡通客户</string>
+     <string name="cardtype_radioText2">2. 我是招商银行信用卡客户</string>
+     <string name="cardtype_radioText3">3. 我还不是招商银行客户</string>
+     <string name="cctopup_fail_alertContent2">
+1.输入信息与关联卡片不匹配；
+2.信用卡额度不足，需要先进行还款或登陆网银调整卡片额度，再进行充值；</string>
+     <string name="check_amount">查看当前余额</string>
+     <string name="check_cashcard">点击查看电子现金卡</string>
+     <string name="clienNotServiceApk">没有检测到RHG Service APK， 
+ 正在自动下载，请稍候......</string>
+     <string name="closeButton">关闭</string>
+     <string name="comfirm">确定</string>
+     <string name="create_date">创建时间：</string>
+     <string name="creditaccountillegal">请输入15位或16位的信用卡卡号</string>
+     <string name="creditcard_SMS">短信验证码：</string>
+     <string name="creditcard_SMSinvalidation">短信验证码已失效，请重新获取</string>
+     <string name="creditcard_account_Err">账号输入错误，请重新输入</string>
+     <string name="creditcard_againGetSMS">重新获取短信</string>
+     <string name="creditcard_authfail_NO1">您的个人信息匹配错误，请重新输入。</string>
+     <string name="creditcard_authfail_NO3">您的个人信息匹配错误已达3次，今天将不能再开通电子现金卡，请改天再试。</string>
+     <string name="creditcard_bankNo">信用卡卡号：</string>
+     <string name="creditcard_bindfail">很抱歉！空中开卡失败，请重新输入相关信息。</string>
+     <string name="creditcard_confirm">确认充值</string>
+     <string name="creditcard_getSMS">获取短信</string>
+     <string name="creditcard_getSMSFail">短信验证码获取失败！</string>
+     <string name="creditcard_getSMS_timeAlert">短信验证码有效时间为10分钟，若您在30秒内未收到短信验证码可重新获取。</string>
+     <string name="creditcard_indate">有效期：</string>
+     <string name="creditcard_indateMonth">月</string>
+     <string name="creditcard_indateYear">年</string>
+     <string name="creditcard_lastThreeNum">信用卡背面签名栏末3位数字：</string>
+     <string name="creditcard_opcard1_detail2">您尚未开通招商银行信用卡。 成功开通后 , 您在全国的银联闪付 （Quick Pass） 商户只需 “嘀” 一下手机， 即可轻松完成消费。告别排队刷卡的等待， 省却找零的烦恼， 新一代移动生活正等您开启！</string>
+     <string name="creditcard_passWd">查询密码：</string>
+     <string name="creditcard_passwd_ErrNO1">您的密码输入错误，请返回重新输入。</string>
+     <string name="creditcard_passwd_ErrNO5">您的密码输入错误，若密码输入错误超过5次，当天将不能再开通电子现金卡，请返回重新输入。</string>
+     <string name="creditcard_passwd_ErrNO5Finish">您的密码输入错误已达5次，今天将不能再开通电子现金卡，请改天再试。</string>
+     <string name="creditcard_second">秒</string>
+     <string name="customevip">尊敬的客户</string>
+     <string name="cvv2empty">CVV2验证码无效，请输入三位数字的CVV2验证码</string>
+     <string name="debitaccountillegal">请输入12位或16位的一卡通卡号</string>
+     <string name="dialogtitleactivebandfail">开卡绑定关联失败</string>
+     <string name="dialogtitlepersonfail">空中个人化失败</string>
+     <string name="errorcode">错误代码:</string>
+     <string name="exitconfirm">确定退出招行手机客户端?</string>
+     <string name="exitconfirm_nfc">NFC功能异常，请退出重试！</string>
+     <string name="exitconfirm_nocard">您目前还不是招商银行客户，请您携带个人身份证件到招商银行各营业网点办理开卡服务。开卡成功后，您可通过充值方式对电子现金卡进行充值。</string>
+     <string name="expense">消费商户查询</string>
+     <string name="failedtogetSIMmsg">获取短信动态验证码失败</string>
+     <string name="failedtotopup3tims">充值失败次数超过三次！</string>
+     <string name="failedtotopuperrmsg">充值失败!</string>
+     <string name="failedtotopupexist">充值失败!</string>
+     <string name="failedtotopupmsg">充值失败，请去营业厅</string>
+     <string name="failureConnection">网络连接失败或服务不可用！请稍候重试！</string>
+     <string name="hello_world">Hello world!</string>
+     <string name="help">帮助信息</string>
+     <string name="helpInfo">帮助信息</string>
+     <string name="idNo">开户证件号码：</string>
+     <string name="idType">开户证件类型：</string>
+     <string name="idTypeSpinner">选择开户证件类型</string>
+     <string name="idinvalidation">无效的身份证号码!</string>
+     <string name="idnoempty">开户证件号码不能为空</string>
+     <string name="indate">有效期：</string>
+     <string name="indateempty">有效期无效，请输入年份为两位数字的日期</string>
+     <string name="initException">应用程序初始化异常，“确定”后退出。</string>
+     <string name="initFailure">初始化失败！是否要重新初始化？</string>
+     <string name="initSuccess">初始化成功！</string>
+     <string name="initializing">正在进行程序下载及初始化……</string>
+     <string name="initializingBack">正在进行程序下载及初始化......
+ 程序大小:55K 
+请不要退出客户端</string>
+     <string name="install">初始化</string>
+     <string name="invalidatanetwork">网络无效，请设置网络!</string>
+     <string name="invalidcvv2empty">CVV2验证码无效</string>
+     <string name="launchWalletTitle">招商银行手机钱包</string>
+     <string name="load">充值</string>
+     <string name="loadInfo">请到招商银行各营业网点进行充值,
+即将推出更多充值方式，
+敬请期待……</string>
+     <string name="lockcard">卡片已被锁定，请去柜台解锁！</string>
+     <string name="logoText">请输入密码!</string>
+     <string name="main_custome_alert">目前您的卡片余额为零，欢迎体验充值功能，轻松充值，即刻闪付！</string>
+     <string name="main_info">招商银行电子现金卡</string>
+     <string name="menu_settings">Settings</string>
+     <string name="new_verName">新版本:</string>
+     <string name="nfcchannelexception">NFC通道被关闭或NFC异常，请按“放弃”键退出招行手机钱包后正确设置NFC功能！</string>
+     <string name="nfcchannelwasopen">招行手机钱包系统需要NFC通道,请关闭其它NFC应用或NFC功能异常！</string>
+     <string name="nfcexception">NFC功能异常，请正确设置NFC！</string>
+     <string name="noEcashBank">招商银行手机银行,转账汇款、信用卡还款、手机充值等各种金融应用,让您畅享全新移动金融生活。赶快手机访问：m.cmbchina.com，选择Android版免费下载安装。</string>
+     <string name="nogetaccount">获取相关联的借贷记账号失败！</string>
+     <string name="noretrieveaccount">通信异常，获取相关联的账号失败！</string>
+     <string name="not_update_title">没有检测到新版本</string>
+     <string name="notimealert">下次不再提醒</string>
+     <string name="notopenCard">您尚未开通招商银行电子现金卡，请您携带个人身份证件到招商银行各营业网点办理开卡。开卡成功后，您可通过充值方式对电子现金卡进行充值。</string>
+     <string name="notrom">该手机软件不支持招商银行手机钱包！</string>
+     <string name="nowEnter">现在进入</string>
+     <string name="ok">确定</string>
+     <string name="opcardauthfail">客户信息匹配失败！</string>
+     <string name="opcardfail_AlertContent">您的一卡通取款密码输入错误，
+
+ 请重新输入 。</string>
+     <string name="opcardfail_AlertTitle">客户信息匹配失败！</string>
+     <string name="openCard">请您携带个人身份证到招商银行各营业网点办理开卡</string>
+     <string name="openGPS">手机定位失败，请打开手机中的定位功能或者重试！</string>
+     <string name="opencard1_detail1">章程（略）</string>
+     <string name="opencard1_detail2">您尚未开通招商银行电子现金卡。 成功开通后 , 您在全国的银联闪付 （Quick Pass） 商户只需 “嘀” 一下手机， 即可轻松完成消费。告别排队刷卡的等待， 省却找零的烦恼， 新一代移动生活正等您开启！</string>
+     <string name="opencardAccept">接受</string>
+     <string name="opencardDetail1">招商银行“手机钱包”业务须知</string>
+     <string name="opencardDetail2">1、招商银行“手机钱包”业务（以下简称 “本业务” ） 是将招商银行电子现金功能加载于客户 所持有的带安全模块的NFC手机中，客户可以通过电子现金账户完成小额快速消费的移动支付产品。客户成功办理本业务后可使用有NFC 功能的手机在具有“QuickPass闪付” 标识POS 终端上以非接触方式完成 1000 元以下的小额 快速消费。 
+
+ 2、本业务仅向招商银行“一卡通”/信用卡客户提供。申办本业务时客户根据提示输入 “一卡通” 的卡号、密码、证件信息，或信用卡卡号、验证码、有效期等信息。招商银行审核客户的申请并同意开通本业务的，将电子现金账户加载至NFC手机的安全模块中，同时将客户申请办理本业务提供的“一卡通”或“信用卡” 设置为该电子现金账户的默认圈存、圈提账户 （以下简称“绑定主账户”）。若客户绑定主账户已过期或已处于挂失、注销等状态，将不可绑定；若绑定的主账户 在更换卡片且新的卡片 （账 户）开通后将自动作为客户电子现金账户的绑定主账户。 
+
+ 3、本业务的电子现金账户余额上限为人民币 1000元， 客户可通过招商银行手机钱包客户 端 将绑定主账户的款项圈存至该 电子现金账户，当日累计圈存上限为1000元。 电子现金 账户不挂失，不提供取现，不提供转账功能，不透支，不计付利息。 
+
+ 4、使用本业务的电子现金账户消费时，商户终端通过非接触方式读取手机中的电子现金账户信息，确认账户真实有效后完成交易，在此过程客户无需输入密码，也无需在电子付款凭证上签名确认。 客户应将加载手机钱包的手机视同现金妥善保管，如因保管不善导致任何资金损失或其他损失的，由客户自行承担相关责任，招商银行不承担任何责任。 
+
+ 5、当手机内的电子现金账户余额不足时，客户可通过招商银行手机钱包客户端从 绑定主账户圈存金额至电子现金账户中，圈存后的账户余额不得超过人民币1000元。绑定主账户为信用卡时，该充值操作视同一般消费，从圈存日起计入信用卡账户一般消费交易；绑定主账户为“一卡通”时，该充值操作视同一般转账，实时扣减“一卡通”人民币活期账户余额。绑定主账户已过期或已处于挂失、 注销等异常状态的，将无法正常圈存，客户可待主账户恢复正常再圈存，或重新绑定本人名下的另一张有效的“一卡通”或信用卡。 
+
+ 6、手机内的电子现金账户 有效期为5年， 具 体到期日以手机客户端中的提示为准。到期后该账户不能办理圈存、消费。但客户在此之前使用电子现金账户所发生的债权债务关系不因卡片到期而消失。 
+
+ 7、客户需提前终止本业务，应携带加载该业务的手机前往招商银行柜台申请注销电子现金账户 （ 注销该账户即意味着终止手机钱包业务，下同）。注销电子现金账户时，只要手机 中的电子现金账户可正常读取，招商银行受理申请后将电子现金账户内相应余额转回绑定主账户，不允许取现、部分圈提或多次圈提。 电子现金账户一经注销即生效，“手机钱包”功能终止。客户在电子现金账户注销之前使用电子现金账户所发生的债权债务关系不因该账户注销而消失。 
+
+ 8、客户可随时通过招商银行手机钱包客户端查询余额。招商银行不提供电子现金账户对账单。 
+
+ 9、客户与特约商户之间就相关交易产生的纠纷，以及客户与手机厂商就手机中的与本业务无关的事宜发生纠纷，由发生纠纷的双方自行解决，与招商银行无关，客户不得以该等纠纷为由拒绝向招商银行支付任何应支付的款项。 
+
+ 10、客户使用手机钱包通过银联商户消费时， 须同时遵守中国银联、收单银行和有关受理机构的相关规定。 
+
+ 11、客户同意招商银行按照监管机构的有关规定，对招商银行提供的手机钱包服务收取相关费用，具体收费内容和收费标准以招商银行最新公告为准。如遇费用调整,招商银行将以对外公告的形式通知客户，客户有权选择是否继续使用手机钱包服务。如客户不同意接受公告内容的，应向招商银行提出申请变更或终止相关服务或账户，否则，视为客户同意接受公告内容。 
+
+ 12、招商银行“手机钱包”部分业务通过互联网网络实现，若出现非银行自身原因导致的网络和通迅故障，招商银行不承担责任。 
+
+ 13、招商银行营业网点及95555、 4008205555 （信用卡）服务热线向客户提供“手机钱包”业务咨询、投诉服务。 
+
+ 14、客户如需删除招商银行手机钱包应用，请先确认电子现金账户余额为零。 
+
+ 15、本协议未尽事宜， 按照相关法律法规执行。 
+
+ 16、招商银行保留根据业务需要调整本须知相关规定的权利。如果招商银行调整本须知，将提前【15】个工作日通过手机钱包客户端发布相关公告。调整后的须知于公告中记载的生效日生效。如客户对调整后须知有异议的，应在公告记载的生效日前到招商银行柜台办理相关业务终止手续，如客户未在该生效日前办理相关业务终止手续的，视为客户同意接受调整后的须知，并受该须知内容的约束。</string>
+     <string name="opencardGiveup">不接受</string>
+     <string name="opencardTitle">开通招商银行手机钱包</string>
+     <string name="opencard_Alert">卡片正在开通中，请稍候...</string>
+     <string name="opencard_cancel">取消</string>
+     <string name="opencard_confirm">确定</string>
+     <string name="opencard_suc_AlertContent">恭喜您成功开通招商银行电子现金卡!
+
+点击查看详细信息</string>
+     <string name="opencard_suc_AlertTitle">开通成功！</string>
+     <string name="opencardbtn">我要开通</string>
+     <string name="passWd">取款密码：</string>
+     <string name="passwd_ErrNO1">您的一卡通取款密码输入错误，
+ 若取款密码输入错误超过5次， 
+ 当天将不能再开通电子现金卡， 
+ 请返回重新输入。</string>
+     <string name="passwd_ErrNO5">您的一卡通取款密码输入错误 
+已达5次，今天将不能再开通电 
+子现金卡，请改天再试。</string>
+     <string name="paymentGroup">paymentGroup</string>
+     <string name="pboc2">pboc2</string>
+     <string name="person_ErrNO3">您的个人信息匹配错误已达3次，今天将不能再开通电子现金卡，请改天再试。</string>
+     <string name="person_Error">您的个人信息匹配错误，请重新 
+输入。</string>
+     <string name="pinempty2">密码输入为空</string>
+     <string name="pinno6number">请输入正确的6位数字密码</string>
+     <string name="pinnoempty">密码输入不能为空</string>
+     <string name="pinnoempty2">密码不能为空</string>
+     <string name="ppse">ppse</string>
+     <string name="pwdfail">密码错误</string>
+     <string name="question1">1、什么是“招行手机钱包”？</string>
+     <string name="question10">10、招商银行手机TOUCH卡（大吉卡）存在有效期吗？</string>
+     <string name="question11">11、如果手机丢失，存放在本手机“招行手机钱包”中的TOUCH卡（大吉卡）可以挂失吗？</string>
+     <string name="question12">12、如对“招商银行手机钱包”中TOUCH卡（大吉卡）有更多疑问或对本产品有意见或建议该怎么办？</string>
+     <string name="question2">2、如何启用本手机的“招行手机钱包”？</string>
+     <string name="question3">3、使用“招行手机钱包”可以在哪些商户进行消费？</string>
+     <string name="question4">4、我应该怎么给“招行手机钱包”中的TOUCH卡（大吉卡）充值？</string>
+     <string name="question5">5、手机在什么状态下可用本手机“招行电子钱包”中的TOUCH卡（大吉卡）消费？消费时需要输入密码吗？</string>
+     <string name="question6">6、“招行手机钱包”里的TOUCH卡（大吉卡）除了消费，还可办理哪些业务？</string>
+     <string name="question7">7、如何查询本手机“招行手机钱包”中TOUCH卡（大吉卡）的账户余额？</string>
+     <string name="question8">8、如何查询本手机“招行手机钱包”中TOUCH卡（大吉卡）的账户详细信息？</string>
+     <string name="question9">9、如何注销（圈提）招商银行手机TOUCH卡（大吉卡）？</string>
+     <string name="reinstall">重新初始化</string>
+     <string name="reinstall_1">重试</string>
+     <string name="reqnewcardui">正在连接，请稍候...</string>
+     <string name="s00">交易返回成功！</string>
+     <string name="s01">协议参数没有维护，４</string>
+     <string name="s03">无效商户号</string>
+     <string name="s05">要验却没送证件信息</string>
+     <string name="s06">交易出错</string>
+     <string name="s12">无效交易</string>
+     <string name="s13">无效金额</string>
+     <string name="s14">无效卡</string>
+     <string name="s22">故障怀疑</string>
+     <string name="s23">不可接受的交易费</string>
+     <string name="s25">原交易拒绝</string>
+     <string name="s30">新密码不符合规定</string>
+     <string name="s31">无此节点</string>
+     <string name="s34">交易验证失败</string>
+     <string name="s40">发卡方关闭</string>
+     <string name="s51">账户余额不足</string>
+     <string name="s54">IC卡已过有效期</string>
+     <string name="s55">密码错误</string>
+     <string name="s57">该卡未开通该交易</string>
+     <string name="s61">超出金额限制</string>
+     <string name="s62">无效账户</string>
+     <string name="s64">原始金额错误</string>
+     <string name="s65">交易次数超过规定限制</string>
+     <string name="s75">密码错误次数超限</string>
+     <string name="s92">系统暂定服务</string>
+     <string name="s93">交易违法</string>
+     <string name="s97">无效终端号</string>
+     <string name="s98">超时</string>
+     <string name="samsung">本系统仅限三星手机使用，点击确定即可退出。</string>
+     <string name="searchbanckbranch">查询招商银行营业网点</string>
+     <string name="searchmerchantui">正在查找中，请稍候...</string>
+     <string name="serchAll">查询招商银行营业网点</string>
+     <string name="serchNear">查询最近的招商银行营业网点</string>
+     <string name="servicedesc">servicedesc</string>
+     <string name="setcardmodel">使用此招行手机钱包会选择“嵌入式” 安全芯片，如需使用“SIM卡” 模式， 请到设定 - 更多设置 - 选择安全芯片里进行切换。</string>
+     <string name="setnetwork">招行手机钱包系统需要网络接入，请开启移动网络或无线网络！</string>
+     <string name="setnfcopen">招行手机钱包系统需要NFC功能，请开启NFC功能！</string>
+     <string name="ssd">ssd</string>
+     <string name="topup_Alert">正在充值中，请稍候...</string>
+     <string name="topup_maxloaded">您的钱包还是满满的，无需充值，请及时消费</string>
+     <string name="topupfail_amount">信用卡额度不足，充值失败！</string>
+     <string name="topupfail_errmsg1">解析响应报文错误</string>
+     <string name="topupfail_errmsg10">充值3次未获取到返回，需要发起冲正</string>
+     <string name="topupfail_errmsg2">外部认证失败</string>
+     <string name="topupfail_errmsg3">GENERATE AC2 失败</string>
+     <string name="topupfail_errmsg4">充值脚本执行失败</string>
+     <string name="topupfail_errmsg5">圈存结果无效，充值失败</string>
+     <string name="topupfail_errmsg6">请完成本次充值，并退出程序后再执行充值。</string>
+     <string name="topupfail_errmsg7">充值失败，但冲正成功，可继续正常交易</string>
+     <string name="topupfail_errmsg8">钱包充值异常，请核对钱包余额与交易情况，若存异常，请尽快前往附近招行网点处理</string>
+     <string name="topupfail_errmsg9">冲值3次未发送出去，充值失败</string>
+     <string name="topupload">空中充值</string>
+     <string name="topupload_again">重新充值</string>
+     <string name="topupload_amount">充值金额：</string>
+     <string name="topupload_bankno">转出卡号：</string>
+     <string name="topupload_beforeInstallAlert">招行手机钱包是免费使用的，当您在通过手机进行初始化及使用时会产生一定的数据流量费用，产生的数据流量费用是由运营商收取，详细收费标准，请您咨询当地的运营商！</string>
+     <string name="topupload_confireload">确认充值</string>
+     <string name="topupload_confirm">确认充值</string>
+     <string name="topupload_fail_alertContent1">可能因为如下原因：</string>
+     <string name="topupload_fail_alertContent2">
+1.取款密码与卡号不匹配；
+2.一卡通余额不足，请先存入所需金额再进行充值。</string>
+     <string name="topupload_fail_alertTitle">您的充值未成功</string>
+     <string name="topupload_getsms">获取短信</string>
+     <string name="topupload_giveup">放弃</string>
+     <string name="topupload_maxblance">钱包已达到最大金额，无需充值</string>
+     <string name="topupload_newfree">招行有礼</string>
+     <string name="topupload_no_amount">充值金额不能为空!</string>
+     <string name="topupload_no_pwd">一卡通取款密码不能为空!</string>
+     <string name="topupload_nosignalert">充值服务是我行推出的手机钱包最便捷并且安全的充值方式，让你可以随时随在手机上完成手机钱包中招商银行现金卡的充值。</string>
+     <string name="topupload_nosigned">如果您暂不想开通充值功服务，也可前往招商银行各营业网点进行充值。</string>
+     <string name="topupload_nosigntopup">目前,您尚未开通充值服务，您可以：</string>
+     <string name="topupload_nosigntopup1">1、 通过招商银行网上银行专业版签署TOUCH卡充值协议进行开通。</string>
+     <string name="topupload_nosigntopup2">2、到招商银行各营业网点签署TOUCH卡充值协议进行开通。</string>
+     <string name="topupload_passwd">取款密码：</string>
+     <string name="topupload_return">返回</string>
+     <string name="topupload_sms">短信验证码：</string>
+     <string name="topupload_succeed">充值成功 ！</string>
+     <string name="topupmaxamount">最大充值金额不能超过1000元！</string>
+     <string name="topupmaxoveramount">充值金额超限</string>
+     <string name="topupmaymaxamount">最大充值金额:</string>
+     <string name="unsupported">手机钱包暂不支持您的手机型号!</string>
+     <string name="update">如需使用招商银行手机钱包,请到设定-关于设备-系统更新菜单更新手机软件！</string>
+     <string name="update_Alert">正在检测新版本中，请稍候...</string>
+     <string name="update_browser">系统默认浏览器不支持此功能，请使用标准浏览器！</string>
+     <string name="update_notNetWork">网络连接失败或服务不可用，请开启移动网络或无线网络！</string>
+     <string name="update_title">检测到新版本，请及时更新！</string>
+     <string name="us">联系我们</string>
+     <string name="welcome_info">欢迎您使用招商银行手机钱包
+(CMB Wallet)！</string>
+     <string name="welcome_info2">赶快带上您的身份证件去我们的网点激活您的招商银行手机钱包(CMB Wallet)，开启您的手机刷卡新生活！</string>
+     <string name="welcome_info22">您尚未开通招商银行手机钱包。点击 “我要开通”，招行客户可立即开通招行手机钱包， 畅想移动支付酷生活！非招行客户可在线申请招行信用卡，申请成功后即可开通招行手机钱包。</string>
+     <string name="welcome_info3">手机刷卡新生活---手机嘀一下，消费买单全搞定！</string>
+</resources>

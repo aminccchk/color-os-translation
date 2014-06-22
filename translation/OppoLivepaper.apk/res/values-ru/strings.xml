@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="apply">Использовать</string>
+     <string name="cancel">Отмена</string>
+     <string name="config">Настройки</string>
+     <string name="confirm">Удалить</string>
+     <string name="delete">Удалить</string>
+     <string name="delete_confirm">Вы уверены, что вы хотите удалить?</string>
+     <string name="live_wallpaper_loading">Loading live wallpaper...</string>
+     <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
+     <string name="livepaper">Живые обои</string>
+     <string name="livepaper_using">Данные живые обои используются, удаление невозможно!</string>
+     <string name="more_livepaper">Больше живых обоев</string>
+     <string name="sign_use">Используется</string>
+</resources>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="abbrev_month">%-b</string>
+     <string name="abbrev_month_day" formatted="false">%b %-e</string>
+     <string name="abbrev_month_day_year" formatted="false">%b %-e, %Y</string>
+     <string name="abbrev_month_year" formatted="false">%b %Y</string>
+     <string name="abbrev_wday_month_day_no_year">E, d MMMM</string>
+     <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
+     <string name="activity_not_found">Приложение не установлено на устройстве.</string>
+     <string name="am">am</string>
+     <string name="app_name">Original unlock</string>
+     <string name="common_last_name_prefixes"></string>
+     <string name="common_name_conjunctions"></string>
+     <string name="common_name_prefixes"></string>
+     <string name="common_name_suffixes"></string>
+     <string name="date1_date2">%2$s – %5$s</string>
+     <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+     <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+     <string name="date_time">%1$s, %2$s</string>
+     <string name="day_of_week_long_friday">Friday</string>
+     <string name="day_of_week_long_monday">Monday</string>
+     <string name="day_of_week_long_saturday">Saturday</string>
+     <string name="day_of_week_long_sunday">Sunday</string>
+     <string name="day_of_week_long_thursday">Thursday</string>
+     <string name="day_of_week_long_tuesday">Tuesday</string>
+     <string name="day_of_week_long_wednesday">Wednesday</string>
+     <string name="day_of_week_medium_friday">Fri</string>
+     <string name="day_of_week_medium_monday">Mon</string>
+     <string name="day_of_week_medium_saturday">Sat</string>
+     <string name="day_of_week_medium_sunday">Sun</string>
+     <string name="day_of_week_medium_thursday">Thu</string>
+     <string name="day_of_week_medium_tuesday">Tue</string>
+     <string name="day_of_week_medium_wednesday">Wed</string>
+     <string name="day_of_week_short_friday">Fr</string>
+     <string name="day_of_week_short_monday">Mo</string>
+     <string name="day_of_week_short_saturday">Sa</string>
+     <string name="day_of_week_short_sunday">Su</string>
+     <string name="day_of_week_short_thursday">Th</string>
+     <string name="day_of_week_short_tuesday">Tu</string>
+     <string name="day_of_week_short_wednesday">We</string>
+     <string name="day_of_week_shortest_friday">F</string>
+     <string name="day_of_week_shortest_monday">M</string>
+     <string name="day_of_week_shortest_saturday">S</string>
+     <string name="day_of_week_shortest_sunday">S</string>
+     <string name="day_of_week_shortest_thursday">T</string>
+     <string name="day_of_week_shortest_tuesday">T</string>
+     <string name="day_of_week_shortest_wednesday">W</string>
+     <string name="default_text_encoding">Latin-1</string>
+     <string name="description_direction_down">Проведите вниз, чтобы %s.</string>
+     <string name="description_direction_left">Проведите влево, чтобы %s.</string>
+     <string name="description_direction_right">Проведите вправо, чтобы %s.</string>
+     <string name="description_direction_up">Проведите вверх, чтобы %s.</string>
+     <string name="description_target_camera">Камера</string>
+     <string name="description_target_search">Поиск</string>
+     <string name="description_target_silent">Без звука</string>
+     <string name="description_target_soundon">Звук вкл.</string>
+     <string name="description_target_unlock">Разблокировать</string>
+     <string name="discription">this is a demo for oppo lockscreen</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="hour_minute_24" formatted="false">%H:%M</string>
+     <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
+     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M%^p</string>
+     <string name="keygaurd_accessibility_media_controls">Media control</string>
+     <string name="keyguard_accessibility_add_widget">Add widget.</string>
+     <string name="keyguard_accessibility_camera">Камера</string>
+     <string name="keyguard_accessibility_expand_lock_area">Expand the unlock area</string>
+     <string name="keyguard_accessibility_face_unlock">Face unlock</string>
+     <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
+     <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
+     <string name="keyguard_accessibility_pattern_unlock">Pattern unlock</string>
+     <string name="keyguard_accessibility_pin_unlock">PIN unlock.</string>
+     <string name="keyguard_accessibility_slide_area">Sliding area.</string>
+     <string name="keyguard_accessibility_slide_unlock">Проведите по экрану, чтобы разблокировать устройство.</string>
+     <string name="keyguard_accessibility_status">Статус</string>
+     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+     <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
+     <string name="keyguard_accessibility_user_selector">User selector</string>
+     <string name="keyguard_accessibility_widget">%1$s widget.</string>
+     <string name="keyguard_accessibility_widget_deleted">Widget %1$s was deleted.</string>
+     <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
+     <string name="keyguard_accessibility_widget_reorder_end">Reorder of widgets completed.</string>
+     <string name="keyguard_accessibility_widget_reorder_start">Reorder of widgets started.</string>
+     <string name="kg_emergency_call_label">Экстренный вызов</string>
+     <string name="kg_failed_attempts_almost_at_login">You have tried to draw the unlock pattern unsuccessfully for %1$d times, the system will use email account to unlock the phone for another %2$d times without success.
+
+Please try again in %3$d seconds.</string>
+     <string name="kg_failed_attempts_almost_at_wipe">You have tried to unlock the phone unsuccessfully for %1$d times, the phone will be reset to factory default settings and all user data will be lost for another %2$d times without success.</string>
+     <string name="kg_failed_attempts_now_wiping">You have tried to unlock the phone unsuccessfully for %d times, the phone is being reset to factory default settings.</string>
+     <string name="kg_reordering_delete_drop_target_text">удалить</string>
+     <string name="kg_text_message_separator"> — </string>
+     <string name="lock_pattern_view_aspect">square</string>
+     <string name="lockscreen_battery_short">%1$d%%</string>
+     <string name="lockscreen_charged">Заряжено</string>
+     <string name="lockscreen_instructions_when_pattern_disabled">Для разблокировки нажмите "Меню".</string>
+     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
+     <string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту.</string>
+     <string name="lockscreen_missing_sim_instructions_long">SIM-карта отсутствует или недоступна. Вставьте SIM-карту.</string>
+     <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
+     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
+     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
+     <string name="lockscreen_permanent_disabled_sim_instructions">SIM-карта окончательно заблокирована.
+Чтобы получить новую, обратитесь к своему оператору.</string>
+     <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию.</string>
+     <string name="lockscreen_plugged_in">Идет зарядка (%d%%)</string>
+     <string name="lockscreen_sim_error_message">SIM card is Invalid.</string>
+     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
+     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK.</string>
+     <string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
+     <string name="lockscreen_transport_pause_description">Кнопка паузы</string>
+     <string name="lockscreen_transport_play_description">Кнопка воспроизведения</string>
+     <string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
+     <string name="lockscreen_transport_stop_description">Кнопка выключения</string>
+     <string name="month">%-B</string>
+     <string name="month_day" formatted="false">%B %-e</string>
+     <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+     <string name="month_long_april">April</string>
+     <string name="month_long_august">August</string>
+     <string name="month_long_december">December</string>
+     <string name="month_long_february">February</string>
+     <string name="month_long_january">January</string>
+     <string name="month_long_july">July</string>
+     <string name="month_long_june">June</string>
+     <string name="month_long_march">March</string>
+     <string name="month_long_may">May</string>
+     <string name="month_long_november">November</string>
+     <string name="month_long_october">October</string>
+     <string name="month_long_september">September</string>
+     <string name="month_long_standalone_april">April</string>
+     <string name="month_long_standalone_august">August</string>
+     <string name="month_long_standalone_december">December</string>
+     <string name="month_long_standalone_february">February</string>
+     <string name="month_long_standalone_january">January</string>
+     <string name="month_long_standalone_july">July</string>
+     <string name="month_long_standalone_june">June</string>
+     <string name="month_long_standalone_march">March</string>
+     <string name="month_long_standalone_may">May</string>
+     <string name="month_long_standalone_november">November</string>
+     <string name="month_long_standalone_october">October</string>
+     <string name="month_long_standalone_september">September</string>
+     <string name="month_medium_april">Apr</string>
+     <string name="month_medium_august">Aug</string>
+     <string name="month_medium_december">Dec</string>
+     <string name="month_medium_february">Feb</string>
+     <string name="month_medium_january">Jan</string>
+     <string name="month_medium_july">Jul</string>
+     <string name="month_medium_june">Jun</string>
+     <string name="month_medium_march">Mar</string>
+     <string name="month_medium_may">May</string>
+     <string name="month_medium_november">Nov</string>
+     <string name="month_medium_october">Oct</string>
+     <string name="month_medium_september">Sep</string>
+     <string name="month_shortest_april">A</string>
+     <string name="month_shortest_august">A</string>
+     <string name="month_shortest_december">D</string>
+     <string name="month_shortest_february">F</string>
+     <string name="month_shortest_january">J</string>
+     <string name="month_shortest_july">J</string>
+     <string name="month_shortest_june">J</string>
+     <string name="month_shortest_march">M</string>
+     <string name="month_shortest_may">M</string>
+     <string name="month_shortest_november">N</string>
+     <string name="month_shortest_october">O</string>
+     <string name="month_shortest_september">S</string>
+     <string name="month_year" formatted="false">%B %Y</string>
+     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
+     <string name="no_keyguard_widget">No lockscreen widget</string>
+     <string name="numeric_date" formatted="false">%-m/%-e/%Y</string>
+     <string name="numeric_date_format">M/d/yyyy</string>
+     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
+     <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
+     <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+     <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+     <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+     <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+     <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+     <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+     <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
+     <string name="ok">ОК</string>
+     <string name="pm">pm</string>
+     <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
+     <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
+     <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+     <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+     <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+     <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
+     <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+     <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
+     <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+     <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+     <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+     <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+     <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+     <string name="short_format_month">%b</string>
+     <string name="time1_time2">%1$s – %2$s</string>
+     <string name="time_date">%1$s, %3$s</string>
+     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+     <string name="time_wday">%1$s, %2$s</string>
+     <string name="time_wday_date">%1$s, %2$s, %3$s</string>
+     <string name="today">Today</string>
+     <string name="tomorrow">Tomorrow</string>
+     <string name="twelve_hour_time_format">h:mm a</string>
+     <string name="twenty_four_hour_time_format">HH:mm</string>
+     <string name="unlockAuthor">Original unlock</string>
+     <string name="unlockDate">2012-05-17</string>
+     <string name="unlockResolution">800*480</string>
+     <string name="unlockVersion">1.0</string>
+     <string name="unlockname">Original unlock</string>
+     <string name="user_switched">The current user is %1$s.</string>
+     <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
+     <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
+     <string name="wday_date">%2$s, %3$s</string>
+     <string name="widget_default_class_name"></string>
+     <string name="widget_default_package_name"></string>
+     <string name="widget_picker_title">выбирать виджеты</string>
+     <string name="yesterday">Yesterday</string>
+</resources>

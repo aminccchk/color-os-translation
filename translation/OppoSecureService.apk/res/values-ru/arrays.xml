@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="traffic_save_mode_exclude_apps">
+        <item>com.taobao.taobao</item>
+        <item>com.baidu.BaiduMap</item>
+        <item>com.netease.newsreader.activity</item>
+        <item>com.youdao.dict</item>
+     </string-array>
+</resources>

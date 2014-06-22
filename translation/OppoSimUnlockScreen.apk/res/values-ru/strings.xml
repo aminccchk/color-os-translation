@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">SimUnlockScreen</string>
+     <string name="change_setting_for_onenewsim">Обнаружена новая SIM-карта. Она названа как</string>
+     <string name="change_setting_for_removesim">SIM-карта извлечена. Настройки по-умолчанию изменены:</string>
+     <string name="change_setting_for_twonewsim">Обнаружена новая SIM-карта. Она названа как</string>
+     <string name="change_settings">Изменить</string>
+     <string name="choose_gprs_mode">Выберите способ передачи данных</string>
+     <string name="default_sim_removed">Основная SIM-карта извлечена</string>
+     <string name="discription">this is a demo for oppo lockscreen</string>
+     <string name="dismiss">Пропустить</string>
+     <string name="for_first_simcard">Первая SIM-карта</string>
+     <string name="for_second_simcard">Вторая SIM-карта</string>
+     <string name="invalidPin">PIN-код должен состоять из 4-8 цифр</string>
+     <string name="invalidPuk">Необходимо ввести 8 цифр.</string>
+     <string name="invalid_pin">Введите корректные 4-8 цифр PIN-кода.</string>
+     <string name="invalid_puk">Введите корректные 8 цифр puk-кода.</string>
+     <string name="keyguard_alwaysask">Всегда спрашивать</string>
+     <string name="keyguard_close">ВЫКЛ</string>
+     <string name="keyguard_code_donnot_mismatch">PIN коды не сравнивают</string>
+     <string name="keyguard_code_length_prompt">Введите 4–8 цифр</string>
+     <string name="keyguard_data">Передача данных:</string>
+     <string name="keyguard_data_none">ВЫКЛ</string>
+     <string name="keyguard_internal_call">Интернет звонки</string>
+     <string name="keyguard_not_set">Не установлен</string>
+     <string name="keyguard_password_Confirm_pin_code">Подтвердите новый PIN</string>
+     <string name="keyguard_password_enter_new_pin_code">Введите новый PIN-код</string>
+     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
+     <string name="keyguard_password_enter_puk_code">Введите PUK код</string>
+     <string name="keyguard_password_wrong_pin_code">Неверный PIN!</string>
+     <string name="keyguard_password_wrong_puk_code">Неверный PUK-код!</string>
+     <string name="keyguard_pin_accepted">Пароль принят!</string>
+     <string name="keyguard_sms">Сообщение</string>
+     <string name="keyguard_videocall">Видеовызов:</string>
+     <string name="keyguard_voicecall">Voice call:</string>
+     <string name="keyguard_wrong_code_input">Неправильный пароль</string>
+     <string name="lockscreen_carrier_default">Нет сети</string>
+     <string name="lockscreen_emergency_call">Экстренный вызов</string>
+     <string name="lockscreen_pattern_wrong">Извините, повторите попытку</string>
+     <string name="lockscreen_return_to_call">Возврат к звонку</string>
+     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+     <string name="more_info_title">Разблокировать отмеченную SIM-карту</string>
+     <string name="more_siminfo_for_button">Подробнее</string>
+     <string name="new_pin">Новый PIN-код:</string>
+     <string name="new_sim">Новая SIM-карта</string>
+     <string name="new_sim_inserted">Обнаружена новая SIM-карта</string>
+     <string name="new_sim_setting_prompt">Уведомление от:</string>
+     <string name="ok">ОК</string>
+     <string name="one_retry_left">Осталось 1</string>
+     <string name="pin_length_indicate">(4-8 цифр)</string>
+     <string name="pinpuk_attempts">
+Осталось попыток :</string>
+     <string name="puk_length_indicate">(8 цифр)</string>
+     <string name="reenter_pin">Подтвердите PIN-код</string>
+     <string name="retries_left">Осталось:%d</string>
+     <string name="searching_simcard">Поиск…</string>
+     <string name="sim_permanently_locked">Если ввести PUK-код некорректно более 10 раз, SIM-карта заблокирована.</string>
+     <string name="unlockAuthor">opposim</string>
+     <string name="unlockDate">2012-05-17</string>
+     <string name="unlockResolution">854*480</string>
+     <string name="unlockVersion">1.0</string>
+     <string name="unlock_tip">SimUnlock</string>
+     <string name="unlockname">SimUnlockScreen</string>
+</resources>

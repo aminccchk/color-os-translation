@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_label">Хранилище настроек</string>
+     <string name="config_default_input_method">com.sohu.inputmethod.sogou/.SogouIME</string>
+     <string name="config_default_input_method_cmcc">com.iflytek.inputmethod.oem/com.iflytek.inputmethod.FlyIME</string>
+     <string name="config_default_input_method_eg">com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</string>
+     <string name="config_default_input_method_id">com.oppo.keyboard/.GoKeyboard</string>
+     <string name="config_default_input_method_oc">com.oppo.keyboard/.GoKeyboard</string>
+     <string name="config_default_input_method_ru">com.oppo.thai.ime/.LatinIME</string>
+     <string name="config_default_input_method_th">com.oppo.keyboard/.GoKeyboard</string>
+     <string name="config_default_input_method_us">com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</string>
+     <string name="config_default_input_method_vn">com.jb.gokeyboard/.GoKeyboard</string>
+     <string name="config_enable_input_method_eg">com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_id">com.oppo.keyboard/.GoKeyboard:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_oc">com.oppo.keyboard/.GoKeyboard:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_ru">com.oppo.thai.ime/.LatinIME:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_th">com.oppo.keyboard/.GoKeyboard:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_us">com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="config_enable_input_method_vn">com.jb.gokeyboard/.GoKeyboard:com.google.android.googlequicksearchbox/com.google.android.voicesearch.ime.VoiceInputMethodService</string>
+     <string name="def_active_profile">mtk_audioprofile_general</string>
+     <string name="def_breath_light">1</string>
+     <string name="def_display_power_config">0</string>
+     <string name="def_landscape_launcher">none</string>
+     <string name="def_led_color_for_favorite_contacts">#00b400</string>
+     <string name="def_led_color_for_general_contacts">#00b400</string>
+     <string name="def_led_color_for_general_notificaions">#00b400</string>
+     <string name="def_lid_close_sound">/system/media/audio/ui/cover.mp3</string>
+     <string name="def_lid_open_sound">/system/media/audio/ui/uncover.mp3</string>
+     <string name="def_location_providers_allowed_both">gps,network</string>
+     <string name="def_oppo_double_click_camera_on">0</string>
+     <string name="def_oppo_unlock_change_process"></string>
+     <string name="def_power_off_sound">1</string>
+     <string name="def_power_on_sound">1</string>
+     <string name="def_presskey_light_timeout">6</string>
+     <string name="def_screen_effect">1</string>
+     <string name="def_timepower_config">070010230000080010000000</string>
+     <string name="def_touchpad_start_app_set">com.oppo.camera/com.oppo.camera.CameraLauncher</string>
+     <string name="def_vibrate_method_call">2</string>
+     <string name="default_input_method">com.mediatek.ime/.MtkIME</string>
+     <string name="default_time_show_format">24</string>
+     <string name="mtk_rtsp_max_udp_port">65535</string>
+     <string name="mtk_rtsp_min_udp_port">1024</string>
+     <string name="mtk_rtsp_name">Streaming</string>
+     <string name="mtk_rtsp_netinfo">EGPRS,10,100</string>
+     <string name="mtk_rtsp_to_napid">CMCC WAP</string>
+     <string name="mtk_rtsp_to_proxy">10.0.0.172</string>
+     <string name="oppo_unlock_change_pkg"></string>
+     <string name="oppo_vistor_mode_password"></string>
+     <string name="oppo_vistor_mode_pattern"></string>
+     <string name="oppo_vistor_mode_state_none">oppo_vistor_mode_state_none</string>
+     <string name="phone_ip_prefix"></string>
+</resources>

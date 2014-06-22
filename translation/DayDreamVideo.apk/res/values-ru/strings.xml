@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Видео заставка</string>
+     <string name="need_to_configure">Не выбрали видео</string>
+     <string name="storage_unmounted">Память недоступна</string>
+     <string name="videoview_error_text_unknown">Извините! Данную видеозапись невозможно воспроизвести.</string>
+     <string name="videoview_error_title">Невозможно воспроизвести видео</string>
+</resources>

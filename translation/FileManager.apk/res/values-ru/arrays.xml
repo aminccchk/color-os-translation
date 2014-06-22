@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="category_text">
+        <item>Музыка </item>
+        <item>Видео </item>
+        <item>Изображения </item>
+        <item>Документы </item>
+        <item>APK </item>
+        <item>ZIP </item>
+     </string-array>
+     <string-array name="default_folder_names">
+        <item>Movies</item>
+        <item>Music</item>
+        <item></item>
+     </string-array>
+     <string-array name="encryptable_default_folder_names">
+        <item>Мои записи</item>
+        <item>Мое видео</item>
+        <item>Мои рисунки</item>
+        <item>Мои загрузки</item>
+        <item>Моя музыка</item>
+        <item>Мои фото</item>
+     </string-array>
+     <string-array name="filebrowser_shortcutbar_title1">
+        <item>Назад</item>
+        <item>Новая папка</item>
+        <item>Скопировать в буфер</item>
+        <item>Отметить</item>
+        <item>Еще</item>
+     </string-array>
+     <string-array name="filebrowser_shortcutbar_title2">
+        <item>Поиск</item>
+        <item>Настройки</item>
+     </string-array>
+     <string-array name="group_item_names">
+        <item>System temporary files</item>
+        <item>Thumbnail cache files</item>
+        <item>App caches</item>
+        <item>Empty folders</item>
+        <item>Uninstalled app residues</item>
+     </string-array>
+     <string-array name="image_text">
+        <item>С камеры</item>
+        <item>Другое изображение</item>
+     </string-array>
+     <string-array name="multi_nav_text">
+        <item>По категориям</item>
+        <item>Память телефона</item>
+        <item>SD карта</item>
+        <item>Сетевой диск</item>
+     </string-array>
+     <string-array name="multi_nav_text_cmcc">
+        <item>Category</item>
+        <item>Phone</item>
+        <item>SD</item>
+     </string-array>
+     <string-array name="nav_text">
+        <item>Category</item>
+        <item>Phone</item>
+        <item>SD card</item>
+     </string-array>
+     <string-array name="netdisk_default_folder_names">
+        <item>Movies</item>
+        <item>Documents</item>
+        <item>Photos</item>
+        <item>Music</item>
+     </string-array>
+     <string-array name="netdisk_select_search_scope">
+        <item>Сетевой диск</item>
+        <item>Текущая папка</item>
+        <item>Произвольно</item>
+     </string-array>
+     <string-array name="path_picker">
+        <item>Память телефона</item>
+        <item>SD карта</item>
+     </string-array>
+     <string-array name="select_music_path_DefualtsItem">
+        <item>Стандартный</item>
+        <item>Выбрать</item>
+        <item>Восстановить по-умолчанию</item>
+     </string-array>
+     <string-array name="select_music_path_more_DefualtsItem">
+        <item>Стандартный</item>
+        <item>Настроить</item>
+        <item>Восстановить по-умолчанию</item>
+        <item>Больше мелодий</item>
+     </string-array>
+     <string-array name="select_music_path_more_noDefualtItem">
+        <item>Стандартный</item>
+        <item>Настроить</item>
+        <item>Больше мелодий</item>
+     </string-array>
+     <string-array name="select_music_path_noDefualtItem">
+        <item>Стандартный</item>
+        <item>Выбрать</item>
+     </string-array>
+     <string-array name="select_search_path">
+        <item>Память телефона и SD карта</item>
+        <item>Память телефона</item>
+        <item>SD карта</item>
+        <item>Текущая папка</item>
+        <item>Настроить</item>
+     </string-array>
+     <string-array name="sim_picker_contents">
+        <item>Sim card 1</item>
+        <item>Sim card 2</item>
+        <item>Set both</item>
+     </string-array>
+     <string-array name="single_nav_text">
+        <item>По категориям</item>
+        <item>Память телефона</item>
+        <item>Сетевой диск</item>
+     </string-array>
+     <string-array name="single_nav_text_cmcc">
+        <item>Category</item>
+        <item>Phone</item>
+     </string-array>
+     <string-array name="single_select_search_path">
+        <item>Память телефона</item>
+        <item>Текущая папка</item>
+        <item>Выбрать</item>
+     </string-array>
+     <string-array name="sort_dialog_items">
+        <item>Имя</item>
+        <item>Размер</item>
+        <item>Дата по убыванию</item>
+     </string-array>
+     <string-array name="tab_text">
+        <item>Category</item>
+        <item>Storage</item>
+        <item>Cloud</item>
+     </string-array>
+     <string-array name="tab_text_cmcc">
+        <item>Category</item>
+        <item>Storage</item>
+     </string-array>
+</resources>

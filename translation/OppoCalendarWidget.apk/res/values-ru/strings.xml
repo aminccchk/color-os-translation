@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Календарь</string>
+     <string name="chinese_chushi"></string>
+     <string name="chinese_year">г.</string>
+     <string name="event_notification_default">No Event Notification</string>
+     <string name="event_notification_more">Event Notifications</string>
+     <string name="format_year_month_day">MMMM d, yyyy</string>
+     <string name="has_toast">Есть уведомления</string>
+     <string name="no_toast">Нет событий</string>
+     <string name="nongli">Лунный календарь</string>
+</resources>

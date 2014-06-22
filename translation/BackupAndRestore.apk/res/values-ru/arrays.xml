@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="alarm_set">
+        <item>TimingBackup is set for less than 1 minute from now.</item>
+        <item>TimingBackup is set for %1$s from now.</item>
+        <item>TimingBackup is set for %2$s from now.</item>
+        <item>TimingBackup is set for %1$s and %2$s from now.</item>
+        <item>TimingBackup is set for %3$s from now.</item>
+        <item>TimingBackup is set for %1$s and %3$s from now.</item>
+        <item>TimingBackup is set for %2$s and %3$s from now.</item>
+        <item>TimingBackup is set for %1$s, %2$s, and %3$s from now.</item>
+     </string-array>
+     <string-array name="customer_apps">
+        <item>com.android.calendar</item>
+     </string-array>
+     <string-array name="customer_widgets">
+        <item>com.oppo.widget.calendar</item>
+     </string-array>
+     <string-array name="days_of_week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+     </string-array>
+     <string-array name="days_of_week_short">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+     </string-array>
+     <string-array name="repeat_dayofweek">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+     </string-array>
+     <string-array name="storage_place">
+        <item>Phone</item>
+        <item>SDCard</item>
+     </string-array>
+</resources>

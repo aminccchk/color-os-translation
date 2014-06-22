@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="a_province">
+        <item>A</item>
+        <item>Anhui</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="address_handle_items">
+        <item>Copy</item>
+        <item>Send via message</item>
+     </string-array>
+     <string-array name="b_province">
+        <item>B</item>
+        <item>Beijing</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="c_province">
+        <item>C</item>
+        <item>Chongqing</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="f_province">
+        <item>F</item>
+        <item>Fujian</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="g_province">
+        <item>G</item>
+        <item>Guangxi</item>
+        <item>GuiZhou</item>
+        <item>Gansu</item>
+        <item></item>
+        <item>Guangdong</item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="h_province">
+        <item>H</item>
+        <item>Hebei</item>
+        <item>Hunan</item>
+        <item>Hubei</item>
+        <item></item>
+        <item>Henan</item>
+        <item>Heilongjiang</item>
+        <item>Hainan</item>
+     </string-array>
+     <string-array name="j_province">
+        <item>J</item>
+        <item>Jiangsu</item>
+        <item>Jiangxi</item>
+        <item>Jilin</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="l_province">
+        <item>L</item>
+        <item>Liaoning</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="n_province">
+        <item>N</item>
+        <item>Inner Mongolia</item>
+        <item>Ningxia</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="oneplus_afterservice_info">
+        <item>400-888-1111</item>
+        <item>4008881111</item>
+        <item>http://service.oneplus.cn/</item>
+        <item>http://support.oneplus.cn/</item>
+        <item>Need translation from strings.xml (@OnePlus Customer Support)</item>
+        <item>Please scan the QR code to follow OnePlus on WeChat</item>
+     </string-array>
+     <string-array name="oneplus_afterservice_info_item">
+        <item>Customer Support Hotline : </item>
+        <item>Enterprise QQ : </item>
+        <item>Customer Service Website : </item>
+        <item>Technical Support : </item>
+        <item>Sina Weibo : </item>
+        <item>WeChat : </item>
+     </string-array>
+     <string-array name="oneplus_afterservice_item">
+        <item>Customer Support Hotline </item>
+        <item>Warranty Policy</item>
+     </string-array>
+     <string-array name="oppo_afterservice_info">
+        <item>4001-666-888</item>
+        <item>service@oppo.com</item>
+        <item>http://www.oppo.com</item>
+        <item>NO.18 Haibin Road,Wusha,ChangAn,DongGuan.GuangDong,China</item>
+        <item>523860</item>
+     </string-array>
+     <string-array name="oppo_afterservice_info_item">
+        <item>Hotline : </item>
+        <item>Email : </item>
+        <item>Website : </item>
+        <item>Address : </item>
+        <item>Postcode : </item>
+     </string-array>
+     <string-array name="oppo_afterservice_item">
+        <item>Service hotline</item>
+        <item>Service address</item>
+        <item>Update</item>
+        <item>Help</item>
+     </string-array>
+     <string-array name="q_province">
+        <item>Q</item>
+        <item>Qinghai</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="s_province">
+        <item>S</item>
+        <item>Shanghai</item>
+        <item>Sichuan</item>
+        <item>Shaanxi</item>
+        <item></item>
+        <item>Shanxi</item>
+        <item>Shandong</item>
+        <item></item>
+     </string-array>
+     <string-array name="t_province">
+        <item>T</item>
+        <item>Tianjin</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="x_province">
+        <item>X</item>
+        <item>Xinjiang</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="y_province">
+        <item>Y</item>
+        <item>Yunnan</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="z_province">
+        <item>Z</item>
+        <item>Zhejiang</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+</resources>

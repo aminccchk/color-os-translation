@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="email_name">
+        <item>163</item>
+        <item>126</item>
+        <item>Sina</item>
+        <item>QQ</item>
+        <item>Gmail</item>
+        <item>Hotmail</item>
+        <item>Exchange</item>
+        <item>Sohu</item>
+        <item>Настройки аккаунта</item>
+     </string-array>
+     <string-array name="general_preference_message_download_size">
+        <item>5</item>
+        <item>50</item>
+        <item>100</item>
+        <item>2000000</item>
+     </string-array>
+     <string-array name="general_preference_message_download_size_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="general_preference_message_download_size_summary_array">
+        <item>Загружать через сотовую сеть если размер менее 5KB</item>
+        <item>Загружать через сотовую сеть если размер менее 50KB</item>
+        <item>Загружать через сотовую сеть если размер менее 100KB</item>
+        <item>Нет ограничений на загрузку через сотовую сеть</item>
+     </string-array>
+     <string-array name="general_preference_message_download_size_values">
+        <item>5KB</item>
+        <item>50KB</item>
+        <item>100KB</item>
+        <item>unlimited</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Мелкий</item>
+        <item>Небольшой</item>
+        <item>Обычный</item>
+        <item>Большой</item>
+        <item>Огромный</item>
+     </string-array>
+     <string-array name="pref_storage_destination_choices">
+        <item>Память телефона/Download</item>
+        <item>SD карта/Download</item>
+     </string-array>
+     <string-array name="pref_storage_destination_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="sort_orders">
+        <item>Дата (Самые частые)</item>
+        <item>Дата (Самые старые)</item>
+        <item>Отправитель </item>
+        <item>Прочитано/не прочитано</item>
+        <item>Прикрепления</item>
+        <item>Тема</item>
+        <item>Избранное</item>
+     </string-array>
+</resources>

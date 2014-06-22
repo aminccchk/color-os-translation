@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">RHGTSMService</string>
+     <string name="cancel">取消</string>
+     <string name="hello">Hello World, TSM_Android_SDKActivity!</string>
+     <string name="new_verName">新版本:</string>
+     <string name="ok">确定</string>
+     <string name="update_title">检测新版本,请及时更新！</string>
+</resources>

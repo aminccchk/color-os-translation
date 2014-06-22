@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="call_log_choices">
+        <item>All</item>
+        <item>Missed</item>
+        <item>Outgoing</item>
+        <item>Incoming</item>
+        <item>Declined</item>
+     </string-array>
+     <string-array name="call_log_choices_cmcc">
+        <item>All</item>
+        <item>Missed</item>
+        <item>Outgoing</item>
+        <item>Incoming</item>
+        <item>Declined</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+     </string-array>
+     <string-array name="config_virtualKeyVibePattern">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="dayofweek">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+     </string-array>
+     <string-array name="dial_tone_electronic_sound">
+        <item>dial_tone_es_0</item>
+        <item>dial_tone_es_1</item>
+        <item>dial_tone_es_2</item>
+        <item>dial_tone_es_3</item>
+        <item>dial_tone_es_4</item>
+        <item>dial_tone_es_5</item>
+        <item>dial_tone_es_6</item>
+        <item>dial_tone_es_7</item>
+        <item>dial_tone_es_8</item>
+        <item>dial_tone_es_9</item>
+        <item>dial_tone_es_pound</item>
+        <item>dial_tone_es_star</item>
+        <item>dial_tone_es_del</item>
+     </string-array>
+     <string-array name="dial_tone_guitar">
+        <item>dial_tone_guitar_0</item>
+        <item>dial_tone_guitar_1</item>
+        <item>dial_tone_guitar_2</item>
+        <item>dial_tone_guitar_3</item>
+        <item>dial_tone_guitar_4</item>
+        <item>dial_tone_guitar_5</item>
+        <item>dial_tone_guitar_6</item>
+        <item>dial_tone_guitar_7</item>
+        <item>dial_tone_guitar_8</item>
+        <item>dial_tone_guitar_9</item>
+        <item>dial_tone_guitar_pound</item>
+        <item>dial_tone_guitar_star</item>
+        <item>dial_tone_guitar_del</item>
+     </string-array>
+     <string-array name="dial_tone_marimbas">
+        <item>dial_tone_marimbas_0</item>
+        <item>dial_tone_marimbas_1</item>
+        <item>dial_tone_marimbas_2</item>
+        <item>dial_tone_marimbas_3</item>
+        <item>dial_tone_marimbas_4</item>
+        <item>dial_tone_marimbas_5</item>
+        <item>dial_tone_marimbas_6</item>
+        <item>dial_tone_marimbas_7</item>
+        <item>dial_tone_marimbas_8</item>
+        <item>dial_tone_marimbas_9</item>
+        <item>dial_tone_marimbas_pound</item>
+        <item>dial_tone_marimbas_star</item>
+        <item>dial_tone_marimbas_del</item>
+     </string-array>
+     <string-array name="dial_tone_orchestra">
+        <item>dial_tone_orchestra_0</item>
+        <item>dial_tone_orchestra_1</item>
+        <item>dial_tone_orchestra_2</item>
+        <item>dial_tone_orchestra_3</item>
+        <item>dial_tone_orchestra_4</item>
+        <item>dial_tone_orchestra_5</item>
+        <item>dial_tone_orchestra_6</item>
+        <item>dial_tone_orchestra_7</item>
+        <item>dial_tone_orchestra_8</item>
+        <item>dial_tone_orchestra_9</item>
+        <item>dial_tone_orchestra_pound</item>
+        <item>dial_tone_orchestra_star</item>
+        <item>dial_tone_orchestra_del</item>
+     </string-array>
+     <string-array name="dial_tone_piano">
+        <item>dial_tone_piano_0</item>
+        <item>dial_tone_piano_1</item>
+        <item>dial_tone_piano_2</item>
+        <item>dial_tone_piano_3</item>
+        <item>dial_tone_piano_4</item>
+        <item>dial_tone_piano_5</item>
+        <item>dial_tone_piano_6</item>
+        <item>dial_tone_piano_7</item>
+        <item>dial_tone_piano_8</item>
+        <item>dial_tone_piano_9</item>
+        <item>dial_tone_piano_pound</item>
+        <item>dial_tone_piano_star</item>
+        <item>dial_tone_piano_del</item>
+     </string-array>
+     <string-array name="display_num">
+        <item>Закрыть</item>
+        <item>Показать контакты</item>
+        <item>Показать Избранные</item>
+     </string-array>
+     <string-array name="display_num_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="export_file_format">
+        <item>.vcf</item>
+        <item>.csv</item>
+     </string-array>
+     <string-array name="intelligent_dial">
+        <item>FirstSpell Intelligent Dialing</item>
+        <item>PINYIN Intelligent Dialing</item>
+        <item>First-Stroke Intelligent Dialing</item>
+        <item>Number Intelligent Dialing</item>
+     </string-array>
+     <string-array name="intelligent_dial_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="oppo_replace_name_dialog_summary">
+        <item>Скопировать все контакты, но не переписывать контакты с тем же именем</item>
+        <item>Скопировать все контакты, и переписывать контакты с тем же именем</item>
+        <item>Пропустить контакты с тем же именем</item>
+     </string-array>
+     <string-array name="oppo_replace_name_dialog_value">
+        <item>Копировать одноименный контакт</item>
+        <item>Заменить имя</item>
+     </string-array>
+     <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Примечание</item>
+     </string-array>
+     <string-array name="sim_choices">
+        <item>Show All</item>
+        <item>SIM1</item>
+        <item>SIM2</item>
+     </string-array>
+     <string-array name="type_ip_dial">
+        <item>12593</item>
+        <item>17911</item>
+        <item>17951</item>
+        <item>Закрыть</item>
+     </string-array>
+     <string-array name="type_ip_dial_Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </string-array>
+     <string-array name="type_press_sound">
+        <item>Тип 1</item>
+        <item>Тип 2</item>
+     </string-array>
+     <string-array name="type_press_sound_Values">
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+</resources>

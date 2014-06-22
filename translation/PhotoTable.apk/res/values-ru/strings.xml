@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Заставка Галерея</string>
+     <string name="flipper_screensaver_name">Рамка</string>
+     <string name="local_source_name">Фото на устройстве</string>
+     <string name="need_to_configure">Не выбрали картинок</string>
+     <string name="posts_album_name">Фото из записей</string>
+     <string name="stock_photo_album_name">Снимки из фотобанков</string>
+     <string name="storage_unmounted">Память недоступна</string>
+     <string name="table_screensaver_name">Фото-галерея</string>
+     <string name="unknown_album_name">Альбом без названия</string>
+     <string name="uploads_album_name">Фото с телефона</string>
+</resources>

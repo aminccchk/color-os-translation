@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="OK">ОК</string>
+     <string name="app_name">HolidayModeActivity</string>
+     <string name="attention">Подсказки</string>
+     <string name="hello_world">Hello World!</string>
+     <string name="holiday_mode_afternoon">PM</string>
+     <string name="holiday_mode_contacts">Разрешенные контакты</string>
+     <string name="holiday_mode_contacts_all">Все контакты</string>
+     <string name="holiday_mode_contacts_list">Список доступных контактов</string>
+     <string name="holiday_mode_contacts_my_collection">Мои избранные</string>
+     <string name="holiday_mode_contacts_none">Нет</string>
+     <string name="holiday_mode_contacts_selected_list">Выбрать контакт</string>
+     <string name="holiday_mode_contacts_user_defined">Выбрать</string>
+     <string name="holiday_mode_delete_contacts_item_warning">Удалить?</string>
+     <string name="holiday_mode_delete_succeed_string">Удалено!</string>
+     <string name="holiday_mode_directions_for_use">Инструкции</string>
+     <string name="holiday_mode_menu_add">Добавить</string>
+     <string name="holiday_mode_menu_cancel">Отмена</string>
+     <string name="holiday_mode_menu_delete">Удалить</string>
+     <string name="holiday_mode_menu_edit">Изменить</string>
+     <string name="holiday_mode_menu_option_item">Опции</string>
+     <string name="holiday_mode_menu_search">Поиск</string>
+     <string name="holiday_mode_morning">AM</string>
+     <string name="holiday_mode_name_is_null_string">Неизвестное имя</string>
+     <string name="holiday_mode_no_cantacts">Нет изменяемых контактов</string>
+     <string name="holiday_mode_not_mark_contacts_string">Выберите личных контактов для удаления!</string>
+     <string name="holiday_mode_oppo_option_selectall">Неизвестное имя</string>
+     <string name="holiday_mode_start_end_time_same">Время начала и конца не может быть одинаковым</string>
+     <string name="holiday_mode_summary">Когда Режим каникул активирован только избранные контакты смогут звонить вам. Вызовы от других контактов и уведомления будут обрабатываться в беззвучном режиме
+
+ Если вам позвонят 3 раза в течении 3 минут, последний звонок не будет обрабатываться в беззвучном режиме.</string>
+     <string name="holiday_mode_time_set">Настройка времени</string>
+     <string name="holiday_mode_time_set_always">Всегда</string>
+     <string name="holiday_mode_time_set_end">Завершить</string>
+     <string name="holiday_mode_time_set_start">Начать</string>
+     <string name="menu_settings">Настройки</string>
+</resources>

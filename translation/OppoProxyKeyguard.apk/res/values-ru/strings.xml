@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="am">AM</string>
+     <string name="app_name">ProxyKeyguard</string>
+     <string name="discription">this is a demo for ColorOS lockscreen</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="lockscreen_charged">Charged</string>
+     <string name="lockscreen_charging_hint">Charging</string>
+     <string name="lockscreen_sound_off_label">Sound off</string>
+     <string name="lockscreen_sound_on_label">sound on</string>
+     <string name="noservice">No service</string>
+     <string name="pm">PM</string>
+     <string name="unlockAuthor">百变锁屏</string>
+     <string name="unlockDate">2012-05-17</string>
+     <string name="unlockResolution">854*480</string>
+     <string name="unlockVersion">1.0</string>
+     <string name="unlockname">ColorOSLockScreenDemo</string>
+</resources>

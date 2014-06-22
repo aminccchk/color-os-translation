@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="Decrypt">授权</string>
+     <string name="Decrypt_Result">Result:</string>
+     <string name="app_name">AllowUsbDebuggingCritically</string>
+     <string name="hint">输入加密结果</string>
+     <string name="menu_settings">Settings</string>
+</resources>

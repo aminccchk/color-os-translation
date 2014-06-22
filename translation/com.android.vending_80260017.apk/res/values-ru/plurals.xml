@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="circles_multiple">
+        <item quantity="one">Кругов: %1$s</item>
+        <item quantity="other">Кругов: %1$s</item>
+     </plurals>
+     <plurals name="content_description_rated">
+        <item quantity="one">Ваша оценка: %1$s</item>
+        <item quantity="other">Ваша оценка: %1$s</item>
+     </plurals>
+     <plurals name="my_apps_selected">
+        <item quantity="other">%1$d</item>
+     </plurals>
+     <plurals name="notification_need_approval_message">
+        <item quantity="one">Доступно %1$d обновление</item>
+        <item quantity="other">Доступны обновления (%1$d)</item>
+     </plurals>
+     <plurals name="notification_new_updates_available_message">
+        <item quantity="one">Доступно обновлений: %1$d</item>
+        <item quantity="other">Доступно обновлений: %1$d</item>
+     </plurals>
+     <plurals name="notification_outstanding_updates_message">
+        <item quantity="one">Доступно обновлений: %1$d</item>
+        <item quantity="other">Доступно обновлений: %1$d</item>
+     </plurals>
+     <plurals name="notification_update_success_message">
+        <item quantity="one">Обновлено приложений: %1$d</item>
+        <item quantity="other">Обновлено приложений: %1$d</item>
+     </plurals>
+     <plurals name="plus_one_circles_listing_dialog_more">
+        <item quantity="one">и ещё %1$d чел.</item>
+        <item quantity="other">и ещё %1$s чел.</item>
+     </plurals>
+     <plurals name="plus_one_multiple_friends">
+        <item quantity="one">+1: %1$s и еще %2$s чел.</item>
+        <item quantity="other">+1: %1$s и еще %2$s чел.</item>
+     </plurals>
+     <plurals name="plus_one_multiple_global">
+        <item quantity="one">+1: %1$s чел.</item>
+        <item quantity="other">+1: %1$s чел.</item>
+     </plurals>
+     <plurals name="review_author_stars">
+        <item quantity="one"><b>%1$s</b>, оценка – %2$s</item>
+        <item quantity="other"><b>%1$s</b>, оценка – %2$s</item>
+     </plurals>
+     <plurals name="review_author_stars_title">
+        <item quantity="one"><b>%1$s</b>, оценка – %2$s: "%3$s"</item>
+        <item quantity="other"><b>%1$s</b>, оценка – %2$s: "%3$s"</item>
+     </plurals>
+     <plurals name="review_author_stars_title_comment">
+        <item quantity="one"><b>%1$s</b>, оценка – %2$s: "%3$s. %4$s"</item>
+        <item quantity="other"><b>%1$s</b>, оценка – %2$s: "%3$s. %4$s"</item>
+     </plurals>
+     <plurals name="review_just_stars">
+        <item quantity="one">Оценка – <b>%1$s</b></item>
+        <item quantity="other">Оценка – <b>%1$s</b></item>
+     </plurals>
+     <plurals name="review_stars_title">
+        <item quantity="one">Оценка – <b>%1$s</b>: "%2$s"</item>
+        <item quantity="other">Оценка – <b>%1$s</b>: "%2$s"</item>
+     </plurals>
+     <plurals name="stars_without_numbers">
+        <item quantity="one">звезда</item>
+        <item quantity="other">звезд(ы)</item>
+     </plurals>
+</resources>

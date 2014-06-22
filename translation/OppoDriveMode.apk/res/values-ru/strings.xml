@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Car Mode</string>
+     <string name="calling_forbidden_drivemode_started">DriveMode is forbidden when calling.</string>
+     <string name="card_title_call_ended">Call ended</string>
+     <string name="card_title_dialing">Dialing</string>
+     <string name="card_title_hanging_up">Hanging up</string>
+     <string name="card_title_incoming_call">Incoming call</string>
+     <string name="centigrade">℃</string>
+     <string name="clear_navi">Remove default navigator.</string>
+     <string name="fahrenheit">℉</string>
+     <string name="format_hour_24">HH</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="judge_foreign_current_temp_suffix">℃</string>
+     <string name="month_day_flag"></string>
+     <string name="month_flag"></string>
+     <string name="oppo_UnknowCity">Unknown city</string>
+     <string name="oppo_call_refuse_sms">Answering SMS content settings</string>
+     <string name="oppo_call_refuse_sms_empty">(Empty)</string>
+     <string name="oppo_call_refuse_sms_warning_empty">Empty message will not be send!</string>
+     <string name="oppo_drive_incoming_call">Incoming call</string>
+     <string name="oppo_drive_mode_answer">Answer</string>
+     <string name="oppo_drive_mode_default_area">Unknown city</string>
+     <string name="oppo_drive_mode_default_tem">No weather data</string>
+     <string name="oppo_drive_mode_dial">Dial</string>
+     <string name="oppo_drive_mode_drive">Drive</string>
+     <string name="oppo_drive_mode_exit">Exit</string>
+     <string name="oppo_drive_mode_guide_bluetooth">Bluetooth pairing</string>
+     <string name="oppo_drive_mode_guide_remind_text">			Your first consideration while driving should be road safety. When you start Car Mode, voice control begins to take effect, which will help you keep your hands free to operate the vehicle. We recommend you use the mode with window closed for better speech-recognition. Please obey local traffic laws.</string>
+     <string name="oppo_drive_mode_guide_remind_tip">Don't show this next time</string>
+     <string name="oppo_drive_mode_guide_startup">Start Car Mode</string>
+     <string name="oppo_drive_mode_guide_title">ROAD SAFETY COMES FIRST</string>
+     <string name="oppo_drive_mode_hangup">Hang up</string>
+     <string name="oppo_drive_mode_open_reminder">Remind me every time</string>
+     <string name="oppo_drive_mode_reject_sms">Reject calls and reply SMS</string>
+     <string name="oppo_drive_mode_reply_sms">I'm driving, will call you back later!</string>
+     <string name="oppo_drive_mode_setting">Settings</string>
+     <string name="oppo_drive_mode_settting_title">Settings</string>
+     <string name="oppo_drive_mode_unknow_location">Unknown city</string>
+     <string name="oppo_drive_mode_unknow_name">Unknown</string>
+     <string name="oppo_drive_mode_unknow_num">Unknown number</string>
+     <string name="oppo_drive_mode_voice">Voice control</string>
+     <string name="oppo_drive_mode_voice_play">Speak messages loudly</string>
+     <string name="oppo_float_new_sms">New SMS from</string>
+     <string name="oppo_general_setting">Common Settings</string>
+     <string name="oppo_navigator">Navigator</string>
+     <string name="oppo_navigator_setting">Navigator Setting</string>
+     <string name="oppo_select_navigator">Select your navigator</string>
+     <string name="oppo_select_navigator_notice">Swapping default navigator as follows.
+DriveMode··Menu··Settings··Navigator Setting</string>
+     <string name="payphone">Payphone</string>
+     <string name="private_num">Restricted number</string>
+     <string name="unknown">Unknown</string>
+</resources>

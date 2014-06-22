@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="backup_hint">
+        <item>Backup contacts</item>
+        <item>Backup SMS</item>
+        <item>Backup notes</item>
+        <item>Backup blacklist</item>
+        <item>Backup calllog</item>
+        <item>Backup bookmarks</item>
+     </string-array>
+     <string-array name="backup_restore_action">
+        <item>com.nearme.sync.contacts.OCLOUDSERVICE</item>
+        <item>com.nearme.sync.sms.OCLOUDSERVICE</item>
+        <item>com.nearme.note.OCLOUDSERVICE</item>
+        <item>com.nearme.sync.blacklist.OCLOUDSERVICE</item>
+        <item>com.nearme.sync.calllog.OCLOUDSERVICE</item>
+        <item>com.nearme.sync.bookmarks.OCLOUDSERVICE</item>
+     </string-array>
+     <string-array name="backup_restore_package">
+        <item>com.nearme.sync</item>
+        <item>com.nearme.sync</item>
+        <item>com.nearme.note</item>
+        <item>com.nearme.sync</item>
+        <item>com.nearme.sync</item>
+        <item>com.nearme.sync</item>
+     </string-array>
+     <string-array name="br_app_name">
+        <item>Contact</item>
+        <item>SMS</item>
+        <item>Note</item>
+        <item>BlackList</item>
+        <item>CallLog</item>
+        <item>BookMarks</item>
+     </string-array>
+     <string-array name="recover_hint">
+        <item>Recover contacts</item>
+        <item>Recover SMS</item>
+        <item>Recover notes</item>
+        <item>Recover blacklist</item>
+        <item>Recover calllog</item>
+        <item>Recover bookmarks</item>
+     </string-array>
+</resources>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="CMCC">
+        <item><!-- dummy item. no translate --></item>
+        <item>139.com</item>
+        <item>http://s.139.com/favicon.ico</item>
+        <item>http://s.139.com/search.do?q={searchTerms}&category=downloadable|web|browseable&tid=2123,2124,2125,2126&fr=portalcustom2</item>
+        <item>UTF-8</item>
+        <item></item>
+     </string-array>
+     <string-array name="add_shortcut_pagetitle">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="all_css">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="all_daohang_icon_match">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="all_js">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086_12580">
+        <item><!-- dummy item. no translate --></item>
+        <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086_139mail">
+        <item>139邮箱</item>
+        <item>http://mail.10086.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086_fetion">
+        <item>飞信首页</item>
+        <item>http://f.10086.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086_webaddress">
+        <item>冲浪网址</item>
+        <item>http://go.10086.cn/?coc=6GG2GGRq</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086game">
+        <item>手机游戏</item>
+        <item>http://g.10086.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086home">
+        <item>10086门户</item>
+        <item>http://10086.cn/m</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086mm">
+        <item>MM综合门户</item>
+        <item>http://mm.10086.cn/a/j/2743/</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086monternet">
+        <item>移动梦网</item>
+        <item>http://wap.monternet.com</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086music">
+        <item>无线音乐</item>
+        <item>http://m.10086.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086read">
+        <item>手机阅读</item>
+        <item>http://wap.cmread.com/</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086shop">
+        <item>移动应用商场</item>
+        <item>http://a.10086.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="bookmark_10086vedio">
+        <item>手机视频</item>
+        <item>http://wap.cmvideo.cn</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="cmcc_preload_bookmark">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="css_common">
+        <item>http://123.nearme.com.cn/assets/navpage/common.css</item>
+        <item>common.css</item>
+        <item></item>
+     </string-array>
+     <string-array name="daohang_icon_match_3g">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/20d/8da15d8ea5ccb8f1a22518fc2509edfb.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_aiqiyi">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/16d/489a989fd5212f5238a8834b8735c688.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_baidu">
+        <item>http://123.nearme.com.cn/userfiles/images/link/014cfeaec669bc7abdaebf084253736a.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_fenghuang">
+        <item>http://123.nearme.com.cn/userfiles/images/link/da94a134fbf3444ae45fc2803d4017b0.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_grp_category">
+        <item>http://daohang.nearme.com.cn/static/images/rom1/cateicon/NAV.png</item>
+        <item>NP_CTG</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_grp_shopping_life">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/13d/75a74f7ec8b15e5cfee4014fc0e00249.png</item>
+        <item>NP_LIFE_SHOPPING</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_grp_sport_news">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/14d/f85fb374631879656f57b6cc9350794b.png</item>
+        <item>NP_NEWS</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_grp_video_novel">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/14d/ae5b29b09f5f543ab100a51516b2cb41.png</item>
+        <item>NP_VIDEO_NOVEL</item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_jingdong">
+        <item>http://123.nearme.com.cn/userfiles/images/link/88249069f6f0ead083b350378f462a9c.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_qidian">
+        <item>http://123.nearme.com.cn/userfiles/images/link/6071e96c48547affdabe8e631dbaf078.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_qiubai">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/20d/bac3f3e6553829891bfc4fcafaebd00b.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_taobao">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/24d/c9a611e31bbb4575cd64f3e62a018999.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_tenxun">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/16d/10caac1d91e84a05c2daa9c0b09bb68e.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_tianmao">
+        <item>http://123.nearme.com.cn/userfiles/images/link/04424def615d1b17b4c4c88c35ab0604.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_yamaxun">
+        <item>http://123.nearme.com.cn/userfiles/images/link/f72f6bc22103cdd5089c1f3dcc1c8e58.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="daohang_icon_match_youyuan">
+        <item>http://123.nearme.com.cn/userfiles/files/Operation/nav/2014/01/20d/a66986c75fbec07dca4f0a271d65e168.png</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>https://www.google.com/favicon.ico</item>
+        <item>https://www.google.com/search?ie={inputEncoding}&source=android-browser&q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://www.google.com/complete/search?client=android&q={searchTerms}</item>
+     </string-array>
+     <string-array name="grp_catogory_icon_match">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="js_fastclick">
+        <item>http://jslib.nearme.com.cn/mobile/navpage/fastclick.js</item>
+        <item>fastclick.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="js_jquery">
+        <item>http://123.nearme.com.cn/assets/service/js/jquery.min.js</item>
+        <item>jquery.min.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="js_lazyload">
+        <item>http://jslib.nearme.com.cn/mobile/navpage/lazyload.js</item>
+        <item>lazyload.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="js_sea">
+        <item>http://jslib.nearme.com.cn/mobile/navpage/sea.js</item>
+        <item>sea.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="js_touch">
+        <item>http://jslib.nearme.com.cn/mobile/navpage/touch.js</item>
+        <item>touch.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="js_zepto">
+        <item>http://jslib.nearme.com.cn/mobile/navpage/zepto.js</item>
+        <item>zepto.js</item>
+        <item></item>
+     </string-array>
+     <string-array name="oppo_bookmark_add_to_choice">
+        <item>Bookmarks</item>
+        <item>Homepage</item>
+        <item>Homescreen shortcut</item>
+     </string-array>
+     <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+     </string-array>
+     <string-array name="pref_content_plugins_choices">
+        <item>Always on</item>
+        <item>On demand</item>
+        <item>Off</item>
+     </string-array>
+     <string-array name="pref_data_preload_choices">
+        <item>Never</item>
+        <item>Only on Wi-Fi</item>
+        <item>Always</item>
+     </string-array>
+     <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
+     </string-array>
+     <string-array name="pref_default_zoom_choices">
+        <item>Far</item>
+        <item>Medium</item>
+        <item>Close</item>
+     </string-array>
+     <string-array name="pref_download_task_notify_entries">
+        <item>Confirm everytime</item>
+        <item>Download directly</item>
+     </string-array>
+     <string-array name="pref_download_task_notify_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Blank page</item>
+        <item>Default page</item>
+        <item>Other</item>
+     </string-array>
+     <string-array name="pref_homepage_choices_cmcc">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>Blank page</item>
+        <item>Other</item>
+     </string-array>
+     <string-array name="pref_homepage_values_cmcc">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>blank</item>
+        <item>other</item>
+     </string-array>
+     <string-array name="pref_link_prefetch_choices">
+        <item>Never</item>
+        <item>Only on Wi-Fi</item>
+        <item>Always</item>
+     </string-array>
+     <string-array name="pref_mobile_network_notify_entries">
+        <item>Confirm everytime</item>
+        <item>Download directly</item>
+        <item>512KB</item>
+        <item>1MB</item>
+        <item>2MB</item>
+        <item>5MB</item>
+        <item>10MB</item>
+        <item>20MB</item>
+     </string-array>
+     <string-array name="pref_mobile_network_notify_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+     </string-array>
+     <string-array name="pref_storage_destination_choices">
+        <item>Phone storage/Download</item>
+        <item>SD card/Download</item>
+     </string-array>
+     <string-array name="pref_storage_destination_values">
+        <item>internal</item>
+        <item>external</item>
+     </string-array>
+     <string-array name="pref_text_size_choices">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+     </string-array>
+     <string-array name="pref_ua_entries">
+        <item>Default</item>
+        <item>PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="quicksearch_139_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_baidu_pic">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_baidu_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_cmcc_novel">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_easou_novel">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_easou_pic">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_easou_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_google_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_novel">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_piture">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_shopping">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_sogou_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_taobao_shopping">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_video">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_web">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="quicksearch_web_cmcc">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="search_engines">
+        <item>google</item>
+        <item>baidu</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="shortcut_baidu">
+        <item>百度</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=184&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.baidu.com/?from=875e</item>
+     </string-array>
+     <string-array name="shortcut_baidu_v3">
+        <item>百度</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=184&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.baidu.com/</item>
+     </string-array>
+     <string-array name="shortcut_boutiqueread">
+        <item>精品阅读</item>
+        <item></item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>oppo:botiqueread</item>
+     </string-array>
+     <string-array name="shortcut_car">
+        <item>汽车</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=139&pos=cate</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.autohome.com.cn/</item>
+     </string-array>
+     <string-array name="shortcut_cartoon">
+        <item>漫画</item>
+        <item>http://yicha.cn/union/u.jsp?p=dm&site=2145960041&key=</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://manhua.yicha.cn/manhua/?site=2145960041&f=&cache=1371109668681</item>
+     </string-array>
+     <string-array name="shortcut_coloros">
+        <item>ColorOS</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=358&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://www.coloros.com/</item>
+     </string-array>
+     <string-array name="shortcut_entertainment">
+        <item>娱乐</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=191&pos=cate</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://i.ifeng.com/ent/enti?ch=zd_op_llq&vt=5</item>
+     </string-array>
+     <string-array name="shortcut_fenghuang">
+        <item>凤凰网</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=193&pos=hot</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://i.ifeng.com/</item>
+     </string-array>
+     <string-array name="shortcut_game">
+        <item>热门游戏</item>
+        <item>http://game.keke.cn</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcut_ireader">
+        <item>精品小说</item>
+        <item>http://m.ireader.com/book_bookshelf.php?key=1F2&bookshelf_type=mycloud&p2=104011</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.ireader.com/book_bookshelf.php?key=1F2&bookshelf_type=mycloud&p2=104011</item>
+     </string-array>
+     <string-array name="shortcut_lifeservice">
+        <item>生活服务</item>
+        <item>http://123.nearme.com.cn/Api/adv/service.html</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://123.nearme.com.cn/Api/adv/service.html</item>
+     </string-array>
+     <string-array name="shortcut_lottery">
+        <item>彩票</item>
+        <item>http://gc.3g.cn/gcxuan/XuanIndex4.html</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://gc.3g.cn/gcxuan/XuanIndex4.html</item>
+     </string-array>
+     <string-array name="shortcut_mostvisit">
+        <item>最常访问</item>
+        <item></item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>oppo:mostvisit</item>
+     </string-array>
+     <string-array name="shortcut_nba">
+        <item>NBA</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=187&pos=index</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://sports.3g.cn/nba/main.php??fr=nbaoppo</item>
+     </string-array>
+     <string-array name="shortcut_new_daohangurl_lifeservice">
+        <item>生活服务</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=317&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://123.nearme.com.cn/Api/adv/service.html</item>
+     </string-array>
+     <string-array name="shortcut_news">
+        <item>新闻</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=193&pos=hot</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://i.ifeng.com/?ch=zd_op_llq&vt=5</item>
+     </string-array>
+     <string-array name="shortcut_oppo">
+        <item>OPPO</item>
+        <item>http://www.oppo.com/</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://www.oppo.com/</item>
+     </string-array>
+     <string-array name="shortcut_prettypictures">
+        <item>美图</item>
+        <item>http://yicha.cn/union/u.jsp?p=i&site=2145960041&key=</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://i.yicha.cn/ti/?site=2145960041&f=&cache=1371109588602</item>
+     </string-array>
+     <string-array name="shortcut_read">
+        <item>精品小说</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=212&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://wap.cmread.com/iread/wml/p/ycindex.jsp?cm=M2360002</item>
+     </string-array>
+     <string-array name="shortcut_read_v3">
+        <item>精品小说</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=212&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://wap.cmread.com/</item>
+     </string-array>
+     <string-array name="shortcut_sina">
+        <item>新浪</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=144&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://3g.sina.com.cn/</item>
+     </string-array>
+     <string-array name="shortcut_software">
+        <item>应用下载</item>
+        <item>http://m.store.keke.cn</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcut_specialticket">
+        <item>特价机票</item>
+        <item>http://m.ctrip.com/webapp/flight/</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.ctrip.com/webapp/flight/</item>
+     </string-array>
+     <string-array name="shortcut_sport">
+        <item>体育</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=14&pos=index</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://3g.sina.com.cn/3g/sports/</item>
+     </string-array>
+     <string-array name="shortcut_taobao">
+        <item>爱淘宝</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=189&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.taobao.com/</item>
+     </string-array>
+     <string-array name="shortcut_technology">
+        <item>科技</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=55&pos=cate</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://tech.sina.cn/</item>
+     </string-array>
+     <string-array name="shortcut_telefeecharging">
+        <item>话费充值</item>
+        <item>http://wvs.m.taobao.com/?sid=b7fb6860ac86a6fa&spm=41.351606.292993.7&sprefer=p23596</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://wvs.m.taobao.com/?sid=b7fb6860ac86a6fa&spm=41.351606.292993.7&sprefer=p23596</item>
+     </string-array>
+     <string-array name="shortcut_trainquery">
+        <item>火车查询</item>
+        <item>http://m.ctrip.com/html5/Trains/</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.ctrip.com/html5/Trains/</item>
+     </string-array>
+     <string-array name="shortcut_weather">
+        <item>天气</item>
+        <item>http://m.weathercn.com/</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://m.weathercn.com/</item>
+     </string-array>
+     <string-array name="shortcut_website">
+        <item>网址导航</item>
+        <item>http://daohang.nearme.com.cn/static/nav_rom1.html</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://daohang.nearme.com.cn/static/nav_rom1.html</item>
+     </string-array>
+     <string-array name="shortcut_weibo">
+        <item>微博</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=96&pos=hot</item>
+        <item></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://weibo.com</item>
+     </string-array>
+     <string-array name="shortcut_youku">
+        <item>优酷</item>
+        <item>http://daohang.nearme.com.cn/link.php?lid=78&pos=useful</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://3g.youku.com/smartphone/</item>
+     </string-array>
+     <string-array name="shortcuts_bookmarks">
+     </string-array>
+     <string-array name="shortcuts_homepage">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcuts_homepage_add">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcuts_homepage_deleted">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcuts_homepage_unicom">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="shortcuts_homepage_update">
+     </string-array>
+     <string-array name="shortcuts_unicom_wo">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item>http://www.wo.com.cn</item>
+     </string-array>
+     <string-array name="shortcuts_website">
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="special_shortcut_urlkey">
+        <item>latu.3g.cn</item>
+        <item>m.nearme.com.cn</item>
+        <item>gc.nearme.com.cn</item>
+        <item>123.nearme.com.cn</item>
+     </string-array>
+     <string-array name="undeleteable_resouce">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="yandex_ru">
+        <item>Яндекс</item>
+        <item>yandex.ru</item>
+        <item>http://yandex.ru/favicon.ico</item>
+        <item>http://yandex.ru/yandsearch?text={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggest.yandex.net/suggest-ff.cgi?part={searchTerms}</item>
+     </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="IZAT_AGREE">Agree</string>
+     <string name="IZAT_DISAGREE">Disagree</string>
+     <string name="IZat_MENU_TEXT">Qualcomm<sup>&reg;</sup> IZat<sup>TM</sup> location services</string>
+     <string name="IZat_SUB_TITLE_TEXT">Location services improved by Wi-Fi and/or mobile networks</string>
+     <string name="POLICY_LINK"><a href="http://xt.qsp.qualcomm.com/privacy/privacy_policy.html">Terms and Privacy Policy</a></string>
+     <string name="POPUP_BOX_TEXT">To improve location performance, allow IZat to collect location data. IZat stores some data on your device and may operate even when no apps are running.</string>
+     <string name="POPUP_BOX_TITLE">Location consent</string>
+     <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

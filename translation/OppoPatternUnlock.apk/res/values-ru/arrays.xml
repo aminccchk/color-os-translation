@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="chinese_animal_year">
+        <item>肖鼠</item>
+        <item>肖牛</item>
+        <item>肖虎</item>
+        <item>肖兔</item>
+        <item>肖龙</item>
+        <item>肖蛇</item>
+        <item>肖马</item>
+        <item>肖羊</item>
+        <item>肖猴</item>
+        <item>肖鸡</item>
+        <item>肖狗</item>
+        <item>肖猪</item>
+     </string-array>
+     <string-array name="chinese_day_number">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>卅十</item>
+     </string-array>
+     <string-array name="chinese_dizhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+     </string-array>
+     <string-array name="chinese_leap_month">
+        <item>闰</item>
+        <item>月</item>
+     </string-array>
+     <string-array name="chinese_month_number">
+        <item>月</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+     </string-array>
+     <string-array name="chinese_other_feast">
+        <item>母亲节</item>
+        <item>父亲节</item>
+        <item>感恩节</item>
+     </string-array>
+     <string-array name="chinese_tiangan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+     </string-array>
+     <string-array name="common_nicknames">
+     </string-array>
+     <string-array name="lunar_feast">
+        <item>除夕</item>
+        <item>春节</item>
+        <item>元宵节</item>
+        <item>端午节</item>
+        <item>七夕</item>
+        <item>中秋节</item>
+        <item>重阳节</item>
+     </string-array>
+     <string-array name="solar_feast">
+        <item>元旦</item>
+        <item>情人节</item>
+        <item>妇女节</item>
+        <item>劳动节</item>
+        <item>青年节</item>
+        <item>儿童节</item>
+        <item>教师节</item>
+        <item>国庆节</item>
+        <item>圣诞节</item>
+     </string-array>
+     <string-array name="solar_term">
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+     </string-array>
+</resources>

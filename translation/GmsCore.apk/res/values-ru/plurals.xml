@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="auth_authzen_request_description">
+        <item quantity="one">менее %s мин. назад (устройство: %s; место: %s)</item>
+        <item quantity="other">менее %s мин. назад (устройство: %s; место: %s)</item>
+     </plurals>
+     <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="one">менее %s мин. назад (место: %s)</item>
+        <item quantity="other">менее %s мин. назад (место: %s)</item>
+     </plurals>
+     <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="one">%d д. назад</item>
+        <item quantity="other">%d дн. назад</item>
+     </plurals>
+     <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="one">%d нед. назад</item>
+        <item quantity="other">%d нед. назад</item>
+     </plurals>
+     <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="one">Приглашений: %1$d</item>
+        <item quantity="other">Приглашений: %1$d</item>
+     </plurals>
+     <plurals name="games_inbox_matches_toast_message">
+        <item quantity="one">Текущих игр: %1$d</item>
+        <item quantity="other">Текущих игр: %1$d</item>
+     </plurals>
+     <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="one">Мой ход</item>
+        <item quantity="other">Ваших ходов: %1$d</item>
+     </plurals>
+     <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="one">Сейчас ходит %1$d чел.</item>
+        <item quantity="other">Сейчас ходят %1$d чел.</item>
+     </plurals>
+     <plurals name="games_leaderboard_player_count_format">
+        <item quantity="one">Игроков: %1$s</item>
+        <item quantity="other">Игроков: %1$s</item>
+     </plurals>
+     <plurals name="games_notification_new_match_activity">
+        <item quantity="one">Новости из игры (%1$d)</item>
+        <item quantity="other">Новости из игры (%1$d)</item>
+     </plurals>
+     <plurals name="games_select_players_current_count_format">
+        <item quantity="one">Игроки</item>
+        <item quantity="other">Игроков: %1$d</item>
+     </plurals>
+     <plurals name="games_select_players_del_autopick_players">
+        <item quantity="one">Удалить игроков (%1$d)</item>
+        <item quantity="other">Удалить игроков (%1$d)</item>
+     </plurals>
+     <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="one">Пригласите игроков (не более %1$d)</item>
+        <item quantity="other">Пригласите игроков (не более %1$d)</item>
+     </plurals>
+     <plurals name="games_waiting_room_players_ready">
+        <item quantity="one">Игроков: %1$d</item>
+        <item quantity="other">Игроков: %1$d</item>
+     </plurals>
+     <plurals name="games_waiting_room_start_with">
+        <item quantity="one">Игроков: %1$d</item>
+        <item quantity="other">Игроков: %1$d</item>
+     </plurals>
+     <plurals name="games_waiting_room_waited_start_early">
+        <item quantity="one">%1$d из %2$d приглашенных пользователей ещё не присоединился. Начать игру все равно?</item>
+        <item quantity="other">%1$d из %2$d приглашенных пользователей ещё не присоединились. Начать игру все равно?</item>
+     </plurals>
+     <plurals name="plus_num_days_ago">
+        <item quantity="one">%d д.</item>
+        <item quantity="other">%d дн.</item>
+     </plurals>
+     <plurals name="plus_num_hours_ago">
+        <item quantity="one">%d ч.</item>
+        <item quantity="other">%d ч.</item>
+     </plurals>
+     <plurals name="plus_num_minutes_ago">
+        <item quantity="one">%d мин.</item>
+        <item quantity="other">%d мин.</item>
+     </plurals>
+     <plurals name="wallet_minutes">
+        <item quantity="one">мин.</item>
+        <item quantity="other">мин.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_day">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s</price> ежедневно.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько дней (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration>нескольких дней (%3$d)</duration> с вас будет автоматически списываться <price>%1$s ежедневно</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда дней (%3$d)</duration> с вас каждые несколько дней (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s ежедневно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько дней (%2$d) будет автоматически списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration>нескольких дней (%3$d)</duration> с вас автоматически будет списываться <price>%1$s ежедневно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда дней (%3$d)</duration> с вас каждые несколько дней (%2$d) автоматически будет списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_month">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s ежемесячно</price>.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько месяцев (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration>нескольких месяцев (%3$d)</duration> с вас будет автоматически списываться <price>%1$s ежемесячно</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда месяцев (%3$d)</duration> с вас каждые несколько месяцев (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s ежемесячно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько месяцев (%2$d) будет автоматически списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration> нескольких месяцев (%3$d)</duration> с вас будет автоматически списываться <price>%1$s ежемесячно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда месяцев (%3$d)</duration> с вас каждые несколько месяцев (%2$d) будет автоматически списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_year">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s</price> ежегодно.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько лет (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration>нескольких лет (%3$d)</duration> с вас будет автоматически списываться <price>%1$s</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда лет (%3$d)</duration> с вас каждые несколько лет (%2$d) будет автоматически списываться <price>%1$s</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="one">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас будет автоматически списываться <price>%1$s ежегодно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%3$s</start_time> и до тех пор, пока вы не отмените подписку, с вас каждые несколько лет (%2$d) будет автоматически списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+     <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="one">Начиная c <start_time>%4$s</start_time> и в течение <duration>нескольких лет (%3$d)</duration> с вас будет автоматически списываться <price>%1$s ежегодно, включая действующие налоги</price>.</item>
+        <item quantity="other">Начиная c <start_time>%4$s</start_time> и в течение <duration>ряда лет (%3$d)</duration> с вас каждые несколько лет (%2$d) будет автоматически списываться <price>%1$s, включая действующие налоги</price>.</item>
+     </plurals>
+</resources>

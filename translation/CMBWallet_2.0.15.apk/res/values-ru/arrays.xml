@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="idTypeSpinner">
+        <item>居民身份证</item>
+        <item>临时居民身份证</item>
+        <item>军人证</item>
+        <item>武警身份证</item>
+        <item>居民户口簿</item>
+        <item>通行证</item>
+        <item>回乡证</item>
+        <item>护照</item>
+        <item>个人其它证件</item>
+     </string-array>
+</resources>

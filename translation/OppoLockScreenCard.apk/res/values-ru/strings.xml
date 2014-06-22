@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="afternoon">PM</string>
+     <string name="app_name">Модуль</string>
+     <string name="discription">ColorOS</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="good">Good</string>
+     <string name="hello">Hello World, ColorOSLockScreenCardActivity!</string>
+     <string name="hintSlide">Перетяните модуль для разблокировки</string>
+     <string name="morning">AM</string>
+     <string name="sim_card_no_service">Нет сети</string>
+     <string name="small_cn_month">Месяц</string>
+     <string name="small_cn_ri">дн.</string>
+     <string name="unlockname">Модуль</string>
+     <string name="xingqi_five"> 星期五</string>
+     <string name="xingqi_four"> 星期四</string>
+     <string name="xingqi_one"> 星期一</string>
+     <string name="xingqi_ri"> 星期日</string>
+     <string name="xingqi_six"> 星期六</string>
+     <string name="xingqi_three"> 星期三</string>
+     <string name="xingqi_two"> 星期二</string>
+</resources>

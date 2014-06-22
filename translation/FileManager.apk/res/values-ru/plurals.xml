@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="dialog_status_files">
+        <item quantity="one">%d file</item>
+        <item quantity="other">%d file</item>
+     </plurals>
+     <plurals name="dialog_status_folders">
+        <item quantity="one">%d folder,</item>
+        <item quantity="other">%d folder,</item>
+     </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="activation">Register now</string>
+     <string name="activationInform">Dear user, welcome using OPPO smartphone, you are going to register for OPPO mobile phone's e-warranty card service. Once registered e-warranty card functions the same as paper warranty card, you can enjoy our customer service in over 300 service centers all over China without having to carry the paper warranty card. During registeration your carrier may charge for basic SMS or data fees.</string>
+     <string name="activationInform_oneplus">Dear user, welcome using ONEPLUS smartphone, you are going to register for ONEPLUS mobile phone's e-warranty card service. Once registered e-warranty card functions the same as paper warranty card, you can enjoy our customer service in ONEPLUS Authorized Service Centers all over China without having to carry the paper warranty card. During registeration your carrier may charge for basic SMS or data fees.</string>
+     <string name="activationService">Phone activation service</string>
+     <string name="activationSucess">Your mobile phone is registered, thank you again for your support and trust of oppo!</string>
+     <string name="activationSucessInform">E-warranty card functions the same as paper warranty card, you can enjoy our customer service in over 300 service centers all over China without having to carry the paper warranty card.</string>
+     <string name="activationSucessInform_oneplus">E-warranty card functions the same as paper warranty card, you can enjoy our customer service in ONEPLUS Authorized Service Centers all over China without having to carry the paper warranty card.</string>
+     <string name="activationSucess_oneplus">Your mobile phone is registered, thank you again for your support and trust of ONEPLUS!</string>
+     <string name="app_name">Electronic card</string>
+     <string name="close">Stop</string>
+     <string name="has">Registered</string>
+     <string name="not">Cancel</string>
+     <string name="notifition">Registration success</string>
+     <string name="notifitionMessage">Registration success</string>
+     <string name="notifitionTitle">Activation success</string>
+     <string name="ok">OK</string>
+     <string name="open">Active</string>
+     <string name="registMessage">Hello! Please ensure your phone is able to access the internet or your SIM card is working properly.</string>
+     <string name="registTitle">Registration note</string>
+     <string name="regist_sucess_string">E-warranty card register sucess</string>
+     <string name="send_register_string">Already send the registration request, please wait</string>
+     <string name="sure">Register</string>
+</resources>

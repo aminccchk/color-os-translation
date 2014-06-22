@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="app_name">Музыка</string>
+     <string name="dockIntent1">com.android.contacts/com.android.contacts.activities.DialtactsActivity</string>
+     <string name="dockIntent2">com.oppo.music/com.oppo.music.MainListActivity</string>
+     <string name="dockIntent3">com.android.video/com.android.video.VideoListActivity</string>
+     <string name="unknown_artist">Неизвестный исполнитель</string>
+     <string name="unknown_music">Песен нет</string>
+</resources>

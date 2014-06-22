@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string name="am">AM</string>
+     <string name="app_name">Поворот</string>
+     <string name="charge_extra">charge for your safety!</string>
+     <string name="charge_hint_high">The ambient temperature is high,</string>
+     <string name="charge_hint_high1">battery has entered the general</string>
+     <string name="charge_hint_low">The ambient temperature is low,</string>
+     <string name="charge_hint_low1">battery has entered the general</string>
+     <string name="discription">Это демонстрация блокировки экрана OPPO</string>
+     <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+     <string name="lockscreen_charged">Заряжено</string>
+     <string name="lockscreen_charging_hint">Зарядка</string>
+     <string name="lockscreen_sound_off_label">Звук выкл.</string>
+     <string name="lockscreen_sound_on_label">Звук вкл.</string>
+     <string name="noservice">Нет сети</string>
+     <string name="pm">PM</string>
+     <string name="unlockAuthor">Поворот</string>
+     <string name="unlockDate">2012-05-17</string>
+     <string name="unlockResolution">854*480</string>
+     <string name="unlockVersion">1.0</string>
+     <string name="unlockname">Демонстрация</string>
+</resources>

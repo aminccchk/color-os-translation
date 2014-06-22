@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="artist_child_entries">
+        <item>Песня</item>
+        <item>Альбом</item>
+     </string-array>
+     <string-array name="download_entries">
+        <item>Загрузка</item>
+        <item>Загружено</item>
+     </string-array>
+     <string-array name="eq_preset_entries">
+        <item>По умолчанию</item>
+        <item>Выключено</item>
+        <item>Рок</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Классическая</item>
+        <item>Кантри</item>
+        <item>Танцевальная</item>
+        <item>Метал</item>
+        <item>Ритм и Блюз</item>
+        <item>Хип-Хоп</item>
+        <item>Прогрессивный рок</item>
+        <item>Электронная музыка</item>
+        <item>Современный город</item>
+        <item>Подкаст</item>
+        <item>Латина</item>
+        <item>Джангл</item>
+        <item>Модерн</item>
+        <item>Обычная</item>
+     </string-array>
+     <string-array name="eq_preset_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+     </string-array>
+     <string-array name="files_filter_duration_entries">
+        <item>Без лимита</item>
+        <item>20 секунд</item>
+        <item>60 секунд</item>
+        <item>90 секунд</item>
+        <item>120 секунд:</item>
+     </string-array>
+     <string-array name="files_filter_duration_values">
+        <item>0</item>
+        <item>20000</item>
+        <item>60000</item>
+        <item>90000</item>
+        <item>120000</item>
+     </string-array>
+     <string-array name="files_filter_size_entries">
+        <item>Нет ограничений</item>
+        <item>200K</item>
+        <item>500K</item>
+        <item>800K</item>
+        <item>1Mб</item>
+     </string-array>
+     <string-array name="files_filter_size_values">
+        <item>0</item>
+        <item>204800</item>
+        <item>512000</item>
+        <item>819200</item>
+        <item>1024000</item>
+     </string-array>
+     <string-array name="global_sound_entries">
+        <item>Откл.</item>
+        <item>Dolby effect</item>
+        <item>Dirac effect</item>
+     </string-array>
+     <string-array name="headset_sound_effect_entries">
+        <item>Выключить</item>
+        <item>Dolby Mobile </item>
+        <item>Dirac эффект</item>
+     </string-array>
+     <string-array name="headset_sound_effect_entries_nodolby">
+        <item>Выключено</item>
+        <item>Dirac эффект</item>
+     </string-array>
+     <string-array name="headset_sound_effect_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="headset_sound_effect_values_nodolby">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="local_songs_entries">
+        <item>All songs</item>
+        <item>Artists</item>
+        <item>Albums</item>
+     </string-array>
+     <string-array name="play_modes_entries">
+        <item>Последовательность</item>
+        <item>Один</item>
+        <item>Все</item>
+        <item>Режим случайного воспроизведения</item>
+     </string-array>
+     <string-array name="play_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="pref_brightness_entries">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+     </string-array>
+     <string-array name="pref_hfe_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="pref_levels_values">
+        <item>3</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="pref_natural_bass_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="pref_none_close_levels_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="pref_room_size_entries">
+        <item>Уровень 1</item>
+        <item>Уровень 2</item>
+        <item>Уровень5</item>
+     </string-array>
+     <string-array name="repeat_modes_entries">
+        <item>Выключить</item>
+        <item>Один раз</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="repeat_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="scan_exlude_suffixes">
+        <item>MIDI</item>
+        <item>SWB</item>
+        <item>RM</item>
+     </string-array>
+     <string-array name="scan_exlude_suffixes_default_value">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+     </string-array>
+     <string-array name="search_dialog_entries">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="skin_entries">
+        <item>Обложка 1</item>
+        <item>Обложка 2</item>
+        <item>Обложка 3</item>
+     </string-array>
+     <string-array name="skin_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="speaker_mode_entries">
+        <item>Выключено</item>
+        <item>Dolby Mobile</item>
+     </string-array>
+     <string-array name="speaker_mode_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="stop_playing_entries">
+        <item>Выключено</item>
+        <item>30 минут</item>
+        <item>60 минут</item>
+        <item>90 минут</item>
+     </string-array>
+     <string-array name="stop_playing_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <plurals name="group_list_num_contacts_in_group">
+        <item quantity="one">%1$d чел.</item>
+        <item quantity="other">%1$d чел.</item>
+     </plurals>
+     <plurals name="group_member_count">
+        <item quantity="one">Участник:%d</item>
+        <item quantity="other">Участников:%d</item>
+     </plurals>
+     <plurals name="listFoundAllContacts">
+        <item quantity="one">Найден 1 контакт</item>
+        <item quantity="other">Найдено контактов:%d</item>
+     </plurals>
+     <plurals name="listTotalAllContacts">
+        <item quantity="one">Контакт: 1</item>
+        <item quantity="other">Контактов: %d</item>
+     </plurals>
+     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+        <item quantity="other">Контактов с номерами телефонов: %d</item>
+     </plurals>
+     <plurals name="merge_info">
+        <item quantity="one">не объединен</item>
+        <item quantity="other">объединено из нескольких источников (%0$d)</item>
+     </plurals>
+     <plurals name="notification_voicemail_title">
+        <item quantity="one">Голосовое сообщение</item>
+        <item quantity="other">Голосовых сообщений: %1$d</item>
+     </plurals>
+     <plurals name="num_contacts_in_group">
+        <item quantity="one">%1$d контактов в %2$s</item>
+        <item quantity="other">%1$d контактов в %2$s</item>
+     </plurals>
+     <plurals name="num_groups_in_account">
+        <item quantity="one">Группа: 1</item>
+        <item quantity="other">Групп: %0$d</item>
+     </plurals>
+     <plurals name="oppo_msg_import_failed">
+        <item quantity="one">Импорт не удался, %1$d контактов импортировано</item>
+        <item quantity="other">Импорт не удался, %1$d контактов импортировано</item>
+     </plurals>
+     <plurals name="searchFoundContacts">
+        <item quantity="one">Найден 1 контакт</item>
+        <item quantity="other">Найдено контактов:%d</item>
+     </plurals>
+</resources>

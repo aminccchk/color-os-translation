@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="avatar_operator">
+        <item>新照片</item>
+        <item>从相册中选</item>
+        <item>删除所选图片</item>
+     </string-array>
+     <string-array name="constellations">
+        <item>水瓶座</item>
+        <item>双鱼座</item>
+        <item>白羊座</item>
+        <item>金牛座</item>
+        <item>双子座</item>
+        <item>巨蟹座</item>
+        <item>狮子座</item>
+        <item>处女座</item>
+        <item>天秤座</item>
+        <item>天蝎座</item>
+        <item>射手座</item>
+        <item>摩羯座</item>
+     </string-array>
+     <string-array name="security_questions_cn">
+        <item>父亲的名字?</item>
+        <item>母亲的名字?</item>
+        <item>您的出生地在哪?</item>
+        <item>您配偶的姓名是?</item>
+        <item>您就读的小学是?</item>
+        <item>您最熟悉的童年好友的名字是?</item>
+        <item>您小学时最喜欢的老师是谁?</item>
+        <item>您大学最好的朋友是?</item>
+        <item>您学号（工号）是?</item>
+        <item>您第一个手机号码的最后4位是什么?</item>
+        <item>您的车牌号是什么?</item>
+     </string-array>
+     <string-array name="sliding_tab_title">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+</resources>

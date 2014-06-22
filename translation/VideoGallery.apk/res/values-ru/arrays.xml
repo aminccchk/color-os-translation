@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with NXT -->
+<resources>
+     <string-array name="channel_detail_advertisement_kind">
+        <item>Все</item>
+        <item>Авто</item>
+        <item>Финансы</item>
+        <item>Еда и напитки</item>
+        <item>Табак</item>
+        <item>Активный отдых</item>
+        <item>Мода</item>
+        <item>Уют</item>
+        <item>Гаджеты</item>
+        <item>Медицина</item>
+        <item>Роскошь и драгоценности</item>
+        <item>Ежедневные вещи</item>
+        <item>Цифровая техника</item>
+        <item>Дом</item>
+        <item>Косметика</item>
+        <item>Обувь</item>
+        <item>Сумки и аксессуары</item>
+     </string-array>
+     <string-array name="channel_detail_advertisement_kind_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_advertisement_type">
+        <item>All</item>
+        <item>Celebrity</item>
+        <item>Public</item>
+        <item>Europe</item>
+        <item>Images</item>
+        <item>Funny</item>
+        <item>Fashion</item>
+        <item>Children</item>
+        <item>Life</item>
+        <item>Sexy</item>
+        <item>Popular</item>
+     </string-array>
+     <string-array name="channel_detail_advertisement_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_age">
+        <item>Все</item>
+        <item>0–3 лет</item>
+        <item>4–6 лет</item>
+        <item>7–13 лет</item>
+        <item>14–17 лет</item>
+        <item>18 и выше лет</item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_age_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_area">
+        <item>Все</item>
+        <item>Материк</item>
+        <item>Япония</item>
+        <item>США</item>
+        <item>Франция</item>
+        <item>Корея</item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_type">
+        <item>All</item>
+        <item>Action</item>
+        <item>Youth</item>
+        <item>Paternity</item>
+        <item>Original</item>
+        <item>Blood</item>
+        <item>Adventure</item>
+        <item>Ancient</item>
+        <item>Future</item>
+        <item>Cosplay</item>
+        <item>Athletics</item>
+        <item>Sports</item>
+        <item>Funny</item>
+        <item>Romance</item>
+        <item>Campus</item>
+        <item>City</item>
+        <item>Magic</item>
+        <item>Science</item>
+        <item>Inspirational</item>
+        <item>Drama</item>
+        <item>Pets</item>
+        <item>Puzzle</item>
+        <item>Fairy tales</item>
+        <item>Live</item>
+        <item>Myth</item>
+        <item>Animated films</item>
+        <item>Communication University Works</item>
+     </string-array>
+     <string-array name="channel_detail_comic_and_animation_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_documentary_type">
+        <item>All</item>
+        <item>Figures</item>
+        <item>Society</item>
+        <item>Military</item>
+        <item>Exploration</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Nature</item>
+        <item>Culture</item>
+        <item>Collection</item>
+        <item>Iqiyi</item>
+        <item>Others</item>
+     </string-array>
+     <string-array name="channel_detail_documentary_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_education_age">
+        <item>Все</item>
+        <item>Начальная школа</item>
+        <item>Младшая школа</item>
+        <item>Средняя школа</item>
+        <item>Старшая школа</item>
+        <item>Языковые курсы</item>
+        <item>Высшее образование</item>
+        <item>Профессионально-техническое образование</item>
+        <item>Бизнес образование</item>
+        <item>Уроки жизни</item>
+     </string-array>
+     <string-array name="channel_detail_education_age_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_education_area">
+        <item>All</item>
+        <item>Zhongshaoshe</item>
+        <item>Ixuezhi</item>
+        <item>北京四中网校</item>
+        <item>Neworiental</item>
+        <item>People's Education Press</item>
+        <item>CCTV中学生</item>
+        <item>微课网</item>
+        <item>学而思</item>
+        <item>沪江网</item>
+        <item>尚德</item>
+        <item>云管理学院</item>
+     </string-array>
+     <string-array name="channel_detail_education_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_education_type">
+        <item>All</item>
+        <item>Preschool songs</item>
+        <item>Preschool English</item>
+        <item>Entrance examination for senior high school</item>
+        <item>Entrance examination for college</item>
+        <item>Entrance examination for postgraduate school</item>
+        <item>Spoken English</item>
+        <item>CET 4</item>
+        <item>CET 6</item>
+        <item>IELTS</item>
+        <item>TOEFL</item>
+        <item>Minority languages</item>
+        <item>Accounting</item>
+        <item>Civil servant</item>
+        <item>Workplace learning</item>
+        <item>Enterprise management</item>
+     </string-array>
+     <string-array name="channel_detail_education_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_entertainment_area">
+        <item>Все</item>
+        <item>Континентальный Китай</item>
+        <item>Гонконг и Тайвань</item>
+        <item>Япония и Корея</item>
+        <item>Западные страны</item>
+        <item>Другие</item>
+     </string-array>
+     <string-array name="channel_detail_entertainment_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_entertainment_type">
+        <item>All</item>
+        <item>Exclusive</item>
+        <item>Hotspots</item>
+        <item>Original</item>
+        <item>Gossip</item>
+        <item>Drafts</item>
+        <item>Emotion</item>
+        <item>Fashion</item>
+        <item>Games</item>
+        <item>Funny</item>
+        <item>Awards</item>
+        <item>Activities</item>
+     </string-array>
+     <string-array name="channel_detail_entertainment_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_fashion_kind">
+        <item>All</item>
+        <item>Show</item>
+        <item>Vanity fair</item>
+        <item>Advertising films</item>
+        <item>Fashion arts</item>
+        <item>Trend reports</item>
+        <item>Popular variety</item>
+        <item>Iqiyi products</item>
+        <item>Bulletin boards</item>
+        <item>Broadwood</item>
+     </string-array>
+     <string-array name="channel_detail_fashion_kind_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_fashion_season">
+        <item>Все</item>
+        <item>Ранняя весна</item>
+        <item>Весна-Лето</item>
+        <item>Ранняя осень</item>
+        <item>Зима</item>
+     </string-array>
+     <string-array name="channel_detail_fashion_season_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_fashion_type">
+        <item>Все</item>
+        <item>Мода</item>
+        <item>Красота</item>
+        <item>Жизнь</item>
+     </string-array>
+     <string-array name="channel_detail_fashion_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_finance_and_economics_type">
+        <item>All</item>
+        <item>Macro</item>
+        <item>Livelihood</item>
+        <item>Sankei</item>
+        <item>Market</item>
+        <item>Financing</item>
+        <item>Interview</item>
+     </string-array>
+     <string-array name="channel_detail_finance_and_economics_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_flower_show_type">
+        <item>All</item>
+        <item>Movie previews</item>
+        <item>Drama previews</item>
+        <item>Movie trailers</item>
+        <item>Drama trailers</item>
+        <item>Movie highlights</item>
+        <item>Drama highlights</item>
+     </string-array>
+     <string-array name="channel_detail_flower_show_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_funny_area">
+        <item>Все</item>
+        <item>Местный</item>
+        <item>Иностраный</item>
+     </string-array>
+     <string-array name="channel_detail_funny_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_funny_type">
+        <item>All</item>
+        <item>Self-show</item>
+        <item>Originality</item>
+        <item>Spoof</item>
+        <item>Comic</item>
+        <item>Sketches</item>
+        <item>Pets</item>
+        <item>Embarrassing</item>
+        <item>Childlike</item>
+        <item>Dialects</item>
+     </string-array>
+     <string-array name="channel_detail_funny_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_iqiyi_product_type">
+        <item>All</item>
+        <item>Funny</item>
+        <item>播报</item>
+        <item>访谈</item>
+        <item>盛会</item>
+        <item>情感</item>
+        <item>Fashion</item>
+        <item>杂谈</item>
+        <item>Game</item>
+     </string-array>
+     <string-array name="channel_detail_iqiyi_product_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_life_area">
+        <item>Все</item>
+        <item>Местный</item>
+        <item>Иностраный</item>
+     </string-array>
+     <string-array name="channel_detail_life_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_life_type">
+        <item>Все</item>
+        <item>Общество</item>
+        <item>Жизнь</item>
+        <item>Технологии</item>
+        <item>Финансы</item>
+        <item>Анекдоты</item>
+        <item>Готовка</item>
+        <item>Здоровье</item>
+        <item>Дом</item>
+        <item>Красота</item>
+        <item>Машины</item>
+     </string-array>
+     <string-array name="channel_detail_life_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_duration">
+        <item>Все</item>
+        <item>Менее 5 мин</item>
+        <item>5 - 15 мин</item>
+        <item>15-30 мин</item>
+        <item>30 мин</item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_duration_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_kind">
+        <item>All</item>
+        <item>Drama</item>
+        <item>Cartoons</item>
+        <item>Creative movies</item>
+        <item>Documentary</item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_kind_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_type">
+        <item>All</item>
+        <item>Celebrity</item>
+        <item>Dance</item>
+        <item>Arts</item>
+        <item>Comedy</item>
+        <item>Love</item>
+        <item>Action</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Suspense</item>
+        <item>Youth</item>
+        <item>Tenderness</item>
+        <item>Inspirational</item>
+        <item>Public</item>
+        <item>Queer</item>
+        <item>Advertising</item>
+        <item>Sports</item>
+        <item>Other</item>
+     </string-array>
+     <string-array name="channel_detail_micro_film_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_movie_area">
+        <item>Все</item>
+        <item>Китай</item>
+        <item>США</item>
+        <item>Европа</item>
+        <item>Корея</item>
+        <item>Япония</item>
+        <item>Другое</item>
+     </string-array>
+     <string-array name="channel_detail_movie_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_movie_type">
+        <item>Все</item>
+        <item>Романтика</item>
+        <item>Военный</item>
+        <item>Комедия</item>
+        <item>Научная фантастика</item>
+        <item>Ужасы</item>
+        <item>Боевик</item>
+        <item>Мультфильм</item>
+        <item>Трагедия</item>
+        <item>Катастрофа</item>
+        <item>Драма</item>
+        <item>Триллер</item>
+        <item>Фэнтези</item>
+        <item>Детский</item>
+        <item>Флик</item>
+        <item>Этнический</item>
+        <item>Биография</item>
+        <item>Авторский</item>
+        <item>Другой</item>
+        <item>Кантонский</item>
+        <item>Саундтрек</item>
+     </string-array>
+     <string-array name="channel_detail_movie_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_movie_year">
+        <item>Все</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1990е</item>
+        <item>1980е</item>
+        <item>раньше</item>
+     </string-array>
+     <string-array name="channel_detail_movie_year_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_music_area">
+        <item>Все</item>
+        <item>Континентальный Китай</item>
+        <item>Гонконг и Тайвань</item>
+        <item>Япония и Корея</item>
+     </string-array>
+     <string-array name="channel_detail_music_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_music_language">
+        <item>Все</item>
+        <item>Китайский</item>
+        <item>Кантонский</item>
+        <item>Hokkien</item>
+        <item>Английский</item>
+        <item>Японский</item>
+     </string-array>
+     <string-array name="channel_detail_music_language_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_music_type">
+        <item>Всё</item>
+        <item>Популярное</item>
+        <item>Рок</item>
+        <item>Fock</item>
+        <item>Хип-Хоп</item>
+        <item>Метал</item>
+        <item>Панк</item>
+        <item>Электроника</item>
+        <item>Dark Wave</item>
+        <item>Диско</item>
+        <item>Кантри</item>
+        <item>Латинская</item>
+        <item>Джаз</item>
+        <item>Классическая</item>
+        <item>Странная</item>
+        <item>Национальная</item>
+        <item>Инди</item>
+        <item>World</item>
+     </string-array>
+     <string-array name="channel_detail_music_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_public_course_type">
+        <item>All</item>
+        <item>Life classroom</item>
+        <item>TED speech</item>
+        <item>Domestic universities</item>
+        <item>International schools</item>
+     </string-array>
+     <string-array name="channel_detail_public_course_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_sports_kind">
+        <item>All</item>
+        <item>Highlights</item>
+        <item>Tidbits</item>
+        <item>Goals</item>
+        <item>Whole</item>
+        <item>Programs</item>
+        <item>Others</item>
+        <item>Information</item>
+     </string-array>
+     <string-array name="channel_detail_sports_kind_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_sports_type">
+        <item>All</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Tennis</item>
+        <item>Golf</item>
+        <item>Billiards</item>
+        <item>Other</item>
+     </string-array>
+     <string-array name="channel_detail_sports_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_travel_area">
+        <item>All</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Chongqing</item>
+        <item>Hong Kong Special Administrative Region</item>
+        <item>Hebei</item>
+        <item>Shanxi</item>
+        <item>Inner Mongolia Autonomous Region</item>
+        <item>Liaoning</item>
+        <item>Heilongjiang</item>
+        <item>Harbin</item>
+        <item>Jiangsu</item>
+        <item>Nanjing</item>
+        <item>Zhejiang</item>
+        <item>Anhui</item>
+        <item>Shandong</item>
+        <item>Henan</item>
+        <item>Hubei</item>
+        <item>Henan</item>
+        <item>Hubei</item>
+        <item>Hunan</item>
+        <item>Guangdong</item>
+        <item>Guangxi Zhuang Autonomous Region</item>
+        <item>Hainan</item>
+        <item>Sichuan</item>
+        <item>Yunnan</item>
+        <item>Tibet Autonomous Region</item>
+        <item>Shaanxi</item>
+        <item>Qinghai</item>
+        <item>Ningxia Hui Autonomous Region</item>
+        <item>Xinjiang Uygur Autonomous Region</item>
+     </string-array>
+     <string-array name="channel_detail_travel_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_travel_type">
+        <item>All</item>
+        <item>Scenery</item>
+        <item>Diet</item>
+        <item>Accommodation</item>
+        <item>Interview</item>
+        <item>Travel</item>
+     </string-array>
+     <string-array name="channel_detail_travel_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_tv_area">
+        <item>Все</item>
+        <item>Китай</item>
+        <item>Гонгонг</item>
+        <item>Тайван</item>
+        <item>Корея</item>
+        <item>США</item>
+        <item>Тайлант</item>
+        <item>Япония</item>
+        <item>Другое</item>
+     </string-array>
+     <string-array name="channel_detail_tv_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_tv_type">
+        <item>All</item>
+        <item>Romance</item>
+        <item>History</item>
+        <item>Martial arts</item>
+        <item>Ancient</item>
+        <item>Modern</item>
+        <item>Rural</item>
+        <item>Idol</item>
+        <item>Suspense</item>
+        <item>Sci-fi</item>
+        <item>Comedy</item>
+        <item>Imperial court</item>
+        <item>Business war</item>
+        <item>Myth</item>
+        <item>Time travel</item>
+        <item>Crime</item>
+        <item>Youth</item>
+        <item>Family</item>
+        <item>Army</item>
+     </string-array>
+     <string-array name="channel_detail_tv_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_tv_year">
+        <item>Все</item>
+        <item>2013</item>
+        <item>2012</item>
+        <item>2011</item>
+        <item>2010</item>
+        <item>2009</item>
+        <item>2008</item>
+        <item>2007</item>
+        <item>2006</item>
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1990ые</item>
+        <item>1980ые</item>
+     </string-array>
+     <string-array name="channel_detail_tv_year_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_variety_show_area">
+        <item>Все</item>
+        <item>Континентальный Китай</item>
+        <item>Гонконг и Тайвань</item>
+        <item>Япония и Корея</item>
+        <item>Европа и США</item>
+     </string-array>
+     <string-array name="channel_detail_variety_show_area_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="channel_detail_variety_show_type">
+        <item>All</item>
+        <item>Folk</item>
+        <item>Event</item>
+        <item>Broadcast</item>
+        <item>Interview</item>
+        <item>Funny</item>
+        <item>Games</item>
+        <item>Drafts</item>
+        <item>Fashion</item>
+        <item>Talks</item>
+        <item>Emotion</item>
+     </string-array>
+     <string-array name="channel_detail_variety_show_type_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="iqiyi_channel">
+        <item>Movie</item>
+        <item>TV</item>
+        <item>Documentary</item>
+        <item>Comic</item>
+        <item>Music</item>
+        <item>Variety Show</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Trailers</item>
+        <item>Open Courses</item>
+        <item>Education</item>
+        <item>Fashion</item>
+        <item>Fashion Variety Show</item>
+        <item>Micro Film</item>
+        <item>Sports</item>
+        <item>ADs</item>
+        <item>Life</item>
+        <item>Funny</item>
+        <item>Finance and Economics</item>
+        <item>iQiyi Product</item>
+     </string-array>
+     <string-array name="iqiyi_channel_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="oppo_channel">
+        <item>Movie</item>
+        <item>TV</item>
+        <item>Documentary</item>
+        <item>Comic</item>
+        <item>Music</item>
+        <item>Variety Show</item>
+        <item>Entertainment</item>
+        <item>Travel</item>
+        <item>Trailers</item>
+        <item>Open Courses</item>
+        <item>Education</item>
+        <item>Fashion</item>
+        <item>Micro Film</item>
+        <item>Sports</item>
+        <item>ADs</item>
+        <item>Life</item>
+        <item>Funny</item>
+        <item>Finance and Economics</item>
+        <item>iQiyi Product</item>
+     </string-array>
+     <string-array name="pref_camera_videoquality_entryvalues">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="pref_circulate_entries">
+        <item>Выключить</item>
+        <item>Одно видео</item>
+        <item>Все видео</item>
+     </string-array>
+     <string-array name="pref_eq_preset_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+     </string-array>
+     <string-array name="pref_equalizer_entries">
+        <item>Отключен</item>
+        <item>По-умолчанию</item>
+        <item>Новости</item>
+        <item>Спорт</item>
+        <item>Драма</item>
+        <item>Клип</item>
+        <item>Фильм</item>
+        <item>Комедия</item>
+        <item>Экшен</item>
+        <item>Мюзикл</item>
+        <item>Мультфильм</item>
+        <item>Шоу</item>
+     </string-array>
+     <string-array name="pref_frequency_enhance_entries">
+        <item>Выключить</item>
+        <item>Нормальный</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="pref_frequency_enhance_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="pref_natural_base_entries">
+        <item>Выключить</item>
+        <item>Слабый </item>
+        <item>Средний</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="pref_natural_base_entries_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="pref_video_circulate_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="prefecture">
+        <item>Specially recommendation</item>
+        <item>Synchronization theater</item>
+        <item>Movies</item>
+        <item>Children & Animation</item>
+        <item>Tourism and Sports</item>
+        <item>Arts & Funny</item>
+        <item>Trailer & Micro film</item>
+        <item>Fashion & Life</item>
+        <item>News & Entertainment</item>
+        <item>Finance & Cars</item>
+        <item>Music & Games</item>
+        <item>Documentaries & Education</item>
+        <item>iQIYI Production</item>
+     </string-array>
+     <string-array name="prefecture_to_channel_id">
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+        <item><!-- dummy item. no translate --></item>
+     </string-array>
+     <string-array name="prefecture_to_channel_title">
+        <item></item>
+        <item>TV</item>
+        <item>Movie</item>
+        <item>Comic</item>
+        <item>Travel</item>
+        <item>Variety show</item>
+        <item>Trailers</item>
+        <item>Fashion</item>
+        <item>Entertainment</item>
+        <item>Finance and Economics</item>
+        <item>Music</item>
+        <item>Documentary</item>
+        <item>iQiyi Product</item>
+     </string-array>
+     <string-array name="proxy_error">
+        <item>Host field can not be empty</item>
+        <item>Port field can not be empty</item>
+        <item>Invalid host</item>
+        <item>Invalid port</item>
+     </string-array>
+     <string-array name="send_method">
+        <item>По MMS</item>
+        <item>По Email</item>
+        <item>По Bluetooth</item>
+     </string-array>
+     <string-array name="top_prefecture">
+        <item>同步剧场</item>
+        <item>电影大片</item>
+     </string-array>
+     <string-array name="video_option">
+        <item>Отправить</item>
+        <item>Удалить</item>
+        <item>Переименовать</item>
+        <item>Детали</item>
+     </string-array>
+</resources>
