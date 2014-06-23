@@ -163,132 +163,11 @@
         <item>WCDMA/GSM/LTE FDD (Auto)</item>
         <item>только LTE FDD</item>
         <item>только WCDMA</item>
-        <item>толькоGSM</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values">
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_exp">
-        <item>9</item>
-        <item>2</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_id_exp">
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_cu">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user">
-        <item>20</item>
-        <item>18</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user_extend">
-        <item>20</item>
-        <item>9</item>
-        <item>18</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user_td_3mode">
-        <item>17</item>
-        <item>16</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user_td_3mode_extend">
-        <item>17</item>
-        <item>9</item>
-        <item>16</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user_w_3mode">
-        <item>9</item>
-        <item>0</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_lte_user_w_3mode_extend">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_tdlte_cta">
-        <item>20</item>
-        <item>13</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_wcdma">
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-     </string-array>
-     <string-array name="gsm_umts_network_preferences_values_wcdmalte_cta">
-        <item>9</item>
-        <item>2</item>
-        <item>1</item>
+        <item>только GSM</item>
      </string-array>
      <string-array name="ims_call_types">
-        <item>Voice</item>
-        <item>Video</item>
-     </string-array>
-     <string-array name="intelligent_dial">
-        <item>Smart pinyin dial</item>
-        <item>Smart stroke dial</item>
-     </string-array>
-     <string-array name="iso3_languages">
-        <item>USA</item>
-        <item>CHN</item>
-        <item>TWN</item>
-        <item>HKG</item>
-        <item>THA</item>
-        <item>RUS</item>
-        <item>IDN</item>
-        <item>VNM</item>
-        <item>ISR</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>DNK</item>
-        <item>DEU</item>
-        <item>GRC</item>
-        <item>ZAF</item>
-        <item>ESP</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>FRA</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>ITA</item>
-        <item>NULL</item>
-        <item>JPN</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NOR</item>
-        <item>NLD</item>
-        <item>NULL</item>
-        <item>PRT</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>SWE</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>TUR</item>
-        <item>NULL</item>
-        <item>NULL</item>
-        <item>NULL</item>
+        <item>Голос</item>
+        <item>Видео</item>
      </string-array>
      <string-array name="list_language_entries">
         <item>английский</item>
@@ -298,100 +177,6 @@
         <item>корейский</item>
         <item>китайский</item>
         <item>иврит</item>
-     </string-array>
-     <string-array name="numberOfserver">
-        <item>10086</item>
-        <item>10010</item>
-        <item>10000</item>
-        <item>10050</item>
-        <item>11185</item>
-        <item>95588</item>
-        <item>95599</item>
-        <item>95566</item>
-        <item>95533</item>
-        <item>95559</item>
-        <item>95558</item>
-        <item>95528</item>
-        <item>95508</item>
-        <item>95501</item>
-        <item>95555</item>
-        <item>95561</item>
-        <item>95595</item>
-        <item>95568</item>
-        <item>95577</item>
-        <item>95516</item>
-        <item>95080</item>
-        <item>95530</item>
-        <item>95539</item>
-        <item>950712</item>
-        <item>4008206222</item>
-        <item>95583</item>
-        <item>95500</item>
-        <item>95511</item>
-        <item>95519</item>
-        <item>95522</item>
-        <item>95567</item>
-        <item>13800138000</item>
-        <item>10011</item>
-        <item>4001666888</item>
-        <item>4006096777</item>
-        <item>95526</item>
-        <item>4006006222</item>
-        <item>96528</item>
-        <item>4008100999</item>
-     </string-array>
-     <string-array name="numberOfserverTH">
-        <item>+6626455555</item>
-        <item>026455555</item>
-        <item>1333</item>
-        <item>+6628888888</item>
-        <item>028888888</item>
-        <item>+6622851555</item>
-        <item>022851555</item>
-        <item>+6622991111</item>
-        <item>022991111</item>
-        <item>+6626267777</item>
-        <item>026267777</item>
-        <item>1302</item>
-        <item>1572</item>
-        <item>+6627777777</item>
-        <item>027777777</item>
-        <item>1551</item>
-        <item>+6625550555</item>
-        <item>025550555</item>
-        <item>+6622998000</item>
-        <item>022998000</item>
-        <item>1115</item>
-        <item>+6626803333</item>
-        <item>026803333</item>
-        <item>1770</item>
-        <item>026144000</item>
-        <item>026737733</item>
-        <item>1595</item>
-        <item>1588</item>
-        <item>+6623590000</item>
-        <item>023590000</item>
-        <item>+6626639999</item>
-        <item>026639999</item>
-        <item>1124</item>
-        <item>+6622858888</item>
-        <item>022858888</item>
-        <item>1766</item>
-        <item>1484</item>
-        <item>1557</item>
-        <item>+6622392200</item>
-        <item>022392200</item>
-        <item>1175</item>
-        <item>1331</item>
-        <item>1678</item>
-        <item>1100</item>
-        <item>1322</item>
-        <item>1150</item>
-        <item>1711</item>
-        <item>1112</item>
-        <item>1150</item>
-        <item>+6624153888</item>
-        <item>024153888</item>
      </string-array>
      <string-array name="oppo_call_dial_animation_summary">
         <item>Стандартная</item>
@@ -433,16 +218,6 @@
         <item>Редактировать</item>
         <item>Удалить</item>
      </string-array>
-     <string-array name="oppo_incoming_call_widget_2way_targets">
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-     </string-array>
-     <string-array name="oppo_intelligent_dial">
-        <item>Smart pinyin dial</item>
-        <item>Smart stroke dial</item>
-     </string-array>
      <string-array name="oppo_plmn_prefer_network_mode_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
@@ -454,64 +229,6 @@
         <item>WCDMA</item>
         <item>Dual mode</item>
         <item>LTE-FDD</item>
-     </string-array>
-     <string-array name="oppo_plmn_prefer_network_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-     </string-array>
-     <string-array name="plmn_mcc_mnc">
-        <item>46001mmcmnc</item>
-        <item>46000mmcmnc</item>
-        <item>46002mmcmnc</item>
-        <item>46003mmcmnc</item>
-        <item>46007mmcmnc</item>
-        <item>45406mmcmnc</item>
-        <item>45410mmcmnc</item>
-        <item>45412mmcmnc</item>
-        <item>45415mmcmnc</item>
-        <item>45416mmcmnc</item>
-        <item>45419mmcmnc</item>
-        <item>45500mmcmnc</item>
-        <item>45501mmcmnc</item>
-        <item>45503mmcmnc</item>
-        <item>45504mmcmnc</item>
-        <item>45505mmcmnc</item>
-        <item>46601mmcmnc</item>
-        <item>46688mmcmnc</item>
-        <item>46689mmcmnc</item>
-        <item>46692mmcmnc</item>
-        <item>46693mmcmnc</item>
-        <item>46697mmcmnc</item>
-        <item>46699mmcmnc</item>
-        <item>46011mmcmnc</item>
-     </string-array>
-     <string-array name="plmn_oppo_name">
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
      </string-array>
      <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
