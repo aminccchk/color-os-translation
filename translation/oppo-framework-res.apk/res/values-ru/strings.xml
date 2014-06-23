@@ -3,7 +3,6 @@
 <resources>
      <string name="action_mode_done">Готово</string>
      <string name="android_am">am</string>
-     <string name="android_config_defaultDreamComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
      <string name="android_pm">pm</string>
      <string name="imProtocolFBM">FBM</string>
      <string name="imProtocolMail">Mail.ru Agent</string>
@@ -11,53 +10,6 @@
      <string name="imProtocolViber">Viber</string>
      <string name="imProtocolWechat">Wechat</string>
      <string name="imProtocolWhatsapp">Whatsapp</string>
-     <string name="mmcmnc25001">MTS RUS</string>
-     <string name="mmcmnc25002">MegaFon</string>
-     <string name="mmcmnc25003">NCC</string>
-     <string name="mmcmnc25005">ETK</string>
-     <string name="mmcmnc25007">SMARTS</string>
-     <string name="mmcmnc25012">Baykalwstern</string>
-     <string name="mmcmnc25014">SMARTS</string>
-     <string name="mmcmnc25016">NTC</string>
-     <string name="mmcmnc25017">Utel</string>
-     <string name="mmcmnc25019">INDIGO</string>
-     <string name="mmcmnc25020">Tele2</string>
-     <string name="mmcmnc25023">Mobicom</string>
-     <string name="mmcmnc25039">Utel</string>
-     <string name="mmcmnc25099">Beeline</string>
-     <string name="mmcmnc45201">VN MOBIFONE</string>
-     <string name="mmcmnc45202">VINAPHONE</string>
-     <string name="mmcmnc45204">VIETTEL</string>
-     <string name="mmcmnc45205">Vietnamobile</string>
-     <string name="mmcmnc45207">Beeline VN</string>
-     <string name="mmcmnc45406">SmarTone</string>
-     <string name="mmcmnc45410">New World</string>
-     <string name="mmcmnc45412">CMCC Peoples</string>
-     <string name="mmcmnc45415">SmarTone</string>
-     <string name="mmcmnc45416">PCCW</string>
-     <string name="mmcmnc45419">PCCW</string>
-     <string name="mmcmnc45500">SmarTone</string>
-     <string name="mmcmnc45501">CTM</string>
-     <string name="mmcmnc45503">Hutchison</string>
-     <string name="mmcmnc45504">CTM</string>
-     <string name="mmcmnc45505">Hutchison</string>
-     <string name="mmcmnc46000">CMCC</string>
-     <string name="mmcmnc46001">UNICOM</string>
-     <string name="mmcmnc46002">CMCC</string>
-     <string name="mmcmnc46003">CTCC</string>
-     <string name="mmcmnc46007">CMCC</string>
-     <string name="mmcmnc46601">FarEasTone</string>
-     <string name="mmcmnc46688">KG Telecom</string>
-     <string name="mmcmnc46689">VIBO</string>
-     <string name="mmcmnc46692">Chungwa</string>
-     <string name="mmcmnc46693">MobiTai</string>
-     <string name="mmcmnc46697">Taiwan Mobile</string>
-     <string name="mmcmnc46699">TransAsia</string>
-     <string name="mmcmnc51001">INDOSAT</string>
-     <string name="mmcmnc51008">AXIS</string>
-     <string name="mmcmnc51010">TELKOMSEL</string>
-     <string name="mmcmnc51011">XL Axiata</string>
-     <string name="mmcmnc51089">3</string>
      <string name="oppo_abbrev_month_day_dmy" formatted="false">%-e %b</string>
      <string name="oppo_abbrev_month_day_mdy" formatted="false">%b %-e</string>
      <string name="oppo_abbrev_month_day_year_dmy" formatted="false">%d.%m.%Y</string>
@@ -69,14 +21,11 @@
      <string name="oppo_abbrev_month_year_ymd" formatted="false">%Y %-b</string>
      <string name="oppo_allow_text">Разрешить</string>
      <string name="oppo_alwaysUse">Использовать по-умолчанию:</string>
-     <string name="oppo_battery_waring_subtitle">Warning:</string>
+     <string name="oppo_battery_waring_subtitle">Внимание:</string>
      <string name="oppo_day_month_year_wday">%1$s, %2$s %3$s %4$s</string>
      <string name="oppo_day_year_month_wday">%1$s, %2$s %3$s %4$s</string>
-     <string name="oppo_flip_frame_step">1.0f</string>
      <string name="oppo_loading">Загрузка…</string>
      <string name="oppo_lunar_calendar_text">Лунный календарь</string>
-     <string name="oppo_lunar_leap_11">闰十一</string>
-     <string name="oppo_lunar_leap_12">闰十二</string>
      <string name="oppo_modify_pkg_perms">Настройка разрешений</string>
      <string name="oppo_modify_pkg_perms_detail">Перейти к Настройки→Стандартные→Управление приложением чтобы изменить разрешения!</string>
      <string name="oppo_month_day_dmy" formatted="false">%-e %B</string>
@@ -180,14 +129,11 @@
      <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_dmy">%1$s, %3$s %2$s %4$s - %6$s, %8$s %7$s %9$s</string>
      <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_mdy">%1$s, %2$s %3$s %4$s - %6$s, %7$s %8$s %9$s</string>
      <string name="oppo_same_year_wday1_mdy1_wday2_mdy2_ymd">%1$s, %4$s %2$s %3$s - %6$s, %9$s %7$s %8$s</string>
-     <string name="oppo_scene_preview_track_scroll_fast_step">0.25f</string>
-     <string name="oppo_screen_shot_down_text">向下滑动1/3屏幕高度</string>
-     <string name="oppo_screen_shot_up_text">向上滑动1/3屏幕高度</string>
+     <string name="oppo_screen_shot_down_text">Сдвиньте вниз на 1/3 экрана</string>
+     <string name="oppo_screen_shot_up_text">Сдвиньте вверх на 1/3 экрана</string>
      <string name="oppo_selecttext">Выбрать</string>
      <string name="oppo_solar_calendar_text">Солнечный календарь</string>
      <string name="oppo_statusbar_key_swmgr">Программа</string>
-     <string name="oppo_touchsearch_dot">•</string>
-     <string name="oppo_touchsearch_side_keys_prefix">oppo_</string>
      <string name="oppo_twelve_hour_time_format">h:mm a</string>
      <string name="oppo_twenty_four_hour_time_format">H:mm</string>
      <string name="oppo_usb_charge">Только зарядка</string>
