@@ -16,15 +16,15 @@
         <item>Разместить уведомление</item>
         <item>Местоположение</item>
         <item>Позвонить</item>
-        <item>Чтение SMS</item>
-        <item>Изменение SMS</item>
-        <item>Получение SMS</item>
-        <item>Получение SMS</item>
-        <item>Получение MMS</item>
-        <item>Получение SMS</item>
-        <item>Отправка SMS</item>
-        <item>Чтение SMS</item>
-        <item>Изменение SMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
+        <item>Получение SMS/MMS</item>
+        <item>Отправка SMS/MMS</item>
         <item>Изменение настроек</item>
         <item>Отображать поверх других элементов</item>
         <item>Доступ к уведомлениям</item>
@@ -33,12 +33,12 @@
         <item>Воспроизвести аудио</item>
         <item>Считать из буфера обмена</item>
         <item>Изменить буфер обмена</item>
-        <item>Включение/выключение Wi-Fi</item>
-        <item>Включение/выключение Bluetooth</item>
-        <item>Включение/выключение Моб. интернета</item>
+        <item>Управление Wi-Fi</item>
+        <item>Управление Bluetooth</item>
+        <item>Управление мобильным интернетом</item>
         <item>Отправка MMS</item>
         <item>Чтение MMS</item>
-        <item>Изменение MMS</item>
+        <item>Запись MMS</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Личный</item>
