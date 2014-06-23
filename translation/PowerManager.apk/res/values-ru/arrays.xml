@@ -6,71 +6,30 @@
         <item>Часть анимации</item>
         <item>Все анимации</item>
      </string-array>
-     <string-array name="animations_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="battery_usage_configure">
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-     </string-array>
      <string-array name="lock_timeout_entries">
-        <item>5мин</item>
-        <item>15мин</item>
-        <item>30мин</item>
-        <item>1ч</item>
-        <item>3ч</item>
-     </string-array>
-     <string-array name="lock_timeout_values">
-        <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-        <item>10800000</item>
+        <item>5 мин</item>
+        <item>15 мин</item>
+        <item>30 мин</item>
+        <item>1 ч</item>
+        <item>3 ч</item>
      </string-array>
      <string-array name="presskey_light_timeout_entries">
-        <item>2S</item>
-        <item>6S</item>
-        <item>Always open</item>
-        <item>Never open</item>
-        <item>Open in darkness</item>
-     </string-array>
-     <string-array name="presskey_light_timeout_values">
-        <item>2</item>
-        <item>6</item>
-        <item>always</item>
-        <item>Never</item>
-        <item>dark</item>
+        <item>2 сек</item>
+        <item>6 сек</item>
+        <item>Всегда</item>
+        <item>Никогда</item>
+        <item>В темноте</item>
      </string-array>
      <string-array name="save_power_mode_entries">
         <item>Long Time Mode</item>
         <item>General Mode</item>
         <item>First Mode</item>
      </string-array>
-     <string-array name="save_power_mode_values">
-        <item>00</item>
-        <item>01</item>
-        <item>11</item>
-     </string-array>
      <string-array name="screen_timeout_entries">
-        <item>15с</item>
-        <item>30с</item>
-        <item>1мин</item>
-        <item>2мин</item>
-        <item>10мин</item>
+        <item>15 с</item>
+        <item>30 с</item>
+        <item>1 мин</item>
+        <item>2 мин</item>
+        <item>10 мин</item>
      </string-array>
 </resources>
