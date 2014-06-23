@@ -2,67 +2,43 @@
 <!-- Builded with NXT -->
 <resources>
      <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-     </string-array>
-     <string-array name="carrier_properties">
-     </string-array>
-     <string-array name="common_nicknames">
-     </string-array>
-     <string-array name="config_cdma_dun_supported_types">
-     </string-array>
-     <string-array name="config_mobile_hotspot_provision_app">
-     </string-array>
-     <string-array name="config_oemUsbModeOverride">
-     </string-array>
-     <string-array name="config_serialPorts">
-     </string-array>
-     <string-array name="config_sms_enabled_locking_shift_tables">
-     </string-array>
-     <string-array name="config_sms_enabled_single_shift_tables">
-     </string-array>
-     <string-array name="config_tether_dhcp_range">
-     </string-array>
-     <string-array name="config_tether_wimax_regexs">
-     </string-array>
-     <string-array name="config_twoDigitNumberPattern">
-     </string-array>
-     <string-array name="config_usbHostBlacklist">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Вибросигнал</item>
+        <item>Считывать данные контактов</item>
+        <item>Изменение контактов</item>
+        <item>Просмотр списка вызовов</item>
+        <item>Изменение списка вызовов</item>
+        <item>Считывать данные календаря</item>
+        <item>Изменение календаря</item>
+        <item>Местоположение</item>
+        <item>Разместить уведомление</item>
+        <item>Местоположение</item>
+        <item>Позвонить</item>
+        <item>Чтение SMS</item>
+        <item>Изменение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение SMS</item>
+        <item>Получение MMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Чтение SMS</item>
+        <item>Изменение SMS</item>
+        <item>Изменение настроек</item>
+        <item>Отображать поверх других элементов</item>
+        <item>Доступ к уведомлениям</item>
+        <item>Камера</item>
+        <item>Записать аудио</item>
+        <item>Воспроизвести аудио</item>
+        <item>Считать из буфера обмена</item>
+        <item>Изменить буфер обмена</item>
+        <item>Включение/выключение Wi-Fi</item>
+        <item>Включение/выключение Bluetooth</item>
+        <item>Включение/выключение Моб. интернета</item>
+        <item>Отправка MMS</item>
+        <item>Чтение MMS</item>
+        <item>Изменение MMS</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Личный</item>
@@ -86,13 +62,6 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
-     <string-array name="maps_starting_lat_lng">
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-     </string-array>
-     <string-array name="maps_starting_zoom">
-        <item><!-- dummy item. no translate --></item>
-     </string-array>
      <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другое</item>
@@ -113,38 +82,5 @@
         <item>Рабочий</item>
         <item>Другой</item>
         <item>Создать свой ярлык</item>
-     </string-array>
-     <string-array name="preloaded_color_state_lists">
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
-        <item><!-- dummy item. no translate --></item>
      </string-array>
 </resources>
