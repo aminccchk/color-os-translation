@@ -9,8 +9,10 @@
      <string name="add_folder">Добавить папку</string>
      <string name="add_songs">Добавить треки</string>
      <string name="add_songs_complete">Готово</string>
+     <string name="add_to_fav_content">Выбрать %d для сохранения в Избранном?</string>
      <string name="add_to_fav_content_head">Выбрано</string>
      <string name="add_to_fav_content_trail">в мое избранное?</string>
+     <string name="add_to_fav_finish">%d добавлено в Избранное</string>
      <string name="add_to_fav_finish_head">Выбрано</string>
      <string name="add_to_fav_finish_trail">в мое избранное</string>
      <string name="add_to_fav_prompt">Добавлено в избранное</string>
@@ -166,6 +168,8 @@
      <string name="filter_condition_1">Current setting is to filter less than</string>
      <string name="filter_condition_2">Audio file!</string>
      <string name="filter_condition_3">and less than</string>
+     <string name="filter_condition_4">Текущие настройки фильтра: только файлы больше чем %s</string>
+     <string name="filter_condition_5">Текущие настройки фильтра: пропускать файлы меньше %1$s и короче %2$s</string>
      <string name="filter_setting">Настройка фильтра</string>
      <string name="get_content">Доступ к деталям…</string>
      <string name="global_sound">Глобальная громкость</string>
@@ -358,7 +362,9 @@
      <string name="recording">Identifying...</string>
      <string name="regular_close_max_time">90 ммн.</string>
      <string name="regular_close_min_time">1 мин.</string>
+     <string name="remove_from_fav_content">Удалить %d из Избранного?</string>
      <string name="remove_from_fav_content_trail">Удалить из моего избранного?</string>
+     <string name="remove_from_fav_finish">%d удалено из Избранного</string>
      <string name="remove_from_fav_finish_trail">Удалить из моего избранного</string>
      <string name="remove_from_fav_prompt">Удалить из избранного</string>
      <string name="removing">Убрать из избранного</string>

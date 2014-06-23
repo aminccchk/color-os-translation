@@ -769,6 +769,7 @@
      <string name="oppo_birthday_year">Год</string>
      <string name="oppo_black_list">Черный список</string>
      <string name="oppo_call_setting">Настройки вызовов</string>
+     <string name="oppo_calllog_emergency_number">Телефон экстренного вызова</string>
      <string name="oppo_calls_cannot_reach">Вызов отменен</string>
      <string name="oppo_cancel_copy_contact">Копирование контакта отменено</string>
      <string name="oppo_cancel_cut_contact">Перемещение контакта отменено</string>

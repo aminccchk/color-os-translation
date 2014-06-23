@@ -183,6 +183,7 @@
      <string name="please_move_or_delete">You can move or delete it.</string>
      <string name="please_move_to_screens_have_space">No space on this screen, drag to another screen to place.</string>
      <string name="real_weather">Связать с погодой</string>
+     <string name="rearrange_apps_by_name">Упорядочить по алфавиту</string>
      <string name="refresh">Обновить</string>
      <string name="rename_action">ОК</string>
      <string name="rename_folder_label">Название папки</string>
@@ -205,6 +206,7 @@
      <string name="switch_all">Все</string>
      <string name="switch_download">Загрузки</string>
      <string name="switch_regularly">Избранные</string>
+     <string name="sysfolder_game">Игры</string>
      <string name="sysfolder_safe">Security Settings</string>
      <string name="sysfolder_tool">Tools</string>
      <string name="tab_lock">Lockscreen</string>

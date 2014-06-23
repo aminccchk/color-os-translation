@@ -15,8 +15,13 @@
      <string name="auto_get_city_weather_infor">Auto get location</string>
      <string name="auto_get_loaction">Auto read local city</string>
      <string name="auto_refresh">Automatic updates</string>
+     <string name="auto_refresh_off">Автообновление выключено</string>
+     <string name="auto_refresh_on">Автообновление включено</string>
      <string name="base_weather_level">级</string>
+     <string name="beijing">Пекин</string>
      <string name="blue_warn_weather">蓝色</string>
+     <string name="button_cancel">Отмена</string>
+     <string name="button_enable">Включить</string>
      <string name="cacity">点击添加城市</string>
      <string name="cancel">Cancel</string>
      <string name="cancel_update_weather">Cancel update weather</string>
@@ -61,6 +66,7 @@ Please click the update button to update the weather</string>
      <string name="delete_current_city">Delete current city</string>
      <string name="dialog_ok">OK</string>
      <string name="dialog_return">Return</string>
+     <string name="display_set_oppo_style">Выполнено специально для OPPO</string>
      <string name="display_set_title">Display Settings</string>
      <string name="display_setting_calendar">Calendar</string>
      <string name="display_setting_description">Weather page display item</string>
@@ -99,6 +105,7 @@ Please click the update button to update the weather</string>
      <string name="get_location_failed">Failed to locate, please add city manually</string>
      <string name="get_location_same_location">City already existed</string>
      <string name="get_location_success">Locating successfully</string>
+     <string name="gps_tip_toast">Позволяйте определить местоположение по координатам сети</string>
      <string name="have_no_attent_city">No city exists，please add cities</string>
      <string name="health_suggestion_avoid_cold_description">The temperature difference between day and night is large, remember to add clothes or drink some radix isatidis to prevent cold.</string>
      <string name="health_suggestion_avoid_cold_title">Prevent Cold</string>
@@ -126,6 +133,8 @@ Please click the update button to update the weather</string>
      <string name="local_city_change_title">Modify the current city</string>
      <string name="local_city_not_opend">There is no city, whether to open automatically read my position to obtain the weather information(need network)</string>
      <string name="locate_city_exist">Local city is existing</string>
+     <string name="location_dialogue_title">Ошибка GPS</string>
+     <string name="location_improvement_tip">Не удается определить ваше местоположение, пожалуйста, разрешите использование координат сети в настройках местоположения.</string>
      <string name="long_time_not_update">Too long did not update , please refresh the data</string>
      <string name="menu_air_quality">空气质量</string>
      <string name="menu_edit_city">Edit Cities</string>
@@ -137,6 +146,7 @@ Please click the update button to update the weather</string>
      <string name="message_share">Message Sharing</string>
      <string name="next_day">Next Day</string>
      <string name="no_current_temp">--</string>
+     <string name="no_local_search_tip">Совпадений не найдено, нажмите на кнопку ввода, чтобы начать поиск онлайн</string>
      <string name="no_mobile_net">Mobile phone network unusable</string>
      <string name="no_more_data">No More Weather Info</string>
      <string name="no_more_data_url">The weather week international city weather data temporarily unable to provide , if demand , please login to see more data of the Central Bureau of Meteorology</string>
@@ -167,12 +177,16 @@ Please click the update button to update the weather</string>
      <string name="red_warn_weather">红色</string>
      <string name="refresh">Update immediately</string>
      <string name="refresh_from">Last updated time </string>
+     <string name="refresh_start_description">Обновляет только через 5 минут после последующего обновления</string>
      <string name="refresh_time">Updates frequency</string>
+     <string name="refresh_when_start">Обновлять при открытии Погода</string>
      <string name="saturday">六</string>
      <string name="save_changes_message">Exit city editor directly will lose changes.Save the edited list of cities?</string>
      <string name="save_changes_title">Save changes</string>
      <string name="search">搜索</string>
      <string name="search_hint">Search the Global city</string>
+     <string name="search_online">Поиск онлайн</string>
+     <string name="searching">Поиск…</string>
      <string name="semicolon">;</string>
      <string name="server_is_out">Service is temporarily unavailable,please try again later</string>
      <string name="seting">Setting</string>
@@ -198,7 +212,13 @@ Please click the update button to update the weather</string>
      <string name="startup_update_title">Update on open</string>
      <string name="suggestion_dress_title">Dressing Suggestion</string>
      <string name="suggestion_health_title">Health Suggestion</string>
+     <string name="suggestion_message_hint">Отзыв должен содержать от 5 до 200 символов.</string>
+     <string name="suggestion_message_tag">Содержание обратной связи</string>
      <string name="suggestion_oppo_weather">Suggestion</string>
+     <string name="suggestion_person_hint">Телефон/QQ/Email</string>
+     <string name="suggestion_person_tag">Контакт (Выборочно)</string>
+     <string name="suggestion_send">Отправить</string>
+     <string name="suggestion_titile">Обратная связь</string>
      <string name="suggestion_title">Today Suggestion</string>
      <string name="suggestion_to_engineer">Send suggestion to engineer</string>
      <string name="suggestion_trip_title">Trip Suggesion</string>
@@ -206,6 +226,7 @@ Please click the update button to update the weather</string>
      <string name="suitable_string">适宜</string>
      <string name="suitable_title">Suitable</string>
      <string name="sunday">日</string>
+     <string name="sunny_night">Ясно</string>
      <string name="sure_delete_city">Are you sure to delete current city?</string>
      <string name="temp1">℉</string>
      <string name="temp_one">Degrees Celsius</string>

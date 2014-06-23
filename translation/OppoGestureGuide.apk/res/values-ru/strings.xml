@@ -120,6 +120,7 @@
      <string name="smart_rotate_camera_title">Rotate to start camera</string>
      <string name="smart_screen_off">Smart sleep</string>
      <string name="smart_screen_off_summary">Screen will keep on when eyes stare at it</string>
+     <string name="smart_screen_off_title">Умный сон</string>
      <string name="string_mark_comma">,</string>
      <string name="system_body_motion_summary">Glove Mode,Prevent misoperation,Three fingers screenshot,Double finger volume control</string>
      <string name="system_body_motion_title">System Motion</string>

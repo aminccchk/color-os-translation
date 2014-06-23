@@ -511,9 +511,44 @@
         <item>吉林</item>
         <item>黑龙江</item>
      </string-array>
+     <string-array name="go_weather_type">
+        <item>Н/Д</item>
+        <item>Ясно</item>
+        <item>Малооблачно</item>
+        <item>Облачно</item>
+        <item>Снег</item>
+        <item>Туманно</item>
+        <item>Дождь</item>
+        <item>Гроза с ливнем</item>
+     </string-array>
+     <string-array name="go_wind_dir">
+        <item>N/A</item>
+        <item>Нет ветра</item>
+        <item>С</item>
+        <item>СВ</item>
+        <item>СВ</item>
+        <item>СВ</item>
+        <item>В</item>
+        <item>ЮВ</item>
+        <item>ЮВ</item>
+        <item>ЮВ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>ЮЗ</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+        <item>СЗ</item>
+        <item>СЗ</item>
+        <item>N/A</item>
+     </string-array>
      <string-array name="other_show_items">
         <item>Wind</item>
         <item>Calendar</item>
+     </string-array>
+     <string-array name="pic_style">
+        <item>в стиле OPPO</item>
+        <item>HD изображения</item>
      </string-array>
      <string-array name="re_cityname">
         <item>伊通</item>

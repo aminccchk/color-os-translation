@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
+     <string name="app_name">OppoKinectService</string>
      <string name="colorOS_name">ColorOSKinectService</string>
      <string name="hello">Hello World, OppoKinectServiceActivity!</string>
      <string name="oppo_name">OppoKinectService</string>

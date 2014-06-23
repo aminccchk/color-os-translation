@@ -264,6 +264,9 @@
      <string name="biometric_weak_improve_matching_title">Настройка распознавания</string>
      <string name="biometric_weak_liveliness_summary">Нужно моргнуть, чтобы разблокировать экран</string>
      <string name="biometric_weak_liveliness_title">Настоящий фейсконтроль</string>
+     <string name="black_wakeup_content">Голосовая команда пробуждения</string>
+     <string name="black_wakeup_hint">Примечание: в стандартном американском английском</string>
+     <string name="black_wakeup_switch_summary">Для пробуждения Google Now можно подать голосовую команду даже при выключенном экране</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Подключено к мультимедийному аудиоустройству</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Использовать для мультимедийного аудиоустройства</string>
      <string name="bluetooth_advanced_titlebar">Расш. настройки Bluetooth</string>
@@ -475,6 +478,9 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="controls_label">Элементы управления</string>
      <string name="controls_subtitle">Режим энергопотребления</string>
      <string name="copyright_title">Авторские права</string>
+     <string name="cpu_sign_ghz_format">%s ГГц</string>
+     <string name="cpu_sign_khz_format">%s KГц</string>
+     <string name="cpu_sign_mhz_format">%s MГц</string>
      <string name="create">Создать</string>
      <string name="credential_storage_type">Storage type</string>
      <string name="credential_storage_type_hardware">Hardware-backed</string>
@@ -599,6 +605,7 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
      <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
      <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
+     <string name="data_warning_title">Уведомление</string>
      <string name="date_and_time">Настройки даты и времени</string>
      <string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
      <string name="date_and_time_settings_title">Дата и время</string>
@@ -707,6 +714,10 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="dolby_effect_title">Dolby</string>
      <string name="double_click_wake_up">“Нажмите два раза для включения”</string>
      <string name="double_click_wake_up_summary">“Когда экран выключен, для включения экрана нажмите в любом месте на него два раза”</string>
+     <string name="drm_reset_dialog_msg">Это приведет к удалению всех лицензий DRM на вашем телефоне. Хотите продолжить?</string>
+     <string name="drm_reset_toast_msg">Лицензия DRM успешно удалена.</string>
+     <string name="drm_settings_summary">Удалить все лицензии DRM</string>
+     <string name="drm_settings_title">Сброс DRM</string>
      <string name="dtmf_tone_enable_title">Звук клавиш</string>
      <string name="dual_play_summary">Hold down the Back to call out/hide the DualPlay</string>
      <string name="dual_play_title">DualPlay</string>
@@ -948,6 +959,8 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="local_backup_password_toast_success">Новый резервный пароль установлен</string>
      <string name="local_backup_password_toast_validation_failure">Не удалось установить резервный пароль</string>
      <string name="local_en_us">США</string>
+     <string name="local_es_mx">Мексика</string>
+     <string name="local_hi_in">Индия</string>
      <string name="local_in_id">Индонезия</string>
      <string name="local_other">Другое</string>
      <string name="local_ru_ru">Россия</string>
@@ -1087,6 +1100,10 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="media_volume_summary">Настроить громкость музыки и видео</string>
      <string name="media_volume_title">Мультимедиа</string>
      <string name="medium_font">Среднее</string>
+     <string name="mem_sign_byte_format">%s б</string>
+     <string name="mem_sign_gbyte_format">%s Гб</string>
+     <string name="mem_sign_kbyte_format">%s Кб</string>
+     <string name="mem_sign_mbyte_format">%s Мб</string>
      <string name="memery_clean_data_empty_result">Закрыто %1$s приложений</string>
      <string name="memery_clean_empty_result">Ваш телефон в лучшем состоянии</string>
      <string name="memery_clean_result">Закрыто приложений: %1$s, %2$s памяти освобождено</string>
@@ -1390,6 +1407,13 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="recognizer_settings_title">Голосовой поиск</string>
      <string name="recognizer_title">Распознавание голоса</string>
      <string name="recompute_size">Повторное вычисление размера...</string>
+     <string name="region_Katar">Катар</string>
+     <string name="region_Myanmar">Мьянма</string>
+     <string name="region_denmark">Дания</string>
+     <string name="region_malaysia">Малайзия</string>
+     <string name="region_philippines">Филиппины</string>
+     <string name="region_singapore">Сингапур</string>
+     <string name="region_taiwan">Тайвань</string>
      <string name="regulatory_info_text"></string>
      <string name="regulatory_information">Юридическая информация</string>
      <string name="remove_account_failed">Аккаунт необходим для доступа к некоторым приложениям. Чтобы удалить его, нужно восстановить на устройстве настройки по умолчанию (в результате все личные данные будут удалены). Это можно сделать в разделе "Настройки > "Резервное копирование и сброс".</string>
@@ -1426,6 +1450,7 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="restriction_wifi_config_title">Wi‑Fi and Mobile</string>
      <string name="ring_volume_title">Громкость звонка</string>
      <string name="ringtone_default">Мелодия по умолчанию</string>
+     <string name="ringtone_silent">Без звука</string>
      <string name="ringtone_summary"></string>
      <string name="ringtone_title">Сигнал вызова</string>
      <string name="roaming">Интернет-роуминг</string>
@@ -1707,6 +1732,8 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="tab_sound">Аудио</string>
      <string name="terms_title">Условия использования</string>
      <string name="testing">Проверка</string>
+     <string name="testing_2g3g_optimization">Оптимизация подключения</string>
+     <string name="testing_2g3g_optimization_prompt">Оптимизация подключения к мобильной сети (требуется перезагрузка)</string>
      <string name="testing_battery_info">Информация о батарее</string>
      <string name="testing_phone_info">Информация о телефоне</string>
      <string name="testing_sim_toolkit">SIM toolkit</string>
@@ -1719,6 +1746,10 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="tether_settings_title_wifi">Точка доступа Wi-Fi</string>
      <string name="tethering_help_button_text">Справка</string>
      <string name="thanks_person_list">Особая благодарность</string>
+     <string name="thanks_title">%1$s - это продукт, появление которого было бы невозможным без поддержки наших фанатов со всего мира. OPPO выражает свою признательность всем, кто сообщал о найденных недостатках и предлагал свои идеи, что помогло нам сделать этот продукт еще лучше. Мы обещаем, что мы никогда не перестанем совершенствоваться, и никогда не перестанем стремиться к наивысшему качеству нашей продукции. 
+
+Мы хотим передать особую благодарность всем Послам OPPO, которые провели бессчетное количество времени помогая локализовать и тестировать наш продукт в своих регионах. OPPO выражает благодарность за совместную работу. В алфавитном порядке:
+</string>
      <string name="time_picker_title">Время</string>
      <string name="time_zone_auto_stub">Select Time Zone</string>
      <string name="timepower_edit_title">Установить время</string>
@@ -2120,6 +2151,7 @@ Type PIN to pair with "%1$s". [High Security Enabled: Needs 16 character key]</s
      <string name="wifi_network_netmask_hint">255.255.255.0</string>
      <string name="wifi_network_prefix_length">Длина префикса сети</string>
      <string name="wifi_no_cert_for_wapi">Не удается найти сертификат для текущей точки доступа</string>
+     <string name="wifi_no_devices_found">Не удалось обнаружить беспроводную сеть</string>
      <string name="wifi_not_in_range">Недоступна</string>
      <string name="wifi_notify_open_networks">Уведомления о сетях</string>
      <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>

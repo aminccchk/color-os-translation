@@ -416,6 +416,10 @@
         <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
         <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
      </string-array>
+     <string-array name="wakeup_hint_word">
+        <item>Hello My OPPO (Доступно только при установке региона Таиланд или Вьетнам)</item>
+        <item>Hey Snapdragon (Примечание: для стандартного американского английского)</item>
+     </string-array>
      <string-array name="wifi_ap_security">
         <item>Open</item>
         <item>WPA PSK</item>

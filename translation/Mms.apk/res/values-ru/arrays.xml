@@ -397,6 +397,11 @@
         <item>167</item>
         <item>255</item>
      </string-array>
+     <string-array name="pref_sms_input_mode_choice">
+        <item>GSM алфавит</item>
+        <item>Unicode</item>
+        <item>Авто</item>
+     </string-array>
      <string-array name="pref_sms_save_location_choices">
         <item>Телефона</item>
         <item>SIM-карта</item>

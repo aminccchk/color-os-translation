@@ -5,8 +5,16 @@
         <item quantity="one">%d file</item>
         <item quantity="other">%d file</item>
      </plurals>
+     <plurals name="dialog_status_files_exp">
+        <item quantity="one">%d Файл</item>
+        <item quantity="other">%d Файлов</item>
+     </plurals>
      <plurals name="dialog_status_folders">
         <item quantity="one">%d folder,</item>
         <item quantity="other">%d folder,</item>
+     </plurals>
+     <plurals name="dialog_status_folders_exp">
+        <item quantity="one">%d папка, </item>
+        <item quantity="other">%d папок, </item>
      </plurals>
 </resources>

@@ -5,6 +5,8 @@
      <string name="close_network_alert">Отключение сети</string>
      <string name="close_network_beyond_the_packages_string">The month mobile data package had run out，to avoid your lose，mobile data closed already.</string>
      <string name="close_network_beyond_the_packages_string_toggle">При превышении трафика, сеть будет отключена</string>
+     <string name="close_network_when_screen_off_alert">Отключить передачу данных при выключении экрана</string>
+     <string name="close_network_when_screen_off_string">Отключить передачу данных через 2 сек. после выключения экрана</string>
      <string name="data_usage_SIM_card1">SIM-карта 1</string>
      <string name="data_usage_SIM_card2">SIM-карта 2</string>
      <string name="data_usage_WIFI_data_mouth_use_string">Использовано через Wi-Fi в этом месяце: %1$s</string>

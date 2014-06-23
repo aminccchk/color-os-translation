@@ -8,6 +8,7 @@
      <string name="delete">Удалить</string>
      <string name="delete_confirm">Вы уверены, что вы хотите удалить?</string>
      <string name="live_wallpaper_loading">Loading live wallpaper...</string>
+     <string name="live_wallpaper_picker_title">Выберите Живые обои</string>
      <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
      <string name="livepaper">Живые обои</string>
      <string name="livepaper_using">Данные живые обои используются, удаление невозможно!</string>

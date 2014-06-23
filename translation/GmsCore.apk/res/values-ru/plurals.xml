@@ -37,9 +37,16 @@
         <item quantity="one">Игроков: %1$s</item>
         <item quantity="other">Игроков: %1$s</item>
      </plurals>
+     <plurals name="games_notification_new_activity">
+        <item quantity="one">Доступно действие в игре</item>
+        <item quantity="other">Новые действия в играх: %1$d</item>
+     </plurals>
      <plurals name="games_notification_new_match_activity">
         <item quantity="one">Новости из игры (%1$d)</item>
         <item quantity="other">Новости из игры (%1$d)</item>
+     </plurals>
+     <plurals name="games_notification_non_acl_summary">
+        <item quantity="other">И ещё %1$d</item>
      </plurals>
      <plurals name="games_select_players_current_count_format">
         <item quantity="one">Игроки</item>
@@ -52,6 +59,19 @@
      <plurals name="games_select_players_slots_remaining_format">
         <item quantity="one">Пригласите игроков (не более %1$d)</item>
         <item quantity="other">Пригласите игроков (не более %1$d)</item>
+     </plurals>
+     <plurals name="games_tile_request_summary_gift_count_format">
+        <item quantity="one">Подарков: %1$d</item>
+        <item quantity="other">Подарков: %1$d</item>
+     </plurals>
+     <plurals name="games_tile_request_summary_player_names_html">
+        <item quantity="one">От пользователя <b>%1$s</b></item>
+        <item quantity="other">От пользователя <b>%1$s</b>
+и других игроков</item>
+     </plurals>
+     <plurals name="games_tile_request_summary_wish_count_format">
+        <item quantity="one">Запросов: %1$d</item>
+        <item quantity="other">Запросов: %1$d</item>
      </plurals>
      <plurals name="games_waiting_room_players_ready">
         <item quantity="one">Игроков: %1$d</item>
@@ -76,6 +96,13 @@
      <plurals name="plus_num_minutes_ago">
         <item quantity="one">%d мин.</item>
         <item quantity="other">%d мин.</item>
+     </plurals>
+     <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="few">%1$s чел.</item>
+        <item quantity="many">%1$s чел.</item>
+        <item quantity="one">%1$s чел.</item>
+        <item quantity="other">%1$s чел.</item>
+        <item quantity="two">%1$s чел.</item>
      </plurals>
      <plurals name="wallet_minutes">
         <item quantity="one">мин.</item>

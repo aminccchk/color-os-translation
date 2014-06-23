@@ -121,6 +121,8 @@
      <string name="confirm_dialog_locked_title">Удалить</string>
      <string name="confirm_dialog_title">Удалить</string>
      <string name="confirm_rate_limit">Отправляется большое количество мультимедиа сообщений.?</string>
+     <string name="confirm_send_message">Сообщение может быть повреждено в приемном устройстве. Переключите режим ввода на Auto</string>
+     <string name="confirm_send_title">Внимание!</string>
      <string name="contact_file_incoming_title">Опции</string>
      <string name="content_blank_warning">Контент не может быть пустым!</string>
      <string name="converting_to_picture_message">Преобразование в сообщение MMS...</string>
@@ -365,6 +367,7 @@
      <string name="no_such_recipient">Получателя не существует</string>
      <string name="no_timer_messages">Нет сообщений по расписанию</string>
      <string name="not_resend">Please resend after dealing with the existing message.</string>
+     <string name="not_show_again">Больше не показывать</string>
      <string name="notification_failed_multiple">Сообщений не удалось отправить: %s.</string>
      <string name="notification_failed_multiple_title">Сообщения не отправлены</string>
      <string name="notification_multiple">Непрочитанных сообщений: %s</string>
@@ -405,6 +408,7 @@
      <string name="oppo_backup_bottom">Резервное копирование</string>
      <string name="oppo_backup_file_name_same">Файл уже существует. Заменить?</string>
      <string name="oppo_backup_indicator">Справка: максимум 20 символов</string>
+     <string name="oppo_backup_indicator_exp">Справка: максимум 40 символов</string>
      <string name="oppo_backup_name_enter">Введите имя файла</string>
      <string name="oppo_backup_range">Экспорт</string>
      <string name="oppo_backup_rename_same">Файл существует, измените</string>
@@ -692,6 +696,8 @@
      <string name="pref_auto_delete_limit">Удалять сообщения при заполнении памяти</string>
      <string name="pref_cloudmsg_instructions">Подробнее</string>
      <string name="pref_cloudmsg_title">Настройки Cloud мессенджера</string>
+     <string name="pref_configuration_messages">Конфигурация</string>
+     <string name="pref_configuration_messages_title">Настройки отображения</string>
      <string name="pref_messages_to_save">Установить число сохраняемых сообщений MMS</string>
      <string name="pref_messages_to_save_sms">Установить число сообщений для сохранения SMS</string>
      <string name="pref_mms_auto_retrieval">Автоматически загружать mms</string>
@@ -853,6 +859,9 @@
      <string name="sms_forward_setting_summary">Добавлять информацию об отправителе при пересылке полученных сообщений.</string>
      <string name="sms_full_body">Входящее сообщение не принято. Память заполнена. Удалите старые сообщения.</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена.</string>
+     <string name="sms_input_mode_dialog_title">Выберите режим ввода</string>
+     <string name="sms_input_mode_summary">Формат ввода текста SMS</string>
+     <string name="sms_input_mode_title">Режим ввода</string>
      <string name="sms_memo_month">月</string>
      <string name="sms_memo_month_day">日</string>
      <string name="sms_memo_month_day_2">号</string>

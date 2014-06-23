@@ -5,7 +5,9 @@
      <string name="app_name">Питание</string>
      <string name="application_drain_label">Приложение</string>
      <string name="auto_lock_power">Режим отключенного экрана</string>
+     <string name="auto_lock_power_summary">%2$s минута после выключения экрана, принудительная активация %1$s. Включите экран для восстановления режима перед выключением экрана</string>
      <string name="auto_low_power">Режим питания от батареи</string>
+     <string name="auto_low_power_summary">Когда энергия батареи ниже чем %2$s%%, принудительно активируется %1$s</string>
      <string name="automatic">Автоматически</string>
      <string name="automatic_brightness">Автояркость</string>
      <string name="battery_history_days">%1$dд.%2$dч.%3$dм.%4$dс.</string>
@@ -19,6 +21,8 @@
      <string name="brightness_summary">Backlight brightness is %1$s%%</string>
      <string name="can_not_delete">Не возможно использовать режим использования!</string>
      <string name="cancel">Отмена</string>
+     <string name="change_mode_add_clue">Изменить на %1$s, время ожидания %2$s (больше %3$s)</string>
+     <string name="change_mode_sub_clue">Изменить на %1$s, время ожидания %2$s (меньше %3$s)</string>
      <string name="change_mode_title">Изменить режим</string>
      <string name="clear_label">Очистить</string>
      <string name="close_gps_wifi_bt_gprs_summary">Закройте выше приведённые функции, это позволит Вам продлить время работы батареи.</string>
@@ -29,6 +33,7 @@
      <string name="disable_button">Закрыто</string>
      <string name="display_power_percent">Показывать процент заряда в панели статуса</string>
      <string name="display_settings">Настройки экрана</string>
+     <string name="enable_animation_title">Выключить анимацию</string>
      <string name="enable_autosync">Автосинхрон.</string>
      <string name="enable_autosync_summary">Выключение автосинхронизации может снизить потребление энергии</string>
      <string name="enable_bluetooth">Bluetooth</string>
@@ -38,6 +43,8 @@
      <string name="enable_brightness_mode">Экономия питания экрана</string>
      <string name="enable_brightness_mode_summary">Использовать экономный режим экрана</string>
      <string name="enable_button">Открыто</string>
+     <string name="enable_clear_back_title">Нет фоновых приложений</string>
+     <string name="enable_down_cpu_title">Снизить частоту CPU</string>
      <string name="enable_gps">GPS</string>
      <string name="enable_gps_summary">Выключение GPS может снизить потребление энергии</string>
      <string name="enable_hapticfeedback">Отключить виброотклик</string>
@@ -47,8 +54,10 @@
      <string name="enable_notification">Уведомления</string>
      <string name="enable_notification_summary">Отображать энергию батареи в строке состояния</string>
      <string name="enable_power_manager_toast">Режим экономии энергии вкл.</string>
+     <string name="enable_screen_tag">Низкая яркость экрана поможет увеличить срок автономной работы.</string>
      <string name="enable_silence">Вибрация</string>
      <string name="enable_silence_summary">Выключение вибрации может снизить энергопотребление</string>
+     <string name="enable_simple_launch_title">Будут отключены функции связи, кроме вызова и SMS</string>
      <string name="enable_smartamplify">Smart PA</string>
      <string name="enable_smartamplify_summary">Unavailable in music, videos and games when turned off</string>
      <string name="enable_wlan">Wi-Fi</string>
@@ -59,7 +68,22 @@
      <string name="first_mode">默认省电模式</string>
      <string name="first_mode_summary">Системные настройки сохранились, когда вы запустили программное обеспечение первый раз</string>
      <string name="full_need_time">До конца зарядки: </string>
+     <string name="full_year_month_day_week">yyyy.MM.dd EEEE</string>
      <string name="hardware_drain_label">HW</string>
+     <string name="help_string">Обычное энергосбережение:
+1. Экран Включение режима экономии энергии снизит яркость экрана, что поможет увеличить срок автономной работы. 
+2. Вибрация Виброотклик телефона будет отключен, так как вибрация потребляет много энергии. 
+3. Беспроводные интерфейсы Отключение GPS, Wi-Fi, Bluetooth и мобильной передачи данных может серьезно увеличить срок автономной работы. 
+Отключение данных функций прервет соединение с сетью интернет, однако не повлияет на возможность общения голосом или сообщениями. 
+Глубокое энергосбережение:
+1. Анимация 
+Данная функция отключает отображение анимации, что уменьшает энергопотребление за счет отключения визуальных эффектов.
+2. Связь
+Данная функция отключает любую передачу данных, кроме звонков и сообщений.
+3. Частота CPU
+Данная функция позволяет значительно снизить энергопотребление за счет снижения частоты CPU, однако это также приведет к снижению производительности системы.
+4. Фоновая работа
+Данная функция приостанавливает работу всех приложений в фоне. Значительно снижает энергопотребление, но может помешать нормальной работе приложений.</string>
      <string name="hour_label">ч.</string>
      <string name="is_changed">[Изменен]</string>
      <string name="label_text_V">V</string>
@@ -99,6 +123,7 @@
      <string name="mode_title">Список режимов</string>
      <string name="new_power_mode">Пользовательский режим</string>
      <string name="on_schedule_power">Переключение режима планирования</string>
+     <string name="on_schedule_power_summary">Включить %1$s когда %2$s</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_cell">Сотовая сеть</string>
      <string name="power_charging_remind">Напоминание о зарядке</string>
@@ -117,7 +142,14 @@
      <string name="power_mode_title">Выбор режима</string>
      <string name="power_phone">Голосовые вызовы</string>
      <string name="power_remind_setting">Настройки уведомлений</string>
+     <string name="power_save_deep">Глубокое энергосбережение</string>
+     <string name="power_save_deep_tips">Глубокое энергосбережение</string>
      <string name="power_save_mode">Энергосберегающий режим</string>
+     <string name="power_save_nomal_tips">Обычное энергосбережение</string>
+     <string name="power_save_normal">Обычное энергосбережение</string>
+     <string name="power_save_setting">Настройки экономии энергии</string>
+     <string name="power_save_touch">Нажмить чтобы настроить</string>
+     <string name="power_save_using_title">Инструкции</string>
      <string name="power_saving_help">Подсказки по экономии энергии</string>
      <string name="power_saving_setting">Настройки энергосбережения</string>
      <string name="power_saving_tips">Советы по экономии энергии</string>
@@ -130,6 +162,7 @@
      <string name="process_mediaserver_label">Сервис медиа</string>
      <string name="prompt_apps_forcestop_label">Приложение для закрытия!</string>
      <string name="prompt_system_app_label">Приложение ОС Android!</string>
+     <string name="quit">Выйти</string>
      <string name="refresh_label">Обновить</string>
      <string name="rename">Переименовать</string>
      <string name="save">Сохранить</string>
@@ -145,6 +178,8 @@
      <string name="super_mode">超长省电模式</string>
      <string name="super_mode_summary">Включить только функции коммуникации и выключить другие потребляющие энергию функции.</string>
      <string name="time_input_error">Одинаковое время, авто добавление 1</string>
+     <string name="twelve_hour_time_format">h:mm a</string>
+     <string name="twenty_four_hour_time_format">HH:mm</string>
      <string name="unenable_power_manager_toast">Режим экономии энергии выкл.</string>
      <string name="values_check_dual_name">Это имя уже существует, пожалуйста введите другое имя!</string>
      <string name="values_check_long">Превышена длина ввода!</string>

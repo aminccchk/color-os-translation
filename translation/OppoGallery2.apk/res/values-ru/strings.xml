@@ -258,6 +258,7 @@
      <string name="no_storage_message">Недоступна память</string>
      <string name="no_storage_title">Недоступна память</string>
      <string name="no_such_item">Элемент не найден.</string>
+     <string name="no_thumb_btn_on">Отключите 'Загружать превью' в меню настроек</string>
      <string name="no_thumbnail">Нет уменьшенного изображения</string>
      <string name="no_transfer_task">Заданий на перемещение нет</string>
      <string name="nomore_remind">Do more remind</string>
@@ -402,6 +403,7 @@
      <string name="text_photo_size">Collage size settings</string>
      <string name="text_print">Add a comment...</string>
      <string name="text_share_setting">Sharing settings</string>
+     <string name="thumb_load_faild">Незагружено, проверьте сеть!</string>
      <string name="time">Время</string>
      <string name="times">Даты</string>
      <string name="tint">Оттенок</string>

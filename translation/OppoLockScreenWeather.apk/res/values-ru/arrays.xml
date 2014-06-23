@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
+     <string-array name="go_weather_type">
+        <item>Н/Д</item>
+        <item>Ясно</item>
+        <item>Малооблачно</item>
+        <item>Облачно</item>
+        <item>Снег</item>
+        <item>Туманно</item>
+        <item>Дождь</item>
+        <item>Гроза с ливнем</item>
+     </string-array>
      <string-array name="lockscreen_direction_descriptions">
         <item><!-- dummy item. no translate --></item>
         <item><!-- dummy item. no translate --></item>
