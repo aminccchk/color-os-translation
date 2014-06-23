@@ -65,16 +65,16 @@
      <string-array name="config_usbHostBlacklist">
      </string-array>
      <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Личный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
      </string-array>
      <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
      </string-array>
      <string-array name="imProtocols">
         <item>AIM</item>
@@ -94,25 +94,25 @@
         <item><!-- dummy item. no translate --></item>
      </string-array>
      <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Рабочий</item>
+        <item>Другое</item>
+        <item>Создать свой ярлык</item>
      </string-array>
      <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
-        <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
      </string-array>
      <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Создать свой ярлык</item>
      </string-array>
      <string-array name="preloaded_color_state_lists">
         <item><!-- dummy item. no translate --></item>

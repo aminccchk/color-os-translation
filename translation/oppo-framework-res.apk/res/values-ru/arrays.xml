@@ -247,19 +247,19 @@
         <item>12 月</item>
      </string-array>
      <string-array name="oppo_permissions_prompt">
-        <item>make a call</item>
-        <item>access call logs</item>
-        <item>access contacts</item>
-        <item>access sms/mms logs</item>
-        <item>send message</item>
-        <item>send mms</item>
-        <item>enable/disable data network</item>
-        <item>enable/disable WLAN</item>
-        <item>enable/disable Bluetooth</item>
-        <item>use GPS positioning (Note: Applications may also get your location by other means)</item>
-        <item>take a photo/video</item>
-        <item>record sound or record your calls</item>
-        <item>enable/disable NFC</item>
+        <item>звонить</item>
+        <item>просматривать журнал вызовов</item>
+        <item>просматривать контакты</item>
+        <item>просматривать SMS/MMS</item>
+        <item>отправлять SMS</item>
+        <item>отправлять MMS</item>
+        <item>управлять подключением передачи данных</item>
+        <item>управлять подключением Wi-Fi</item>
+        <item>управлять подключением BT</item>
+        <item>определять ваше местонахождение через GPS</item>
+        <item>использовать камеру</item>
+        <item>записывать звук</item>
+        <item>использовать NFC</item>
      </string-array>
      <string-array name="oppo_plmn_mcc_mnc">
         <item>46001mmcmnc</item>
@@ -456,24 +456,24 @@
         <item>Enjoy</item>
         <item>Soul</item>
         <item>Colorful life</item>
-        <item>Dancing in the wind</item>
+        <item>Dance in the wind</item>
         <item>Colorful day</item>
         <item>Afternoon</item>
         <item>Water</item>
         <item>Fun</item>
-        <item>Rattled</item>
+        <item>Lectro beat</item>
         <item>Delight</item>
-        <item>Classic ringtone 1</item>
-        <item>Classic ringtone 2</item>
+        <item>Classic ring 1</item>
+        <item>Classic ring 2</item>
         <item>Gentle</item>
         <item>Cordial</item>
         <item>Funny</item>
         <item>Sunrise</item>
-        <item>Fingertips jumping</item>
+        <item>Fingertips jump</item>
         <item>Night</item>
         <item>Beautiful village</item>
         <item>Barbara</item>
-        <item>Joy</item>
+        <item>Happiness</item>
         <item>Spar</item>
         <item>Buzz</item>
         <item>Echo</item>
@@ -488,12 +488,12 @@
         <item>Birds</item>
         <item>Droplets</item>
         <item>Naughty</item>
-        <item>Sea</item>
+        <item>Sound of the sea</item>
         <item>Forest</item>
         <item>Bright</item>
         <item>Far away</item>
-        <item>Joyful</item>
-        <item>Alarm beep</item>
+        <item>Joy</item>
+        <item>Electronic alarm</item>
         <item>Morning</item>
         <item>Sunny afternoon</item>
      </string-array>
