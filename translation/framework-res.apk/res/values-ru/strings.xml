@@ -452,13 +452,11 @@
      <string name="launch_warning_title">Приложение перенаправлено</string>
      <string name="list_delimeter">, </string>
      <string name="loading">Загрузка…</string>
-     <string name="locale_replacement"></string>
-     <string name="lock_pattern_view_aspect">square</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Графический ключ сброшен</string>
      <string name="lockscreen_access_pattern_detected">Графический ключ введен</string>
      <string name="lockscreen_access_pattern_start">Ввод графического ключа</string>
-     <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
+     <string name="lockscreen_airplane_mode_on">Авиарежим</string>
      <string name="lockscreen_battery_short">%d%%</string>
      <string name="lockscreen_carrier_default">Нет сигнала</string>
      <string name="lockscreen_charged">Заряжено</string>
@@ -855,8 +853,8 @@
      <string name="permgrouplab_voicemail">Голосовая почта</string>
      <string name="permgrouplab_wallpaper">Обои</string>
      <string name="permgrouplab_writeDictionary">Запись данных в пользовательский словарь</string>
-     <string name="permission">Permission</string>
-     <string name="permission_remember_choice">Remember</string>
+     <string name="permission">Разрешение</string>
+     <string name="permission_remember_choice">Запомнить</string>
      <string name="permission_request_notification_title">Разрешение запрошено</string>
      <string name="permission_request_notification_with_subtitle">Требуется разрешение
 для аккаунта %s.</string>
@@ -1075,7 +1073,7 @@
      <string name="phoneTypeWorkMobile">Рабочий моб.</string>
      <string name="phoneTypeWorkPager">Раб. пейджер</string>
      <string name="pinpuk_attempts">
-Attempts Remaining :</string>
+Осталось попыток:</string>
      <string name="policydesc_disableCamera">Запретить использование камер на устройстве.</string>
      <string name="policydesc_disableKeyguardFeatures">Запретить использование некоторых функций блокировки клавиатуры.</string>
      <string name="policydesc_encryptedStorage">Шифровать данные приложений в хранилище.</string>
@@ -1107,7 +1105,7 @@ Attempts Remaining :</string>
      <string name="preposition_for_time">в %s</string>
      <string name="preposition_for_year">в %s г.</string>
      <string name="progress_erasing">Очистка SD-карты...</string>
-     <string name="progress_nomediapresent">No removable media present…</string>
+     <string name="progress_nomediapresent">Нет SD-карты…</string>
      <string name="progress_unmounting">Отключение SD-карты...</string>
      <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
      <string name="reboot_safemode_title">Переход в безопасный режим</string>
@@ -1236,7 +1234,7 @@ Attempts Remaining :</string>
      <string name="sipAddressTypeOther">Другой</string>
      <string name="sipAddressTypeWork">Рабочий</string>
      <string name="skip_button_label">Пропустить</string>
-     <string name="sms_control_message"><b>%1$s</b> отправляет большое количество SMS. Разрешить приложению и дальше отправлять сообщения?</string>
+     <string name="sms_control_message">%1$s отправляет большое количество SMS. Разрешить приложению и дальше отправлять сообщения?</string>
      <string name="sms_control_no">Запретить</string>
      <string name="sms_control_title">Отправка SMS-сообщений</string>
      <string name="sms_control_yes">Разрешить</string>
@@ -1254,13 +1252,6 @@ Attempts Remaining :</string>
      <string name="ssl_certificate">Сертификат безопасности</string>
      <string name="ssl_certificate_is_valid">Этот сертификат действителен.</string>
      <string name="status_bar_device_locked">Устройство заблокировано.</string>
-     <string name="status_bar_notification_info_overflow">>999</string>
-     <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
-     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
-     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
-     <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
-     <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
-     <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
      <string name="storage_internal">Внутренняя память</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">USB-накопитель</string>
