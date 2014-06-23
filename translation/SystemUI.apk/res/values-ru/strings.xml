@@ -4,7 +4,7 @@
      <string name="accessibility_airplane_mode">Режим полета.</string>
      <string name="accessibility_back">Назад</string>
      <string name="accessibility_battery_full">Батарея полностью заряжена.</string>
-     <string name="accessibility_battery_level">Battery %dpercent.</string>
+     <string name="accessibility_battery_level">Батарея: %d%%</string>
      <string name="accessibility_battery_one_bar">Заряд батареи: одно деление.</string>
      <string name="accessibility_battery_three_bars">Заряд батареи: три деления.</string>
      <string name="accessibility_battery_two_bars">Заряд батареи: два деления.</string>
@@ -65,7 +65,7 @@
      <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
      <string name="always_use_device">Использовать по умолчанию для этого USB-устройства</string>
      <string name="app_label">Строка состояния</string>
-     <string name="application_info">App info</string>
+     <string name="application_info">О приложении</string>
      <string name="apps_closed_and_memory_released">Закрытых приложений:%1$sОсвобожденая память:%2$s</string>
      <string name="autorotate">Автоповорот</string>
      <string name="battery_contact_anomaly">Ошибка батареи</string>
@@ -89,9 +89,9 @@
  Замените батарею!</string>
      <string name="bluetooth">Bluetooth</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
-     <string name="bottom_button_add">Использовать жест как</string>
+     <string name="bottom_button_add">Добавить</string>
      <string name="bottom_button_cancle">Отмена</string>
-     <string name="bottom_button_clear">Начертите еще раз</string>
+     <string name="bottom_button_clear">Очистить</string>
      <string name="bottom_button_set">Настройки</string>
      <string name="brightness">Яркость</string>
      <string name="builtin_installer_always_allowed">Не показывать в следующий раз</string>
@@ -154,7 +154,7 @@
      <string name="gps">GPS</string>
      <string name="gps_notification_found_text">Координаты по GPS</string>
      <string name="gps_notification_searching_text">Поиск GPS</string>
-     <string name="guide_button_string">Got it</string>
+     <string name="guide_button_string">Понял</string>
      <string name="guide_text_string">Try to slide down from here!</string>
      <string name="have_new_message">SMS</string>
      <string name="have_new_notification">Новые уведомления</string>
@@ -163,13 +163,13 @@
 Используйте только зарядное устройство из комплекта поставки.</string>
      <string name="label_view">Просмотр</string>
      <string name="locknow_name">Погасить экран</string>
-     <string name="lockscreen_carrier_default">No service</string>
+     <string name="lockscreen_carrier_default">Нет сети</string>
      <string name="meeting">Офис</string>
      <string name="memery_clean_result">Закрытых приложений: %1$s Освобожденая память: %2$s</string>
      <string name="memery_left">Память: %1$s</string>
      <string name="memery_total">Всего: %1$s</string>
-     <string name="memory_can_use">%1$s Свободно</string>
-     <string name="memory_used">Использовано %1$s</string>
+     <string name="memory_can_use">свободно: %1$s</string>
+     <string name="memory_used">%1$s занято</string>
      <string name="messages_service">SMS</string>
      <string name="miss_phone">Пропущенных вызовов</string>
      <string name="miss_phones">Пропущенных вызовов: *</string>
@@ -180,12 +180,12 @@
      <string name="new_message">Новое сообщение</string>
      <string name="no_service">Нет сети</string>
      <string name="no_sim">Нет SIM-карты</string>
-     <string name="non_orginal_charge_complete_issue">Non-original battery.Battery can not be fully charged for the sake of your safety.</string>
-     <string name="non_orginal_charge_complete_title">Charging complete</string>
+     <string name="non_orginal_charge_complete_issue">Non-original battery. Battery can not be fully charged for the sake of your safety.</string>
+     <string name="non_orginal_charge_complete_title">Зарядка завершена</string>
      <string name="normal">Общие</string>
      <string name="not_define_gesturn">Не найден жест</string>
      <string name="not_draw_gesturn">Пожалуйста, сперва задайте жест.</string>
-     <string name="notask">Do not ask again</string>
+     <string name="notask">Больше не спрашивать</string>
      <string name="notifi_center_ask">Блокировать уведомление?</string>
      <string name="notifi_center_block_toast">Уведомление заблокировано. Вы можете разблокировать его в центре уведомлений.</string>
      <string name="notifi_center_cancel">Отмена</string>
@@ -215,8 +215,8 @@
      <string name="oppo_charging_full_title">Заряжено</string>
      <string name="oppo_close_notification_dialog_content">Notification from:%1$s
 Block notification?</string>
-     <string name="oppo_date_format">E, MMM d</string>
-     <string name="oppo_day_month">д MMMM</string>
+     <string name="oppo_date_format">E, d MMM</string>
+     <string name="oppo_day_month">d MMMM</string>
      <string name="oppo_enter_battery_using">Использование батареи</string>
      <string name="oppo_force_remove_title">USB storage device removed unexpectedly</string>
      <string name="oppo_handshank">手柄已连接</string>
@@ -252,7 +252,7 @@ Block notification?</string>
      <string name="screenshot_saving_title">Сохранение...</string>
      <string name="screenshots_filepath">屏幕截图</string>
      <string name="shield_this_notification">Block this type of notification</string>
-     <string name="show_on_statusbar">Show in status bar</string>
+     <string name="show_on_statusbar">Показать в строке состояния</string>
      <string name="sim_switch_tip">Эта SIM-карта была назначена картой по-умолчанию для %s. Удерживайте и тащите вниз строку состаяния для изменения SIM-карты по-умолчанию.</string>
      <string name="slotname_1">Карта WCDMA</string>
      <string name="slotname_2">GSM карта</string>
@@ -264,18 +264,18 @@ Block notification?</string>
      <string name="state_button_3g">3G</string>
      <string name="state_button_airplane">Реж. пол.</string>
      <string name="state_button_bluetooth">Bluetooth</string>
-     <string name="state_button_brightness">Яркость</string>
-     <string name="state_button_brightness_manual">Manual</string>
+     <string name="state_button_brightness">Авто</string>
+     <string name="state_button_brightness_manual">Яркость</string>
      <string name="state_button_gps">GPS</string>
      <string name="state_button_holidaymode">Режим каникул</string>
-     <string name="state_button_netdata">Данные</string>
+     <string name="state_button_netdata">Интернет</string>
      <string name="state_button_nfc">NFC</string>
      <string name="state_button_powersavingmode">Режим энергосбережения</string>
      <string name="state_button_program">Програм.</string>
      <string name="state_button_ring">Звук</string>
      <string name="state_button_ringmode_normal">Сигнал вызова</string>
      <string name="state_button_ringmode_vibrate">Вибрация</string>
-     <string name="state_button_screenlock">Lock now</string>
+     <string name="state_button_screenlock">Блокировка</string>
      <string name="state_button_screenroate">Поворот
 экрана</string>
      <string name="state_button_silence">Без звука</string>
@@ -365,7 +365,6 @@ Block notification?</string>
 no need to change its status</string>
      <string name="system_notification_first">This notification is from the system</string>
      <string name="system_notification_second">no need to change its status</string>
-     <string name="tag_drag_view">drag_view</string>
      <string name="timeout">Режим ожидания</string>
      <string name="title_usb_accessory">USB-устройство</string>
      <string name="twelve_hour_time_format">h:mm</string>
