@@ -290,7 +290,7 @@
      <string name="delete_contacts_warnning">Эта операция приведет к удалению всех контактов из выбранной телефонной книги. Продолжить?</string>
      <string name="delete_description">Удалить</string>
      <string name="delete_group">Удалить группу</string>
-     <string name="delete_group_dialog_message">Действительно удалить группу "%1$s"? (Контакты не будут удалены.)</string>
+     <string name="delete_group_dialog_message">Действительно удалить группу "%1$s"? (контакты не будут удалены)</string>
      <string name="delete_group_dialog_title">Удалить группу</string>
      <string name="delete_my_card">Мои данные будут удалены</string>
      <string name="delete_my_card_title">Удалить мои данные?</string>
@@ -299,7 +299,7 @@
      <string name="delete_selected">Удалить контакт</string>
      <string name="delete_selected_contacts">Подтверждите удалить отметимые контакты?</string>
      <string name="delete_succeed_string">Удалено!</string>
-     <string name="delete_too_many_contacts">Слишком много контаков. Удалите часть из них</string>
+     <string name="delete_too_many_contacts">Слишком много контаков. Удалите часть из них.</string>
      <string name="description_add_contact">Добавить контакт</string>
      <string name="description_call">Позвонить: %1$s</string>
      <string name="description_call_log_incoming_call">Входящий вызов</string>
@@ -354,7 +354,7 @@
      <string name="dialog_new_group_account">Создание группы в аккаунте</string>
      <string name="dialog_phone_call_prohibited_title">Вызов невозможен</string>
      <string name="dialog_sync_add">Добавить группу синхронизации</string>
-     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите "Меню > Настройки".</string>
+     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, выберите меню > настройки</string>
      <string name="dialog_voicemail_not_ready_title">Номер голосовой почты недоступен</string>
      <string name="dialpad_input_error_alert">Номер некорректен, введите правильный номер!</string>
      <string name="dialpad_query_contacts_or">или</string>
@@ -379,7 +379,7 @@
      <string name="display_setting">Отображаемые контакты</string>
      <string name="display_settings_summary">Нажать для просмотра статуса отображения контактов</string>
      <string name="display_ungrouped">Все контакты</string>
-     <string name="display_warn_remove_ungrouped">Вместе с группой "%s" перестанут синхронизироваться контакты, не добавленные в группы.</string>
+     <string name="display_warn_remove_ungrouped">Вместе с группой "%s" перестанут синхронизироваться контакты, не добавленные в группы</string>
      <string name="drag_view">drag_view</string>
      <string name="editContactDescription">Изменить контакт</string>
      <string name="editGroupDescription">Изменение группы</string>
@@ -428,7 +428,7 @@
      <string name="export_to_sdcard">Экспорт на накопитель</string>
      <string name="exporting_cancelled_message">Отменено, экспортированных контактов %1$s</string>
      <string name="exporting_contact_failed_message">Не удалось экспортировать данные.
-Причина: %s</string>
+Причина: %s.</string>
      <string name="exporting_contact_failed_title">Сбой экспорта</string>
      <string name="exporting_contact_list_message">Экспортирование контактов в: %s</string>
      <string name="exporting_contact_list_progress">Контакт %1$s из %2$s</string>
@@ -437,19 +437,19 @@
      <string name="exporting_vcard_finished_title">Экспорт файла "%s" завершен.</string>
      <string name="external_profile_title">Мой профиль %1$s</string>
      <string name="external_sd_name">SD-карта</string>
-     <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s</string>
-     <string name="fail_reason_could_not_open_file">Не открывается '%1$s': %2$s.</string>
-     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s</string>
-     <string name="fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаданные файлов VCard.</string>
-     <string name="fail_reason_failed_to_read_files">Не удалось импортировать один или несколько файлов (%s).</string>
+     <string name="fail_reason_could_not_initialize_exporter">Не удалось запустить функцию экспорта. Причина: %s.</string>
+     <string name="fail_reason_could_not_open_file">Не открывается '%1$s': %2$s</string>
+     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте. Причина: %s.</string>
+     <string name="fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаданные файлов VCard</string>
+     <string name="fail_reason_failed_to_read_files">Не удалось импортировать один или несколько файлов (%s)</string>
      <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
      <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
-     <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта.</string>
-     <string name="fail_reason_not_supported">Формат не поддерживается.</string>
-     <string name="fail_reason_too_long_filename">Слишком длинное название: %s.</string>
-     <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте.</string>
+     <string name="fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
+     <string name="fail_reason_not_supported">Формат не поддерживается</string>
+     <string name="fail_reason_too_long_filename">Слишком длинное название: %s</string>
+     <string name="fail_reason_too_many_vcard">Слишком много файлов VCard на SD-карте</string>
      <string name="fail_reason_unknown">Неизвестная ошибка</string>
-     <string name="fail_reason_vcard_parse_error">Не удалось проанализировать файл vCard.</string>
+     <string name="fail_reason_vcard_parse_error">Не удалось проанализировать файл vCard</string>
      <string name="favoritesFrequentCalled">Часто вызываемые</string>
      <string name="favoritesFrequentContacted">Часто набираемые</string>
      <string name="file_format_label">Формат файла</string>
@@ -470,11 +470,11 @@
      <string name="google_group_coworkers">Коллеги</string>
      <string name="google_group_family">Семья</string>
      <string name="google_group_friends">Друзья</string>
-     <string name="groupSavedErrorToast">Не удалось сохранить изменения.</string>
-     <string name="groupSavedToast">Группа сохранена.</string>
+     <string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
+     <string name="groupSavedToast">Группа сохранена</string>
      <string name="group_edit_field_hint_text">Не добавлено в группе</string>
      <string name="group_name_hint">Название группы</string>
-     <string name="group_read_only">Здесь доступно только для чтения.</string>
+     <string name="group_read_only">Здесь доступно только для чтения</string>
      <string name="groupsLabel">Группы</string>
      <string name="has_add_to_black_list">Внесен в черный список</string>
      <string name="has_remove_from_black_list">Удален из черного списка</string>
@@ -563,7 +563,7 @@
      <string name="menu_call">Позвонить</string>
      <string name="menu_callNumber">Набор %s</string>
      <string name="menu_contacts_filter">Фильтр контактов</string>
-     <string name="menu_copyContact">Копировать в "Мои контакты"</string>
+     <string name="menu_copyContact">Копировать в мои контакты</string>
      <string name="menu_copy_contact">Копировать контакты</string>
      <string name="menu_deleteContact">Удалить</string>
      <string name="menu_deleteGroup">Удалить</string>
@@ -751,7 +751,7 @@
      <string name="operation_failed">Операция прервана</string>
      <string name="operation_finished">Завершено</string>
      <string name="operation_success">Операция завершена</string>
-     <string name="oppo_3g_switch_title">Enable 3G</string>
+     <string name="oppo_3g_switch_title">Включить 3G</string>
      <string name="oppo_4g_switch_title">4G/2G and only 2G switch</string>
      <string name="oppo_Location">Расположение номера</string>
      <string name="oppo_account_name_as_all">Все</string>
@@ -920,7 +920,7 @@
      <string name="oppo_msg_sucess_import">Импортировано %1$s контактов</string>
      <string name="oppo_msg_switch_send_vcard_via_mms">Превышен предел длины сообщения, автоматически преобразуется в MMS.</string>
      <string name="oppo_nearme">NearMe аккаунт</string>
-     <string name="oppo_no_file_to_import">No file to import</string>
+     <string name="oppo_no_file_to_import">Нет файлов для импорта</string>
      <string name="oppo_no_number_of_contacts">Нет номера</string>
      <string name="oppo_no_special_contacts">Нет избранных контактов</string>
      <string name="oppo_one_ring_tone">Один раз</string>
@@ -999,7 +999,7 @@
      <string name="oppo_summary_link_add_contact">Выберите контакт для связи с этим контактом</string>
      <string name="oppo_sync_login">Войти</string>
      <string name="oppo_sync_register">Регистрация</string>
-     <string name="oppo_sync_show">Создайте резервную копию контактов, чтобы не потерять их.</string>
+     <string name="oppo_sync_show">Создайте резервную копию контактов, чтобы не потерять их</string>
      <string name="oppo_sys_group_account_name">OPPO_DEFAULT_GROUP</string>
      <string name="oppo_sys_group_account_type">OPPO_DEVICE_ONLY</string>
      <string name="oppo_taost_importing_is_running">Импорт, пожалуйста, подождите минуту</string>

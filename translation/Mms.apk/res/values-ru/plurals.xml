@@ -12,8 +12,8 @@
         <item quantity="other">Результатов "%2$s" (%1$s)</item>
      </plurals>
      <plurals name="slide_duration">
-        <item quantity="few">%sс.</item>
-        <item quantity="one">%sс.</item>
-        <item quantity="other">%sс.</item>
+        <item quantity="few">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="other">%s с.</item>
      </plurals>
 </resources>
