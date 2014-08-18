@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string-array name="inlay_wallpapers">
-        <item>inlay_wallpaper0</item>
-        <item>inlay_wallpaper1</item>
-        <item>inlay_wallpaper2</item>
-        <item>inlay_wallpaper3</item>
-        <item>inlay_wallpaper4</item>
-        <item>inlay_wallpaper5</item>
-        <item>inlay_wallpaper6</item>
-        <item>inlay_wallpaper7</item>
-     </string-array>
      <string-array name="inlay_wallpapers_name">
         <item>Сияющее Озеро</item>
         <item>Саншайн Харбор</item>
@@ -20,25 +10,5 @@
         <item>Прованс</item>
         <item>Дух Цвета</item>
         <item>Древо Жизни</item>
-     </string-array>
-     <string-array name="inlay_wallpapers_size">
-        <item>3.54MB</item>
-        <item>4.08MB</item>
-        <item>1.66MB</item>
-        <item>1.87MB</item>
-        <item>1.80MB</item>
-        <item>4.75MB</item>
-        <item>1.47MB</item>
-        <item>1.33MB</item>
-     </string-array>
-     <string-array name="inlay_wallpapers_thumb">
-        <item>inlay_wallpaper0_thumb</item>
-        <item>inlay_wallpaper1_thumb</item>
-        <item>inlay_wallpaper2_thumb</item>
-        <item>inlay_wallpaper3_thumb</item>
-        <item>inlay_wallpaper4_thumb</item>
-        <item>inlay_wallpaper5_thumb</item>
-        <item>inlay_wallpaper6_thumb</item>
-        <item>inlay_wallpaper7_thumb</item>
      </string-array>
 </resources>
